@@ -1,0 +1,68 @@
+{
+  "generated_at": "2026-06-14T19:43:15.930546+00:00",
+  "window_start": "2026-06-15",
+  "window_end": "2026-06-16",
+  "source": "Pickx via iptv-org/epg",
+  "watchlist_size": 14,
+  "watchlist": [
+    "Kathryn Bigelow",
+    "Howard Hawks",
+    "Ernst Lubitsch",
+    "Frank Capra",
+    "Preston Sturges",
+    "Nicole Garcia",
+    "Philippe de Broca",
+    "Mario Monicelli",
+    "David Fincher",
+    "Olivia Newman",
+    "Denis Villeneuve",
+    "Christopher Nolan",
+    "Billy Wilder",
+    "Fernando Trueba"
+  ],
+  "count": 2,
+  "programmes": [
+    {
+      "start": "2026-06-15T14:47:00+00:00",
+      "stop": "2026-06-15T17:11:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-16T06:01:00+00:00",
+      "stop": "2026-06-16T08:25:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "Cinéma"
+    }
+  ]
+}
