@@ -22,11 +22,6 @@
   <channel site="pickx.be" lang="nl" xmltv_id="VTM.be@HD" site_id="UID50297">VTM</channel>
   <channel site="pickx.be" lang="nl" xmltv_id="VTM2.be@HD" site_id="UID0039">VTM 2</channel>
   
-  <!-- Chaînes néerlandaises -->
-  <channel site="pickx.be" lang="nl" xmltv_id="NPO1.nl@HD" site_id="UID0256">NPO 1</channel>
-  <channel site="pickx.be" lang="nl" xmltv_id="NPO2.nl@HD" site_id="UID0257">NPO 2</channel>
-  <channel site="pickx.be" lang="nl" xmltv_id="NPO3.nl@HD" site_id="UID0258">NPO 3</channel>
-  
   <!-- Chaîne britannique -->
   <channel site="pickx.be" lang="en" xmltv_id="BBCTwo.uk@HD" site_id="UID2356">BBC Two</channel>
   
