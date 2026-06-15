@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-15T18:14:44.429672+00:00",
+  "generated_at": "2026-06-15T19:55:27.528348+00:00",
   "window_start": "2026-06-14",
   "window_end": "2026-06-21",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 19,
+  "watchlist_size": 21,
   "watchlist": [
     "Kathryn Bigelow",
     "Howard Hawks",
@@ -23,6 +23,8 @@
     "Alfred Hitchcock",
     "Sydney Pollack",
     "Blake Edwards",
+    "Guy Ritchie",
+    "Harold Ramis",
     "Fernando Trueba"
   ],
   "count": 5,
