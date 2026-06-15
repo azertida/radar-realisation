@@ -624,6 +624,14 @@ function render() {
   if (!state.data) return;
   
   let programmes = state.data.programmes || [];
+  
+  // Filtre temporel : on cache les programmes dont la diffusion est terminée
+  const now = new Date();
+  programmes = programmes.filter(p => {
+    if (!p.stop) return true; // sécurité : si pas de stop, on garde
+    return new Date(p.stop) > now;
+  });
+  
   if (state.hideSeen) {
     programmes = programmes.filter(p => !state.seen.has(seenKey(p)));
   }
