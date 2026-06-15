@@ -22,7 +22,8 @@
   <channel site="pickx.be" lang="nl" xmltv_id="VTM.be@HD" site_id="UID50297">VTM</channel>
   <channel site="pickx.be" lang="nl" xmltv_id="VTM2.be@HD" site_id="UID0039">VTM 2</channel>
   
-  <!-- Chaîne britannique -->
+  <!-- Chaînes britanniques -->
+  <channel site="pickx.be" lang="en" xmltv_id="BBCOne.uk@HD" site_id="UID2355">BBC One</channel>
   <channel site="pickx.be" lang="en" xmltv_id="BBCTwo.uk@HD" site_id="UID2356">BBC Two</channel>
   
   <!-- Chaînes italiennes -->
