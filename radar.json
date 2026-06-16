@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T20:38:56.602432+00:00",
-  "window_start": "2026-06-14",
+  "generated_at": "2026-06-16T16:18:44.675177+00:00",
+  "window_start": "2026-06-15",
   "window_end": "2026-06-21",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
@@ -27,50 +27,8 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 5,
+  "count": 3,
   "programmes": [
-    {
-      "start": "2026-06-14T11:25:00+00:00",
-      "stop": "2026-06-14T13:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Strangers on a Train",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Farley Granger",
-        "Robert Walker",
-        "Ruth Roman",
-        "Leo G. Carroll",
-        "Patricia Hitchcock",
-        "Marion Lorne"
-      ],
-      "description": "A deranged socialite accosts a tennis star with his theory that if two strangers trade murders, they can disguise their motives and avoid suspicion.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-06-14T13:00:00+00:00",
-      "stop": "2026-06-14T14:45:00+00:00",
-      "channel": "BBC Two",
-      "title": "Dial M for Murder",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Ray Milland",
-        "Grace Kelly",
-        "Robert Cummings",
-        "John Williams",
-        "Anthony Dawson",
-        "Leo Britt"
-      ],
-      "description": "An ex-tennis pro carries out a plot to have his wife murdered after discovering she is having an affair, and assumes she will soon leave him for the other man anyway. When things go wrong, he improvises a new plan—to frame her for murder instead. Now Wendice must frantically scheme to outwit the police and avoid having his plot detected.",
-      "category": "Movies"
-    },
     {
       "start": "2026-06-15T14:47:00+00:00",
       "stop": "2026-06-15T17:11:00+00:00",
