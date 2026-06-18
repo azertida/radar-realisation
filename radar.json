@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T18:04:26.105233+00:00",
-  "window_start": "2026-06-16",
+  "generated_at": "2026-06-18T16:49:24.974388+00:00",
+  "window_start": "2026-06-21",
   "window_end": "2026-06-21",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
@@ -27,32 +27,11 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 2,
+  "count": 1,
   "programmes": [
     {
-      "start": "2026-06-16T06:01:00+00:00",
-      "stop": "2026-06-16T08:25:00+00:00",
-      "channel": "Action",
-      "title": "Chouans !",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Philippe Noiret",
-        "Vincent Schmitt",
-        "Raoul Billerey",
-        "Claudine Delvaux",
-        "Jean Parédès",
-        "Sophie Marceau"
-      ],
-      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
-      "category": "Cinéma"
-    },
-    {
       "start": "2026-06-21T23:45:00+00:00",
-      "stop": "2026-06-22T01:25:00+00:00",
+      "stop": "2026-06-22T01:20:00+00:00",
       "channel": "Arte",
       "title": "They Shot the Piano player",
       "subtitle": "",
