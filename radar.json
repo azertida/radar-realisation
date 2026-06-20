@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T17:07:36.297783+00:00",
+  "generated_at": "2026-06-20T12:14:27.660889+00:00",
   "window_start": "2026-06-21",
-  "window_end": "2026-06-21",
+  "window_end": "2026-06-26",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
   "watchlist": [
@@ -27,7 +27,7 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 1,
+  "count": 3,
   "programmes": [
     {
       "start": "2026-06-21T23:45:00+00:00",
@@ -43,6 +43,48 @@
       "actors": [],
       "description": "New York, 2010. Jeff Harris, journaliste musical, cherche à découvrir la vérité sur Francisco Tenório Júnior, un jeune pianiste brésilien de samba-jazz disparu à Buenos Aires le 18 mars 1976. Tout en célébrant le mouvement musical latino Bossa Nova, le film capture une période éphémère regorgeant de liberté créatrice à un tournant de l'histoire de l'Amérique Latine dans les années 60 et 70, juste avant que le continent ne soit englouti par des régimes totalitaires.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-06-26T18:30:00+00:00",
+      "stop": "2026-06-26T21:10:00+00:00",
+      "channel": "VTM 2",
+      "title": "Gladiator",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen",
+        "Oliver Reed",
+        "Richard Harris",
+        "Derek Jacobi"
+      ],
+      "description": "Generaal Maximus is een prima veldheer en de vertrouweling van keizer Marcus Aurelius. Wanneer de keizer onverwachts sterft, volgt diens zoon Commodus hem op. De afgunstige Commodus vreest zijn macht aan Maximus te verliezen en geeft opdracht hem en zijn familie om te brengen. Maximus ontsnapt, maar belandt bij slavenhandelaars, die hem opleiden tot gladiator.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-06-26T22:00:00+00:00",
+      "stop": "2026-06-26T23:45:00+00:00",
+      "channel": "BBC Two",
+      "title": "Psycho",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Anthony Perkins",
+        "Janet Leigh",
+        "Vera Miles",
+        "John Gavin",
+        "Martin Balsam",
+        "John McIntire"
+      ],
+      "description": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother. Featuring one of the most iconic scenes in film history - the famous \"shower scene\", PSYCHO is \"still terrifying after all these years\" (Leonard Maltin's Classic Movie Guide).",
+      "category": "Movies"
     }
   ]
 }
