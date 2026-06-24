@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T17:22:17.646329+00:00",
-  "window_start": "2026-06-21",
+  "generated_at": "2026-06-24T12:38:19.598491+00:00",
+  "window_start": "2026-06-26",
   "window_end": "2026-06-28",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
@@ -27,23 +27,8 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 4,
+  "count": 3,
   "programmes": [
-    {
-      "start": "2026-06-21T23:45:00+00:00",
-      "stop": "2026-06-22T01:20:00+00:00",
-      "channel": "Arte",
-      "title": "They Shot the Piano player",
-      "subtitle": "",
-      "directors": [
-        "Fernando Trueba",
-        "Javier Mariscal"
-      ],
-      "matched_director": "Fernando Trueba",
-      "actors": [],
-      "description": "New York, 2010. Jeff Harris, journaliste musical, cherche à découvrir la vérité sur Francisco Tenório Júnior, un jeune pianiste brésilien de samba-jazz disparu à Buenos Aires le 18 mars 1976. Tout en célébrant le mouvement musical latino Bossa Nova, le film capture une période éphémère regorgeant de liberté créatrice à un tournant de l'histoire de l'Amérique Latine dans les années 60 et 70, juste avant que le continent ne soit englouti par des régimes totalitaires.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-06-26T18:30:00+00:00",
       "stop": "2026-06-26T21:10:00+00:00",
