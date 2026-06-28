@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T12:59:14.624333+00:00",
-  "window_start": "2026-06-26",
-  "window_end": "2026-06-28",
+  "generated_at": "2026-06-28T11:28:02.481167+00:00",
+  "window_start": "2026-06-28",
+  "window_end": "2026-07-04",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
   "watchlist": [
@@ -27,50 +27,8 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 3,
+  "count": 2,
   "programmes": [
-    {
-      "start": "2026-06-26T18:30:00+00:00",
-      "stop": "2026-06-26T21:10:00+00:00",
-      "channel": "VTM 2",
-      "title": "Gladiator",
-      "subtitle": "",
-      "directors": [
-        "Ridley Scott"
-      ],
-      "matched_director": "Ridley Scott",
-      "actors": [
-        "Russell Crowe",
-        "Joaquin Phoenix",
-        "Connie Nielsen",
-        "Oliver Reed",
-        "Richard Harris",
-        "Derek Jacobi"
-      ],
-      "description": "Generaal Maximus is een prima veldheer en de vertrouweling van keizer Marcus Aurelius. Wanneer de keizer onverwachts sterft, volgt diens zoon Commodus hem op. De afgunstige Commodus vreest zijn macht aan Maximus te verliezen en geeft opdracht hem en zijn familie om te brengen. Maximus ontsnapt, maar belandt bij slavenhandelaars, die hem opleiden tot gladiator.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-06-26T22:00:00+00:00",
-      "stop": "2026-06-26T23:45:00+00:00",
-      "channel": "BBC Two",
-      "title": "Psycho",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Anthony Perkins",
-        "Janet Leigh",
-        "Vera Miles",
-        "John Gavin",
-        "Martin Balsam",
-        "John McIntire"
-      ],
-      "description": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother. Featuring one of the most iconic scenes in film history - the famous \"shower scene\", PSYCHO is \"still terrifying after all these years\" (Leonard Maltin's Classic Movie Guide).",
-      "category": "Movies"
-    },
     {
       "start": "2026-06-28T21:30:00+00:00",
       "stop": "2026-06-28T23:20:00+00:00",
@@ -91,6 +49,27 @@
       ],
       "description": "A top secret combat unit of rogues and mavericks goes on a daring mission against the Nazis, ultimately changing the course of WWII and laying the foundation of modern black ops. Henry Cavill, Eiza Gonzalez. The top secret combat unit, composed of a motley crew of rogues and mavericks led by Gus March-Phillipps (Henry Cavill), goes on a daring mission against the Nazis using entirely unconventional and utterly \"ungentlemanly\" fighting techniques. Ultimately, the task force's audacious approach changed the course of the war and laid the foundation for the British SAS and modern black ops warfare.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-07-04T21:50:00+00:00",
+      "stop": "2026-07-05T00:05:00+00:00",
+      "channel": "VTM",
+      "title": "Tootsie",
+      "subtitle": "",
+      "directors": [
+        "Sydney Pollack"
+      ],
+      "matched_director": "Sydney Pollack",
+      "actors": [
+        "Dustin Hoffman",
+        "Jessica Lange",
+        "Teri Garr",
+        "Dabney Coleman",
+        "Charles Durning",
+        "Bill Murray"
+      ],
+      "description": "Wanneer de temperamentvolle acteur Michael geen nieuwe rollen meer krijgt, besluit hij een drastische stap te zetten. Hij verkleedt zich als vrouw en treedt op onder het pseudoniem van Dorothy Michaels. Dorothy krijgt meteen een hoofdrol in een succesvolle serie. Maar gaandeweg komt Michael in de problemen. Hij heeft immers een oogje op zijn knappe tegenspeelster die niets afweet van zijn dubbelrol.",
+      "category": "Films"
     }
   ]
 }
