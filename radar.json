@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T13:05:45.136697+00:00",
+  "generated_at": "2026-06-29T16:49:04.357939+00:00",
   "window_start": "2026-06-28",
-  "window_end": "2026-07-04",
+  "window_end": "2026-07-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
   "watchlist": [
@@ -27,7 +27,7 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 2,
+  "count": 3,
   "programmes": [
     {
       "start": "2026-06-28T21:30:00+00:00",
@@ -70,6 +70,27 @@
       ],
       "description": "Wanneer de temperamentvolle acteur Michael geen nieuwe rollen meer krijgt, besluit hij een drastische stap te zetten. Hij verkleedt zich als vrouw en treedt op onder het pseudoniem van Dorothy Michaels. Dorothy krijgt meteen een hoofdrol in een succesvolle serie. Maar gaandeweg komt Michael in de problemen. Hij heeft immers een oogje op zijn knappe tegenspeelster die niets afweet van zijn dubbelrol.",
       "category": "Films"
+    },
+    {
+      "start": "2026-07-05T21:00:00+00:00",
+      "stop": "2026-07-05T22:50:00+00:00",
+      "channel": "BBC Two",
+      "title": "Blade Runner",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Harrison Ford",
+        "Rutger Hauer",
+        "Sean Young",
+        "Daryl Hannah",
+        "William Sanderson",
+        "Edward James Olmos"
+      ],
+      "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans. Special police brigades, the Blade Runners, had orders to kill all those who had not complied with the sentence. But this was not called execution, it was called \"retirement.\" After a serious incident, former Blade Runner Rick Deckard is called back into service to find and \"retire\" some rogue Replicants.",
+      "category": "Movies"
     }
   ]
 }
