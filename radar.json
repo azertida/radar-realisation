@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T18:00:11.486025+00:00",
-  "window_start": "2026-06-28",
+  "generated_at": "2026-06-30T12:32:52.555442+00:00",
+  "window_start": "2026-07-04",
   "window_end": "2026-07-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
@@ -27,29 +27,8 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 3,
+  "count": 2,
   "programmes": [
-    {
-      "start": "2026-06-28T21:30:00+00:00",
-      "stop": "2026-06-28T23:20:00+00:00",
-      "channel": "BBC One",
-      "title": "The Ministry of Ungentlemanly Warfare",
-      "subtitle": "",
-      "directors": [
-        "Guy Ritchie"
-      ],
-      "matched_director": "Guy Ritchie",
-      "actors": [
-        "Henry Cavill",
-        "Alan Ritchson",
-        "Alex Pettyfer",
-        "Eiza González",
-        "Babs Olusanmokun",
-        "Cary Elwes"
-      ],
-      "description": "A top secret combat unit of rogues and mavericks goes on a daring mission against the Nazis, ultimately changing the course of WWII and laying the foundation of modern black ops. Henry Cavill, Eiza Gonzalez. The top secret combat unit, composed of a motley crew of rogues and mavericks led by Gus March-Phillipps (Henry Cavill), goes on a daring mission against the Nazis using entirely unconventional and utterly \"ungentlemanly\" fighting techniques. Ultimately, the task force's audacious approach changed the course of the war and laid the foundation for the British SAS and modern black ops warfare.",
-      "category": "Movies"
-    },
     {
       "start": "2026-07-04T21:50:00+00:00",
       "stop": "2026-07-05T00:05:00+00:00",
