@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-30T16:39:04.971493+00:00",
+  "generated_at": "2026-07-01T13:56:11.228103+00:00",
   "window_start": "2026-07-04",
-  "window_end": "2026-07-05",
+  "window_end": "2026-07-07",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
   "watchlist": [
@@ -27,7 +27,7 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 2,
+  "count": 3,
   "programmes": [
     {
       "start": "2026-07-04T21:50:00+00:00",
@@ -70,6 +70,27 @@
       ],
       "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans. Special police brigades, the Blade Runners, had orders to kill all those who had not complied with the sentence. But this was not called execution, it was called \"retirement.\" After a serious incident, former Blade Runner Rick Deckard is called back into service to find and \"retire\" some rogue Replicants.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-07-07T19:05:00+00:00",
+      "stop": "2026-07-07T20:50:00+00:00",
+      "channel": "France 5",
+      "title": "Tendre Poulet",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Annie Girardot",
+        "Philippe Noiret",
+        "Catherine Alric",
+        "Hubert Deschamps",
+        "Paulette Dubost",
+        "Roger Dumas"
+      ],
+      "description": "Lise Tanquerelle, commissaire à la ville, rencontre par hasard Antoine Lemercier, une vieille connaissance d'école, le jour où elle le renverse avec sa voiture. Il s'impose dans sa vie mouvementée, car Lise enquête sur des meurtres en série de plusieurs députés. Elle decouvre que tous fréquentaient la même callgirl... Ces retrouvailles donnent lieu à une relation naissance, mais Lise passe sous silence sa profession, Antoine n'a pas conservé de bon sourvenirs de jeunesse de la police. Parallèlement à cette romance naissante, Lise est chargée d'enquêter sur une série de meurtres étranges : en quelques jours, trois députés assassinés successivement avec le même modus operandi : un poinçon de sellerie planté dans le dos des victimes.",
+      "category": "Cinéma"
     }
   ]
 }
