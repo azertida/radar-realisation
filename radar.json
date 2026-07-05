@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T10:35:44.354243+00:00",
+  "generated_at": "2026-07-05T08:20:36.779313+00:00",
   "window_start": "2026-07-04",
-  "window_end": "2026-07-07",
+  "window_end": "2026-07-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
   "watchlist": [
@@ -27,7 +27,7 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 3,
+  "count": 5,
   "programmes": [
     {
       "start": "2026-07-04T21:50:00+00:00",
@@ -91,6 +91,48 @@
       ],
       "description": "Lise Tanquerelle, commissaire à la ville, rencontre par hasard Antoine Lemercier, une vieille connaissance d'école, le jour où elle le renverse avec sa voiture. Il s'impose dans sa vie mouvementée, car Lise enquête sur des meurtres en série de plusieurs députés. Elle decouvre que tous fréquentaient la même callgirl... Ces retrouvailles donnent lieu à une relation naissance, mais Lise passe sous silence sa profession, Antoine n'a pas conservé de bon sourvenirs de jeunesse de la police. Parallèlement à cette romance naissante, Lise est chargée d'enquêter sur une série de meurtres étranges : en quelques jours, trois députés assassinés successivement avec le même modus operandi : un poinçon de sellerie planté dans le dos des victimes.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-11T13:15:00+00:00",
+      "stop": "2026-07-11T15:25:00+00:00",
+      "channel": "BBC Two",
+      "title": "North by Northwest",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Cary Grant",
+        "Eva Marie Saint",
+        "James Mason",
+        "Jessie Royce Landis",
+        "Philip Ober",
+        "Martin Landau"
+      ],
+      "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-07-11T15:25:00+00:00",
+      "stop": "2026-07-11T17:30:00+00:00",
+      "channel": "BBC Two",
+      "title": "Vertigo",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "James Stewart",
+        "Kim Novak",
+        "Barbara Bel Geddes",
+        "Tom Helmore",
+        "Ellen Corby",
+        "Henry Jones"
+      ],
+      "description": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "category": "Movies"
     }
   ]
 }
