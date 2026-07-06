@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T10:50:45.363401+00:00",
-  "window_start": "2026-07-04",
-  "window_end": "2026-07-11",
+  "generated_at": "2026-07-06T09:03:44.217331+00:00",
+  "window_start": "2026-07-05",
+  "window_end": "2026-07-12",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
   "watchlist": [
@@ -29,27 +29,6 @@
   ],
   "count": 5,
   "programmes": [
-    {
-      "start": "2026-07-04T21:50:00+00:00",
-      "stop": "2026-07-05T00:00:00+00:00",
-      "channel": "VTM",
-      "title": "Tootsie",
-      "subtitle": "",
-      "directors": [
-        "Sydney Pollack"
-      ],
-      "matched_director": "Sydney Pollack",
-      "actors": [
-        "Dustin Hoffman",
-        "Jessica Lange",
-        "Teri Garr",
-        "Dabney Coleman",
-        "Charles Durning",
-        "Bill Murray"
-      ],
-      "description": "Wanneer de temperamentvolle acteur Michael geen nieuwe rollen meer krijgt, besluit hij een drastische stap te zetten. Hij verkleedt zich als vrouw en treedt op onder het pseudoniem van Dorothy Michaels. Dorothy krijgt meteen een hoofdrol in een succesvolle serie. Maar gaandeweg komt Michael in de problemen. Hij heeft immers een oogje op zijn knappe tegenspeelster die niets afweet van zijn dubbelrol.",
-      "category": "Films"
-    },
     {
       "start": "2026-07-05T21:00:00+00:00",
       "stop": "2026-07-05T22:50:00+00:00",
@@ -132,6 +111,27 @@
         "Henry Jones"
       ],
       "description": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-07-12T21:00:00+00:00",
+      "stop": "2026-07-12T23:50:00+00:00",
+      "channel": "BBC Two",
+      "title": "Oppenheimer",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Robert Downey Jr.",
+        "Matt Damon",
+        "Alden Ehrenreich",
+        "Scott Grimes"
+      ],
+      "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II. An unprecedented cinematic event, Oppenheimer features an all-star cast that includes Emily Blunt, Oscar? winner Matt Damon, Oscar? nominee Robert Downey Jr., Oscar? nominee Florence Pugh, Josh Hartnett, and Oscar? winners Casey Affleck, Rami Malek and Kenneth Branagh.",
       "category": "Movies"
     }
   ]
