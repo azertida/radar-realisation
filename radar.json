@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T12:28:54.648160+00:00",
-  "window_start": "2026-07-05",
+  "generated_at": "2026-07-07T08:46:59.286577+00:00",
+  "window_start": "2026-07-07",
   "window_end": "2026-07-12",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 21,
@@ -27,29 +27,8 @@
     "Harold Ramis",
     "Fernando Trueba"
   ],
-  "count": 5,
+  "count": 4,
   "programmes": [
-    {
-      "start": "2026-07-05T21:00:00+00:00",
-      "stop": "2026-07-05T22:50:00+00:00",
-      "channel": "BBC Two",
-      "title": "Blade Runner",
-      "subtitle": "",
-      "directors": [
-        "Ridley Scott"
-      ],
-      "matched_director": "Ridley Scott",
-      "actors": [
-        "Harrison Ford",
-        "Rutger Hauer",
-        "Sean Young",
-        "Daryl Hannah",
-        "William Sanderson",
-        "Edward James Olmos"
-      ],
-      "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans. Special police brigades, the Blade Runners, had orders to kill all those who had not complied with the sentence. But this was not called execution, it was called \"retirement.\" After a serious incident, former Blade Runner Rick Deckard is called back into service to find and \"retire\" some rogue Replicants.",
-      "category": "Movies"
-    },
     {
       "start": "2026-07-07T19:05:00+00:00",
       "stop": "2026-07-07T20:50:00+00:00",
