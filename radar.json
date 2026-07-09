@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T10:40:20.949822+00:00",
-  "window_start": "2026-07-07",
+  "generated_at": "2026-07-09T08:52:01.869161+00:00",
+  "window_start": "2026-07-11",
   "window_end": "2026-07-12",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 25,
@@ -31,29 +31,8 @@
     "Billy Wilder",
     "Fernando Trueba"
   ],
-  "count": 4,
+  "count": 3,
   "programmes": [
-    {
-      "start": "2026-07-07T19:05:00+00:00",
-      "stop": "2026-07-07T20:50:00+00:00",
-      "channel": "France 5",
-      "title": "Tendre Poulet",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Annie Girardot",
-        "Philippe Noiret",
-        "Catherine Alric",
-        "Hubert Deschamps",
-        "Paulette Dubost",
-        "Roger Dumas"
-      ],
-      "description": "Lise Tanquerelle, commissaire à la ville, rencontre par hasard Antoine Lemercier, une vieille connaissance d'école, le jour où elle le renverse avec sa voiture. Il s'impose dans sa vie mouvementée, car Lise enquête sur des meurtres en série de plusieurs députés. Elle decouvre que tous fréquentaient la même callgirl... Ces retrouvailles donnent lieu à une relation naissance, mais Lise passe sous silence sa profession, Antoine n'a pas conservé de bon sourvenirs de jeunesse de la police. Parallèlement à cette romance naissante, Lise est chargée d'enquêter sur une série de meurtres étranges : en quelques jours, trois députés assassinés successivement avec le même modus operandi : un poinçon de sellerie planté dans le dos des victimes.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-07-11T13:15:00+00:00",
       "stop": "2026-07-11T15:25:00+00:00",
