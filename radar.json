@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T11:31:15.620122+00:00",
+  "generated_at": "2026-07-11T07:22:13.961312+00:00",
   "window_start": "2026-07-11",
-  "window_end": "2026-07-12",
+  "window_end": "2026-07-17",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 25,
   "watchlist": [
@@ -31,7 +31,7 @@
     "Billy Wilder",
     "Fernando Trueba"
   ],
-  "count": 3,
+  "count": 4,
   "programmes": [
     {
       "start": "2026-07-11T13:15:00+00:00",
@@ -94,6 +94,27 @@
         "Scott Grimes"
       ],
       "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II. An unprecedented cinematic event, Oppenheimer features an all-star cast that includes Emily Blunt, Oscar? winner Matt Damon, Oscar? nominee Robert Downey Jr., Oscar? nominee Florence Pugh, Josh Hartnett, and Oscar? winners Casey Affleck, Rami Malek and Kenneth Branagh.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-07-17T22:05:00+00:00",
+      "stop": "2026-07-17T23:55:00+00:00",
+      "channel": "BBC Two",
+      "title": "Insomnia",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Al Pacino",
+        "Robin Williams",
+        "Hilary Swank",
+        "Maura Tierney",
+        "Martin Donovan",
+        "Nicky Katt"
+      ],
+      "description": "A sleep-deprived detective plays an intense cat-and-mouse game with a sly murderer in a remote Alaska town. Now, as an idealistic local detective (Hilary Swank) investigates the case, and the stakes rise, Dormer's sanity begins to falter.",
       "category": "Movies"
     }
   ]
