@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T10:12:10.889779+00:00",
-  "window_start": "2026-07-11",
-  "window_end": "2026-07-17",
+  "generated_at": "2026-07-13T08:30:15.514879+00:00",
+  "window_start": "2026-07-12",
+  "window_end": "2026-07-19",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 25,
   "watchlist": [
@@ -31,50 +31,8 @@
     "Billy Wilder",
     "Fernando Trueba"
   ],
-  "count": 4,
+  "count": 3,
   "programmes": [
-    {
-      "start": "2026-07-11T13:15:00+00:00",
-      "stop": "2026-07-11T15:25:00+00:00",
-      "channel": "BBC Two",
-      "title": "North by Northwest",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Cary Grant",
-        "Eva Marie Saint",
-        "James Mason",
-        "Jessie Royce Landis",
-        "Philip Ober",
-        "Martin Landau"
-      ],
-      "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-07-11T15:25:00+00:00",
-      "stop": "2026-07-11T17:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "Vertigo",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "James Stewart",
-        "Kim Novak",
-        "Barbara Bel Geddes",
-        "Tom Helmore",
-        "Ellen Corby",
-        "Henry Jones"
-      ],
-      "description": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-      "category": "Movies"
-    },
     {
       "start": "2026-07-12T21:00:00+00:00",
       "stop": "2026-07-12T23:50:00+00:00",
@@ -116,6 +74,27 @@
       ],
       "description": "A sleep-deprived detective plays an intense cat-and-mouse game with a sly murderer in a remote Alaska town. Now, as an idealistic local detective (Hilary Swank) investigates the case, and the stakes rise, Dormer's sanity begins to falter.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-07-19T19:30:00+00:00",
+      "stop": "2026-07-19T21:22:00+00:00",
+      "channel": "VRT Canvas",
+      "title": "Alien",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Sigourney Weaver",
+        "Tom Skerritt",
+        "Veronica Cartwright",
+        "Harry Dean Stanton",
+        "John Hurt",
+        "Ian Holm"
+      ],
+      "description": "Het Amerikaanse ruimteschip Nostromo maakt zich klaar voor de terugkeer naar de aarde. Wanneer de bemanning uit een kunstmatige slaap ontwaakt, vangt de boordcomputer een noodsignaal op van een onbekende planeet. De bemanning besluit de zaak uit te pluizen en de Nostromo zet koers naar de mysterieuze planeet. De crew beseft evenwel niet dat hun een akelige nachtmerrie te wachten staat.",
+      "category": "Films"
     }
   ]
 }
