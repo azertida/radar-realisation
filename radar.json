@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T11:42:54.547638+00:00",
-  "window_start": "2026-07-12",
+  "generated_at": "2026-07-14T07:23:22.404694+00:00",
+  "window_start": "2026-07-17",
   "window_end": "2026-07-19",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 25,
@@ -31,29 +31,8 @@
     "Billy Wilder",
     "Fernando Trueba"
   ],
-  "count": 3,
+  "count": 2,
   "programmes": [
-    {
-      "start": "2026-07-12T21:00:00+00:00",
-      "stop": "2026-07-12T23:50:00+00:00",
-      "channel": "BBC Two",
-      "title": "Oppenheimer",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "matched_director": "Christopher Nolan",
-      "actors": [
-        "Cillian Murphy",
-        "Emily Blunt",
-        "Robert Downey Jr.",
-        "Matt Damon",
-        "Alden Ehrenreich",
-        "Scott Grimes"
-      ],
-      "description": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II. An unprecedented cinematic event, Oppenheimer features an all-star cast that includes Emily Blunt, Oscar? winner Matt Damon, Oscar? nominee Robert Downey Jr., Oscar? nominee Florence Pugh, Josh Hartnett, and Oscar? winners Casey Affleck, Rami Malek and Kenneth Branagh.",
-      "category": "Movies"
-    },
     {
       "start": "2026-07-17T22:05:00+00:00",
       "stop": "2026-07-17T23:55:00+00:00",
