@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T10:04:38.008260+00:00",
-  "window_start": "2026-07-17",
-  "window_end": "2026-07-22",
+  "generated_at": "2026-07-19T07:37:42.910870+00:00",
+  "window_start": "2026-07-19",
+  "window_end": "2026-07-25",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 25,
   "watchlist": [
@@ -33,27 +33,6 @@
   ],
   "count": 3,
   "programmes": [
-    {
-      "start": "2026-07-17T22:05:00+00:00",
-      "stop": "2026-07-17T23:55:00+00:00",
-      "channel": "BBC Two",
-      "title": "Insomnia",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "matched_director": "Christopher Nolan",
-      "actors": [
-        "Al Pacino",
-        "Robin Williams",
-        "Hilary Swank",
-        "Maura Tierney",
-        "Martin Donovan",
-        "Nicky Katt"
-      ],
-      "description": "A sleep-deprived detective plays an intense cat-and-mouse game with a sly murderer in a remote Alaska town. Now, as an idealistic local detective (Hilary Swank) investigates the case, and the stakes rise, Dormer's sanity begins to falter.",
-      "category": "Movies"
-    },
     {
       "start": "2026-07-19T19:30:00+00:00",
       "stop": "2026-07-19T21:22:00+00:00",
@@ -94,6 +73,27 @@
         "Ralph Fiennes"
       ],
       "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-07-25T21:20:00+00:00",
+      "stop": "2026-07-25T23:45:00+00:00",
+      "channel": "BBC One",
+      "title": "Gladiator",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen",
+        "Oliver Reed",
+        "Richard Harris",
+        "Derek Jacobi"
+      ],
+      "description": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos. Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor. As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed. He escapes, but is captured by slave traders. Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
       "category": "Movies"
     }
   ]
