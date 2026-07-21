@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T11:27:18.101845+00:00",
-  "window_start": "2026-07-19",
+  "generated_at": "2026-07-21T07:45:00.751024+00:00",
+  "window_start": "2026-07-22",
   "window_end": "2026-07-26",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 25,
@@ -31,29 +31,8 @@
     "Billy Wilder",
     "Fernando Trueba"
   ],
-  "count": 4,
+  "count": 5,
   "programmes": [
-    {
-      "start": "2026-07-19T19:30:00+00:00",
-      "stop": "2026-07-19T21:20:00+00:00",
-      "channel": "VRT Canvas",
-      "title": "Alien",
-      "subtitle": "",
-      "directors": [
-        "Ridley Scott"
-      ],
-      "matched_director": "Ridley Scott",
-      "actors": [
-        "Sigourney Weaver",
-        "Tom Skerritt",
-        "Veronica Cartwright",
-        "Harry Dean Stanton",
-        "John Hurt",
-        "Ian Holm"
-      ],
-      "description": "Het Amerikaanse ruimteschip Nostromo maakt zich klaar voor de terugkeer naar de aarde. Wanneer de bemanning uit een kunstmatige slaap ontwaakt, vangt de boordcomputer een noodsignaal op van een onbekende planeet. De bemanning besluit de zaak uit te pluizen en de Nostromo zet koers naar de mysterieuze planeet. De crew beseft evenwel niet dat hun een akelige nachtmerrie te wachten staat.",
-      "category": "Films"
-    },
     {
       "start": "2026-07-22T21:40:00+00:00",
       "stop": "2026-07-22T23:45:00+00:00",
@@ -74,6 +53,48 @@
       ],
       "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-07-25T06:30:00+00:00",
+      "stop": "2026-07-25T08:30:00+00:00",
+      "channel": "RAI Tre",
+      "title": "I soliti ignoti",
+      "subtitle": "",
+      "directors": [
+        "Mario Monicelli"
+      ],
+      "matched_director": "Mario Monicelli",
+      "actors": [
+        "Vittorio Gassman",
+        "Marcello Mastroianni",
+        "Totò",
+        "Memmo Carotenuto",
+        "Renato Salvatori",
+        "Claudia Cardinale"
+      ],
+      "description": "Quando un ladruncolo di periferia viene arrestato, i suoi amici provano invano a farlo scarcerare. Nel tentativo vengono a sapere di un piano per svaligiare il Monte di Pietà architettato dal detenuto e decidono di metterlo in atto senza di lui. Prendono così lezioni da uno specialista di casseforti, ma la mancanza di esperienza li porta a commettere un errore grossolano. Troveranno però un modo per consolarsi...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-07-25T14:45:00+00:00",
+      "stop": "2026-07-25T17:00:00+00:00",
+      "channel": "RAI Tre",
+      "title": "El Dorado",
+      "subtitle": "",
+      "directors": [
+        "Howard Hawks"
+      ],
+      "matched_director": "Howard Hawks",
+      "actors": [
+        "John Wayne",
+        "Robert Mitchum",
+        "James Caan",
+        "Charlene Holt",
+        "Michele Carey",
+        "Arthur Hunnicutt"
+      ],
+      "description": "In qualità di sceriffo, J. P. Harrah ha il difficile compito di fare regnare l'ordine in una piccola cittadina, che si trova sotto il controllo di ricchi proprietari terrieri e di uomini d'affari privi di scrupoli. Il penultimo film di Hawks – prima di Rio Lobo (1970) – è una variazione sui temi e i personaggi di Un dollaro d'onore (1959), basata su una sceneggiatura scritta da Leigh Brackett, sua collaboratrice fin dai tempi di Il grande sonno (1946). Non è né una ripetizione né una parodia, ma semmai un'elegia sui vecchi tempi, sorvegliata dall'angelo custode dell'ironia. Per Hawks anche gli eroi invecchiano, ma lo sanno e non nascondono le proprie infermità dell'anima e del corpo.",
+      "category": "Cinéma"
     },
     {
       "start": "2026-07-25T21:20:00+00:00",
