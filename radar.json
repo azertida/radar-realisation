@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T10:52:11.176733+00:00",
-  "window_start": "2026-07-22",
+  "generated_at": "2026-07-24T07:44:37.089703+00:00",
+  "window_start": "2026-07-25",
   "window_end": "2026-07-26",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 25,
@@ -31,29 +31,8 @@
     "Billy Wilder",
     "Fernando Trueba"
   ],
-  "count": 5,
+  "count": 4,
   "programmes": [
-    {
-      "start": "2026-07-22T21:40:00+00:00",
-      "stop": "2026-07-22T23:45:00+00:00",
-      "channel": "BBC One",
-      "title": "The Hurt Locker",
-      "subtitle": "",
-      "directors": [
-        "Kathryn Bigelow"
-      ],
-      "matched_director": "Kathryn Bigelow",
-      "actors": [
-        "Jeremy Renner",
-        "Anthony Mackie",
-        "Brian Geraghty",
-        "David Morse",
-        "Evangeline Lilly",
-        "Ralph Fiennes"
-      ],
-      "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
-      "category": "Movies"
-    },
     {
       "start": "2026-07-25T06:30:00+00:00",
       "stop": "2026-07-25T08:30:00+00:00",
