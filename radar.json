@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T10:14:51.896574+00:00",
+  "generated_at": "2026-07-26T07:47:45.121640+00:00",
   "window_start": "2026-07-25",
-  "window_end": "2026-07-26",
+  "window_end": "2026-08-01",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 25,
   "watchlist": [
@@ -31,7 +31,7 @@
     "Billy Wilder",
     "Fernando Trueba"
   ],
-  "count": 4,
+  "count": 6,
   "programmes": [
     {
       "start": "2026-07-25T06:30:00+00:00",
@@ -116,6 +116,48 @@
       ],
       "description": "Romantische komedie van Billy Wilder.",
       "category": "Films"
+    },
+    {
+      "start": "2026-08-01T06:30:00+00:00",
+      "stop": "2026-08-01T08:30:00+00:00",
+      "channel": "RAI Tre",
+      "title": "I soliti ignoti",
+      "subtitle": "",
+      "directors": [
+        "Mario Monicelli"
+      ],
+      "matched_director": "Mario Monicelli",
+      "actors": [
+        "Vittorio Gassman",
+        "Marcello Mastroianni",
+        "Totò",
+        "Memmo Carotenuto",
+        "Renato Salvatori",
+        "Claudia Cardinale"
+      ],
+      "description": "Quando un ladruncolo di periferia viene arrestato, i suoi amici provano invano a farlo scarcerare. Nel tentativo vengono a sapere di un piano per svaligiare il Monte di Pietà architettato dal detenuto e decidono di metterlo in atto senza di lui. Prendono così lezioni da uno specialista di casseforti, ma la mancanza di esperienza li porta a commettere un errore grossolano. Troveranno però un modo per consolarsi...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-01T14:45:00+00:00",
+      "stop": "2026-08-01T17:00:00+00:00",
+      "channel": "RAI Tre",
+      "title": "El Dorado",
+      "subtitle": "",
+      "directors": [
+        "Howard Hawks"
+      ],
+      "matched_director": "Howard Hawks",
+      "actors": [
+        "John Wayne",
+        "Robert Mitchum",
+        "James Caan",
+        "Charlene Holt",
+        "Michele Carey",
+        "Arthur Hunnicutt"
+      ],
+      "description": "In qualità di sceriffo, J. P. Harrah ha il difficile compito di fare regnare l'ordine in una piccola cittadina, che si trova sotto il controllo di ricchi proprietari terrieri e di uomini d'affari privi di scrupoli. Il penultimo film di Hawks – prima di Rio Lobo (1970) – è una variazione sui temi e i personaggi di Un dollaro d'onore (1959), basata su una sceneggiatura scritta da Leigh Brackett, sua collaboratrice fin dai tempi di Il grande sonno (1946). Non è né una ripetizione né una parodia, ma semmai un'elegia sui vecchi tempi, sorvegliata dall'angelo custode dell'ironia. Per Hawks anche gli eroi invecchiano, ma lo sanno e non nascondono le proprie infermità dell'anima e del corpo.",
+      "category": "Cinéma"
     }
   ]
 }
