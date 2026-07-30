@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T11:07:38.763560+00:00",
-  "window_start": "2026-07-29",
-  "window_end": "2026-07-29",
+  "generated_at": "2026-07-30T07:44:45.217358+00:00",
+  "window_start": "2026-08-05",
+  "window_end": "2026-08-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 25,
   "watchlist": [
@@ -31,6 +31,28 @@
     "Billy Wilder",
     "Fernando Trueba"
   ],
-  "count": 0,
-  "programmes": []
+  "count": 1,
+  "programmes": [
+    {
+      "start": "2026-08-05T18:25:00+00:00",
+      "stop": "2026-08-05T20:55:00+00:00",
+      "channel": "VTM 2",
+      "title": "The Martian",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Matt Damon",
+        "Jessica Chastain",
+        "Kristen Wiig",
+        "Kate Mara",
+        "Jeff Daniels",
+        "Michael Peña"
+      ],
+      "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
+      "category": "Films"
+    }
+  ]
 }
