@@ -1,23 +1,27 @@
 {
-  "generated_at": "2026-07-30T18:24:50.965091+00:00",
+  "generated_at": "2026-07-30T19:10:56.494567+00:00",
   "window_start": "2026-08-05",
   "window_end": "2026-08-05",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 30,
+  "watchlist_size": 36,
   "watchlist": [
     "Jean-Jacques Beineix",
+    "Alan Alda",
     "Kathryn Bigelow",
+    "Timothy Busfield",
     "Frank Capra",
     "Nina Companeez",
     "Philippe de Broca",
     "Michel Deville",
     "Blake Edwards",
     "Nora Ephron",
+    "Paul Feig",
     "David Fincher",
     "Nicole Garcia",
     "Howard Hawks",
     "Alfred Hitchcock",
     "John Hughes",
+    "Brie Larson",
     "Ernst Lubitsch",
     "Mario Monicelli",
     "Olivia Newman",
@@ -29,14 +33,16 @@
     "Guy Ritchie",
     "Ridley Scott",
     "Coline Serreau",
+    "Ben Stiller",
     "Preston Sturges",
     "Jacques Tati",
     "Denis Villeneuve",
+    "John Wells",
     "Billy Wilder",
     "Hugh Wilson",
     "Fernando Trueba"
   ],
-  "count": 1,
+  "count": 2,
   "programmes": [
     {
       "start": "2026-08-05T18:25:00+00:00",
@@ -58,6 +64,28 @@
       ],
       "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
       "category": "Films"
+    },
+    {
+      "start": "2026-08-05T21:53:00+00:00",
+      "stop": "2026-08-05T22:39:00+00:00",
+      "channel": "TF1",
+      "title": "New York, Unité Spéciale",
+      "subtitle": "Affronter ses démons",
+      "directors": [
+        "Timothy Busfield",
+        "Dick Wolf"
+      ],
+      "matched_director": "Timothy Busfield",
+      "actors": [
+        "Mariska Hargitay",
+        "Ice-T",
+        "Kelli Giddish",
+        "Peter Scanavino",
+        "Philip Winchester",
+        "B.D. Wong"
+      ],
+      "description": "Une jeune femme prévient la police après avoir découvert son voisin, Michael Fuller, mort. Il semble que l'homme se soit suicidé. Mais la patrouille qui est intervenue fait appel à l'unité spéciale car ils ont découvert près du corps des photos de jeunes enfants dénudés. Les enquêteurs sont donc lancés sur la piste d'un pédophile présumé et le suicide pourrait bien être un meurtre.",
+      "category": "Séries"
     }
   ]
 }
