@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T19:10:56.494567+00:00",
+  "generated_at": "2026-07-31T08:12:21.654755+00:00",
   "window_start": "2026-08-05",
   "window_end": "2026-08-05",
   "source": "Pickx via iptv-org/epg",
@@ -42,7 +42,7 @@
     "Hugh Wilson",
     "Fernando Trueba"
   ],
-  "count": 2,
+  "count": 3,
   "programmes": [
     {
       "start": "2026-08-05T18:25:00+00:00",
@@ -86,6 +86,27 @@
       ],
       "description": "Une jeune femme prévient la police après avoir découvert son voisin, Michael Fuller, mort. Il semble que l'homme se soit suicidé. Mais la patrouille qui est intervenue fait appel à l'unité spéciale car ils ont découvert près du corps des photos de jeunes enfants dénudés. Les enquêteurs sont donc lancés sur la piste d'un pédophile présumé et le suicide pourrait bien être un meurtre.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-08-05T22:15:00+00:00",
+      "stop": "2026-08-06T00:19:00+00:00",
+      "channel": "RAI Due",
+      "title": "Sicario",
+      "subtitle": "",
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "matched_director": "Denis Villeneuve",
+      "actors": [
+        "Emily Blunt",
+        "Jon Bernthal",
+        "Josh Brolin",
+        "Benicio Del Toro",
+        "Jeffrey Donovan",
+        "Maximiliano Hernández"
+      ],
+      "description": "Kate, una giovane agente dell'FBI, viene chiamata a collaborare con una squadra incaricata di pattugliare un tratto caldo del confine tra USA e Messico e di catturare un noto e pericoloso capo dei narcos messicani. Con il passare del tempo la donna si renderà conto che molti dei membri dell'esercito non esiteranno a usare violenza gratuita e ad abusare del loro potere per mantenere il controllo della situazione... Guidati da un consulente dal passato discutibile, la squadra parte per una missione segreta che costringerà Kate a mettere in discussione tutto ciò in cui credeva, per poter sopravvivere.",
+      "category": "Cinéma"
     }
   ]
 }
