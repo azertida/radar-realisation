@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-31T11:10:33.581109+00:00",
+  "generated_at": "2026-07-31T21:27:28.151515+00:00",
   "window_start": "2026-08-05",
   "window_end": "2026-08-05",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 36,
+  "watchlist_size": 37,
   "watchlist": [
     "Jean-Jacques Beineix",
     "Alan Alda",
@@ -31,6 +31,7 @@
     "Rob Reiner",
     "Carl Reiner",
     "Guy Ritchie",
+    "Phil Alden Robinson",
     "Ridley Scott",
     "Coline Serreau",
     "Ben Stiller",
