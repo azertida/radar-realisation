@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-31T21:27:28.151515+00:00",
+  "generated_at": "2026-08-01T07:40:04.480797+00:00",
   "window_start": "2026-08-05",
-  "window_end": "2026-08-05",
+  "window_end": "2026-08-07",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 37,
+  "watchlist_size": 38,
   "watchlist": [
     "Jean-Jacques Beineix",
     "Alan Alda",
@@ -12,6 +12,7 @@
     "Frank Capra",
     "Nina Companeez",
     "Philippe de Broca",
+    "Jonathan Demme",
     "Michel Deville",
     "Blake Edwards",
     "Nora Ephron",
@@ -43,7 +44,7 @@
     "Hugh Wilson",
     "Fernando Trueba"
   ],
-  "count": 3,
+  "count": 4,
   "programmes": [
     {
       "start": "2026-08-05T18:25:00+00:00",
@@ -108,6 +109,27 @@
       ],
       "description": "Kate, una giovane agente dell'FBI, viene chiamata a collaborare con una squadra incaricata di pattugliare un tratto caldo del confine tra USA e Messico e di catturare un noto e pericoloso capo dei narcos messicani. Con il passare del tempo la donna si renderà conto che molti dei membri dell'esercito non esiteranno a usare violenza gratuita e ad abusare del loro potere per mantenere il controllo della situazione... Guidati da un consulente dal passato discutibile, la squadra parte per una missione segreta che costringerà Kate a mettere in discussione tutto ciò in cui credeva, per poter sopravvivere.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-07T20:40:00+00:00",
+      "stop": "2026-08-07T23:15:00+00:00",
+      "channel": "VTM 2",
+      "title": "Black Hawk Down",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Josh Hartnett",
+        "Ewan McGregor",
+        "Tom Sizemore",
+        "Eric Bana",
+        "Sam Shepard",
+        "Ewen Bremner"
+      ],
+      "description": "Mogadishu, 1993. De Somalische hoofdstad is in oproer. Een bloedige burgeroorlog heeft het land in een totale chaos gestort. De VS besluit de militaire leiders uit te schakelen en grijpt in. Maar de operatie loopt compleet in het honderd en de Amerikaanse elitetroepen krijgen het zwaar te verduren tijdens hevige straatgevechten.",
+      "category": "Films"
     }
   ]
 }
