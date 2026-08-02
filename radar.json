@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T10:21:00.854421+00:00",
+  "generated_at": "2026-08-02T07:43:06.833815+00:00",
   "window_start": "2026-08-05",
-  "window_end": "2026-08-07",
+  "window_end": "2026-08-08",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 38,
   "watchlist": [
@@ -44,7 +44,7 @@
     "Hugh Wilson",
     "Fernando Trueba"
   ],
-  "count": 4,
+  "count": 5,
   "programmes": [
     {
       "start": "2026-08-05T18:25:00+00:00",
@@ -68,7 +68,7 @@
       "category": "Films"
     },
     {
-      "start": "2026-08-05T21:53:00+00:00",
+      "start": "2026-08-05T21:54:00+00:00",
       "stop": "2026-08-05T22:39:00+00:00",
       "channel": "TF1",
       "title": "New York, Unité Spéciale",
@@ -129,6 +129,27 @@
         "Ewen Bremner"
       ],
       "description": "Mogadishu, 1993. De Somalische hoofdstad is in oproer. Een bloedige burgeroorlog heeft het land in een totale chaos gestort. De VS besluit de militaire leiders uit te schakelen en grijpt in. Maar de operatie loopt compleet in het honderd en de Amerikaanse elitetroepen krijgen het zwaar te verduren tijdens hevige straatgevechten.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-08-08T11:45:00+00:00",
+      "stop": "2026-08-08T14:10:00+00:00",
+      "channel": "VTM 2",
+      "title": "The Martian",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Matt Damon",
+        "Jessica Chastain",
+        "Kristen Wiig",
+        "Kate Mara",
+        "Jeff Daniels",
+        "Michael Peña"
+      ],
+      "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
       "category": "Films"
     }
   ]
