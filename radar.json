@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T17:06:26.536856+00:00",
+  "generated_at": "2026-08-03T08:45:59.895779+00:00",
   "window_start": "2026-08-05",
-  "window_end": "2026-08-08",
+  "window_end": "2026-08-09",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 38,
   "watchlist": [
@@ -44,7 +44,7 @@
     "Hugh Wilson",
     "Fernando Trueba"
   ],
-  "count": 5,
+  "count": 6,
   "programmes": [
     {
       "start": "2026-08-05T18:25:00+00:00",
@@ -151,6 +151,28 @@
       ],
       "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
       "category": "Films"
+    },
+    {
+      "start": "2026-08-09T11:20:00+00:00",
+      "stop": "2026-08-09T13:15:00+00:00",
+      "channel": "BBC Two",
+      "title": "The Man Who Knew Too Much",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock",
+        "Herbert Coleman"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "James Stewart",
+        "Doris Day",
+        "Brenda de Banzie",
+        "Bernard Miles",
+        "Ralph Truman",
+        "Daniel Gélin"
+      ],
+      "description": "A couple vacationing in Morocco with their young son accidentally stumble upon an assassination plot. When the child is kidnapped to ensure their silence, they have to take matters into their own hands to save him.",
+      "category": "Movies"
     }
   ]
 }
