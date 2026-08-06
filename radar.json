@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T07:58:02.993548+00:00",
+  "generated_at": "2026-08-06T11:06:29.479486+00:00",
   "window_start": "2026-08-05",
   "window_end": "2026-08-12",
   "source": "Pickx via iptv-org/epg",
@@ -111,8 +111,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-08-07T20:40:00+00:00",
-      "stop": "2026-08-07T23:15:00+00:00",
+      "start": "2026-08-07T20:35:00+00:00",
+      "stop": "2026-08-07T23:00:00+00:00",
       "channel": "VTM 2",
       "title": "Black Hawk Down",
       "subtitle": "",
