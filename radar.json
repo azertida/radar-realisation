@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T11:06:29.479486+00:00",
+  "generated_at": "2026-08-07T06:36:02.784546+00:00",
   "window_start": "2026-08-05",
-  "window_end": "2026-08-12",
+  "window_end": "2026-08-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 38,
   "watchlist": [
@@ -44,51 +44,8 @@
     "Hugh Wilson",
     "Fernando Trueba"
   ],
-  "count": 8,
+  "count": 5,
   "programmes": [
-    {
-      "start": "2026-08-05T18:25:00+00:00",
-      "stop": "2026-08-05T20:55:00+00:00",
-      "channel": "VTM 2",
-      "title": "The Martian",
-      "subtitle": "",
-      "directors": [
-        "Ridley Scott"
-      ],
-      "matched_director": "Ridley Scott",
-      "actors": [
-        "Matt Damon",
-        "Jessica Chastain",
-        "Kristen Wiig",
-        "Kate Mara",
-        "Jeff Daniels",
-        "Michael Peña"
-      ],
-      "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-08-05T21:55:00+00:00",
-      "stop": "2026-08-05T22:41:00+00:00",
-      "channel": "TF1",
-      "title": "New York, Unité Spéciale",
-      "subtitle": "Affronter ses démons",
-      "directors": [
-        "Timothy Busfield",
-        "Dick Wolf"
-      ],
-      "matched_director": "Timothy Busfield",
-      "actors": [
-        "Mariska Hargitay",
-        "Ice-T",
-        "Kelli Giddish",
-        "Peter Scanavino",
-        "Philip Winchester",
-        "B.D. Wong"
-      ],
-      "description": "Une jeune femme prévient la police après avoir découvert son voisin, Michael Fuller, mort. Il semble que l'homme se soit suicidé. Mais la patrouille qui est intervenue fait appel à l'unité spéciale car ils ont découvert près du corps des photos de jeunes enfants dénudés. Les enquêteurs sont donc lancés sur la piste d'un pédophile présumé et le suicide pourrait bien être un meurtre.",
-      "category": "Séries"
-    },
     {
       "start": "2026-08-05T23:05:00+00:00",
       "stop": "2026-08-06T00:57:00+00:00",
@@ -132,7 +89,7 @@
       "category": "Films"
     },
     {
-      "start": "2026-08-08T11:45:00+00:00",
+      "start": "2026-08-08T12:05:00+00:00",
       "stop": "2026-08-08T14:10:00+00:00",
       "channel": "VTM 2",
       "title": "The Martian",
@@ -193,27 +150,6 @@
         "Judith Evelyn"
       ],
       "description": "À cause d'une jambe cassée, le reporter-photographe L. B. Jefferies est contraint de rester chez lui dans un fauteuil roulant. Homme d'action et amateur d'aventures, il s'aperçoit qu'il peut tirer parti de son immobilité forcée en étudiant le comportement des habitants de l'immeuble qu'il occupe dans Greenwich Village. Et ses observations l'amènent à la conviction que Lars Thorwald, son voisin d'en face, a assassiné sa femme. Sa fiancée, Lisa Fremont, ne le prend tout d'abord pas au sérieux, ironisant sur l'excitation que lui procure sa surveillance, mais finit par se prendre au jeu.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-12T22:15:00+00:00",
-      "stop": "2026-08-12T23:55:00+00:00",
-      "channel": "RAI Due",
-      "title": "Sicario",
-      "subtitle": "",
-      "directors": [
-        "Denis Villeneuve"
-      ],
-      "matched_director": "Denis Villeneuve",
-      "actors": [
-        "Emily Blunt",
-        "Jon Bernthal",
-        "Josh Brolin",
-        "Benicio Del Toro",
-        "Jeffrey Donovan",
-        "Maximiliano Hernández"
-      ],
-      "description": "Kate, una giovane agente dell'FBI, viene chiamata a collaborare con una squadra incaricata di pattugliare un tratto caldo del confine tra USA e Messico e di catturare un noto e pericoloso capo dei narcos messicani. Con il passare del tempo la donna si renderà conto che molti dei membri dell'esercito non esiteranno a usare violenza gratuita e ad abusare del loro potere per mantenere il controllo della situazione... Guidati da un consulente dal passato discutibile, la squadra parte per una missione segreta che costringerà Kate a mettere in discussione tutto ciò in cui credeva, per poter sopravvivere.",
       "category": "Cinéma"
     }
   ]
