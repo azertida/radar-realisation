@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T09:21:41.974462+00:00",
-  "window_start": "2026-08-08",
+  "generated_at": "2026-08-10T06:44:28.335369+00:00",
+  "window_start": "2026-08-09",
   "window_end": "2026-08-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 38,
@@ -44,29 +44,8 @@
     "Hugh Wilson",
     "Fernando Trueba"
   ],
-  "count": 3,
+  "count": 2,
   "programmes": [
-    {
-      "start": "2026-08-08T12:05:00+00:00",
-      "stop": "2026-08-08T14:25:00+00:00",
-      "channel": "VTM 2",
-      "title": "The Martian",
-      "subtitle": "",
-      "directors": [
-        "Ridley Scott"
-      ],
-      "matched_director": "Ridley Scott",
-      "actors": [
-        "Matt Damon",
-        "Jessica Chastain",
-        "Kristen Wiig",
-        "Kate Mara",
-        "Jeff Daniels",
-        "Michael Peña"
-      ],
-      "description": "Mark Watney is een van de astronauten die tijdens een ruimtemissie wetenschappelijk onderzoek verricht op Mars. Maar na een hevige zandstorm wordt hij dood gewaand en door zijn team in de steek gelaten. Mark heeft de storm evenwel overleefd en blijft alleen achter op de onherbergzame planeet.",
-      "category": "Films"
-    },
     {
       "start": "2026-08-09T11:20:00+00:00",
       "stop": "2026-08-09T13:15:00+00:00",
