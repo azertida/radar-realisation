@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T10:01:35.224352+00:00",
-  "window_start": "2026-08-09",
+  "generated_at": "2026-08-11T06:07:19.607302+00:00",
+  "window_start": "2026-08-11",
   "window_end": "2026-08-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 38,
@@ -44,30 +44,8 @@
     "Hugh Wilson",
     "Fernando Trueba"
   ],
-  "count": 2,
+  "count": 1,
   "programmes": [
-    {
-      "start": "2026-08-09T11:20:00+00:00",
-      "stop": "2026-08-09T13:15:00+00:00",
-      "channel": "BBC Two",
-      "title": "The Man Who Knew Too Much",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock",
-        "Herbert Coleman"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "James Stewart",
-        "Doris Day",
-        "Brenda de Banzie",
-        "Bernard Miles",
-        "Ralph Truman",
-        "Daniel Gélin"
-      ],
-      "description": "A couple vacationing in Morocco with their young son accidentally stumble upon an assassination plot. When the child is kidnapped to ensure their silence, they have to take matters into their own hands to save him.",
-      "category": "Movies"
-    },
     {
       "start": "2026-08-11T19:00:00+00:00",
       "stop": "2026-08-11T20:50:00+00:00",
