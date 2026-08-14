@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T09:40:53.093536+00:00",
+  "generated_at": "2026-08-14T18:52:20.529276+00:00",
   "window_start": "2026-08-14",
   "window_end": "2026-08-14",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 38,
+  "watchlist_size": 39,
   "watchlist": [
     "Jean-Jacques Beineix",
     "Alan Alda",
@@ -27,6 +27,7 @@
     "Mario Monicelli",
     "Olivia Newman",
     "Christopher Nolan",
+    "Phillip Noyce",
     "Sydney Pollack",
     "Harold Ramis",
     "Rob Reiner",
@@ -38,12 +39,34 @@
     "Ben Stiller",
     "Preston Sturges",
     "Jacques Tati",
+    "Fernando Trueba",
     "Denis Villeneuve",
     "John Wells",
     "Billy Wilder",
-    "Hugh Wilson",
-    "Fernando Trueba"
+    "Hugh Wilson"
   ],
-  "count": 0,
-  "programmes": []
+  "count": 1,
+  "programmes": [
+    {
+      "start": "2026-08-14T18:30:00+00:00",
+      "stop": "2026-08-14T20:15:00+00:00",
+      "channel": "VTM 2",
+      "title": "Salt",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "matched_director": "Phillip Noyce",
+      "actors": [
+        "Scotty Dillin",
+        "Jose L. Rodriguez",
+        "Victor Slezak",
+        "Tika Sumpter",
+        "Nick Poltoranin",
+        "Angelina Jolie"
+      ],
+      "description": "Evelyn Salt zwoer aan het begin van haar carrière bij de CIA om haar vaderland tegen vijanden te beschermen. Wanneer een overgelopen Russische spion haar naam opgeeft als terroriste, wordt ze evenwel zelf als staatsvijand bestempeld. Evelyn weet maar al te goed waar haar medeagenten toe in staat zijn en vlucht. Ze zal al haar kunde moeten inzetten om haar collega's te slim af te zijn.",
+      "category": "Films"
+    }
+  ]
 }
