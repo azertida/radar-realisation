@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T08:59:10.820118+00:00",
-  "window_start": "2026-08-14",
-  "window_end": "2026-08-14",
+  "generated_at": "2026-08-16T05:47:11.432716+00:00",
+  "window_start": "2026-08-16",
+  "window_end": "2026-08-16",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 40,
   "watchlist": [
@@ -46,49 +46,6 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 2,
-  "programmes": [
-    {
-      "start": "2026-08-14T18:30:00+00:00",
-      "stop": "2026-08-14T20:15:00+00:00",
-      "channel": "VTM 2",
-      "title": "Salt",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "matched_director": "Phillip Noyce",
-      "actors": [
-        "Scotty Dillin",
-        "Jose L. Rodriguez",
-        "Victor Slezak",
-        "Tika Sumpter",
-        "Nick Poltoranin",
-        "Angelina Jolie"
-      ],
-      "description": "Evelyn Salt zwoer aan het begin van haar carrière bij de CIA om haar vaderland tegen vijanden te beschermen. Wanneer een overgelopen Russische spion haar naam opgeeft als terroriste, wordt ze evenwel zelf als staatsvijand bestempeld. Evelyn weet maar al te goed waar haar medeagenten toe in staat zijn en vlucht. Ze zal al haar kunde moeten inzetten om haar collega's te slim af te zijn.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-08-14T20:55:00+00:00",
-      "stop": "2026-08-14T23:06:00+00:00",
-      "channel": "VRT Canvas",
-      "title": "25th Hour",
-      "subtitle": "",
-      "directors": [
-        "Spike Lee"
-      ],
-      "matched_director": "Spike Lee",
-      "actors": [
-        "Edward Norton",
-        "Barry Pepper",
-        "Philip Seymour Hoffman",
-        "Rosario Dawson",
-        "Anna Paquin",
-        "Brian Cox"
-      ],
-      "description": "De film vertelt over de laatste vrije dag van Monty Brogan, voor hij zeven jaar de gevangenis in moet wegens het dealen van drugs. Hij zwerft door de stad tot zonsopgang met twee goede vrienden en een vriendin.",
-      "category": "Films"
-    }
-  ]
+  "count": 0,
+  "programmes": []
 }
