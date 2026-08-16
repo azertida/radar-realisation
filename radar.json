@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-08-16T09:00:12.842467+00:00",
-  "window_start": "2026-08-16",
-  "window_end": "2026-08-16",
+  "generated_at": "2026-08-16T21:32:21.648533+00:00",
+  "window_start": "2026-08-17",
+  "window_end": "2026-08-17",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 40,
+  "watchlist_size": 41,
   "watchlist": [
     "Jean-Jacques Beineix",
+    "J.J. Abrams",
     "Alan Alda",
     "Kathryn Bigelow",
     "Timothy Busfield",
@@ -46,6 +47,28 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 0,
-  "programmes": []
+  "count": 1,
+  "programmes": [
+    {
+      "start": "2026-08-17T22:10:00+00:00",
+      "stop": "2026-08-18T00:05:00+00:00",
+      "channel": "BBC One",
+      "title": "Mission: Impossible III",
+      "subtitle": "",
+      "directors": [
+        "J.J. Abrams"
+      ],
+      "matched_director": "J.J. Abrams",
+      "actors": [
+        "Tom Cruise",
+        "Philip Seymour Hoffman",
+        "Ving Rhames",
+        "Billy Crudup",
+        "Michelle Monaghan",
+        "Jonathan Rhys Meyers"
+      ],
+      "description": "The film is the third instalment of the Mission Impossible series in which retired super-spy Ethan Hunt comes back to active spy life to battle a ruthless arms dealer. He must keep his identity a secret as his girlfriend doesn't know he is a spy. Hunt assembles his team--his old friend Luther Strickell, transportation expert Declan, background operative Zhen, and fresh recruit Lindsey--to travel the globe pursuing Davian and rescue Hunt's love, Julia.",
+      "category": "Movies"
+    }
+  ]
 }
