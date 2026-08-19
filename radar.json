@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T09:08:09.851602+00:00",
+  "generated_at": "2026-08-19T05:49:56.957750+00:00",
   "window_start": "2026-08-17",
-  "window_end": "2026-08-17",
+  "window_end": "2026-08-23",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 1,
+  "count": 2,
   "programmes": [
     {
       "start": "2026-08-17T22:10:00+00:00",
@@ -69,6 +69,27 @@
       ],
       "description": "The film is the third instalment of the Mission Impossible series in which retired super-spy Ethan Hunt comes back to active spy life to battle a ruthless arms dealer. He must keep his identity a secret as his girlfriend doesn't know he is a spy. Hunt assembles his team--his old friend Luther Strickell, transportation expert Declan, background operative Zhen, and fresh recruit Lindsey--to travel the globe pursuing Davian and rescue Hunt's love, Julia.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-08-23T12:30:00+00:00",
+      "stop": "2026-08-23T14:40:00+00:00",
+      "channel": "RAI Tre",
+      "title": "L'armata Brancaleone",
+      "subtitle": "",
+      "directors": [
+        "Mario Monicelli"
+      ],
+      "matched_director": "Mario Monicelli",
+      "actors": [
+        "Vittorio Gassman",
+        "Gian Maria Volonté",
+        "Catherine Spaak",
+        "Folco Lulli",
+        "Carlo Pisacane",
+        "Barbara Steele"
+      ],
+      "description": "In un Medioevo in cui i valori cavallereschi rimangono solo ideali, il cavaliere fanfarone Brancaleone da Norcia raduna un manipolo di miserabili per andare in Puglia a reclamare il feudo di Aurocastro. Il loro viaggio tortuoso procederà tra le peripezie più varie, colpi di scena, incontri esilaranti e situazioni grottesche.",
+      "category": "Cinéma"
     }
   ]
 }
