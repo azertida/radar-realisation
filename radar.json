@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T09:07:32.761065+00:00",
-  "window_start": "2026-08-17",
+  "generated_at": "2026-08-20T05:49:47.165438+00:00",
+  "window_start": "2026-08-23",
   "window_end": "2026-08-23",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
@@ -47,29 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 2,
+  "count": 1,
   "programmes": [
-    {
-      "start": "2026-08-17T22:10:00+00:00",
-      "stop": "2026-08-18T00:05:00+00:00",
-      "channel": "BBC One",
-      "title": "Mission: Impossible III",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams"
-      ],
-      "matched_director": "J.J. Abrams",
-      "actors": [
-        "Tom Cruise",
-        "Philip Seymour Hoffman",
-        "Ving Rhames",
-        "Billy Crudup",
-        "Michelle Monaghan",
-        "Jonathan Rhys Meyers"
-      ],
-      "description": "The film is the third instalment of the Mission Impossible series in which retired super-spy Ethan Hunt comes back to active spy life to battle a ruthless arms dealer. He must keep his identity a secret as his girlfriend doesn't know he is a spy. Hunt assembles his team--his old friend Luther Strickell, transportation expert Declan, background operative Zhen, and fresh recruit Lindsey--to travel the globe pursuing Davian and rescue Hunt's love, Julia.",
-      "category": "Movies"
-    },
     {
       "start": "2026-08-23T12:30:00+00:00",
       "stop": "2026-08-23T14:40:00+00:00",
