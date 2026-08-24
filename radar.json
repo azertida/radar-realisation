@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T09:01:56.623072+00:00",
+  "generated_at": "2026-08-24T05:55:56.162749+00:00",
   "window_start": "2026-08-23",
-  "window_end": "2026-08-23",
+  "window_end": "2026-08-30",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 1,
+  "count": 3,
   "programmes": [
     {
       "start": "2026-08-23T12:30:00+00:00",
@@ -68,6 +68,50 @@
         "Barbara Steele"
       ],
       "description": "In un Medioevo in cui i valori cavallereschi rimangono solo ideali, il cavaliere fanfarone Brancaleone da Norcia raduna un manipolo di miserabili per andare in Puglia a reclamare il feudo di Aurocastro. Il loro viaggio tortuoso procederà tra le peripezie più varie, colpi di scena, incontri esilaranti e situazioni grottesche.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-30T12:30:00+00:00",
+      "stop": "2026-08-30T14:40:00+00:00",
+      "channel": "RAI Tre",
+      "title": "L'armata Brancaleone",
+      "subtitle": "",
+      "directors": [
+        "Mario Monicelli"
+      ],
+      "matched_director": "Mario Monicelli",
+      "actors": [
+        "Vittorio Gassman",
+        "Gian Maria Volonté",
+        "Catherine Spaak",
+        "Folco Lulli",
+        "Carlo Pisacane",
+        "Barbara Steele"
+      ],
+      "description": "In un Medioevo in cui i valori cavallereschi rimangono solo ideali, il cavaliere fanfarone Brancaleone da Norcia raduna un manipolo di miserabili per andare in Puglia a reclamare il feudo di Aurocastro. Il loro viaggio tortuoso procederà tra le peripezie più varie, colpi di scena, incontri esilaranti e situazioni grottesche.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-30T19:00:00+00:00",
+      "stop": "2026-08-30T21:30:00+00:00",
+      "channel": "Arte",
+      "title": "La firme",
+      "subtitle": "",
+      "directors": [
+        "Sydney Pollack",
+        "Scott Rudin",
+        "John Davis"
+      ],
+      "matched_director": "Sydney Pollack",
+      "actors": [
+        "Tom Cruise",
+        "Jeanne Tripplehorn",
+        "Gene Hackman",
+        "Hal Holbrook",
+        "Terry Kinney",
+        "Wilford Brimley"
+      ],
+      "description": "A la fin de ses études de droit, Mitch McDeere, brillant élément, est sollicité par plusieurs grands cabinets d'avocats. Il fixe son choix sur Bendini, Lambert & Locke, qui lui offrent les conditions les plus avantageuses. En contrepartie, il devra, comme chaque membre du cabinet, fournir quelque quatre-vingts heures de travail hebdomadaire. Il ignore encore qu'il vient de vendre son âme au diable.",
       "category": "Cinéma"
     }
   ]
