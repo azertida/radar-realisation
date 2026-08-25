@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T09:28:51.285525+00:00",
-  "window_start": "2026-08-23",
+  "generated_at": "2026-08-25T05:51:22.995439+00:00",
+  "window_start": "2026-08-30",
   "window_end": "2026-08-30",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
@@ -47,50 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 3,
+  "count": 1,
   "programmes": [
-    {
-      "start": "2026-08-23T12:30:00+00:00",
-      "stop": "2026-08-23T14:40:00+00:00",
-      "channel": "RAI Tre",
-      "title": "L'armata Brancaleone",
-      "subtitle": "",
-      "directors": [
-        "Mario Monicelli"
-      ],
-      "matched_director": "Mario Monicelli",
-      "actors": [
-        "Vittorio Gassman",
-        "Gian Maria Volonté",
-        "Catherine Spaak",
-        "Folco Lulli",
-        "Carlo Pisacane",
-        "Barbara Steele"
-      ],
-      "description": "In un Medioevo in cui i valori cavallereschi rimangono solo ideali, il cavaliere fanfarone Brancaleone da Norcia raduna un manipolo di miserabili per andare in Puglia a reclamare il feudo di Aurocastro. Il loro viaggio tortuoso procederà tra le peripezie più varie, colpi di scena, incontri esilaranti e situazioni grottesche.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-08-30T12:30:00+00:00",
-      "stop": "2026-08-30T14:40:00+00:00",
-      "channel": "RAI Tre",
-      "title": "L'armata Brancaleone",
-      "subtitle": "",
-      "directors": [
-        "Mario Monicelli"
-      ],
-      "matched_director": "Mario Monicelli",
-      "actors": [
-        "Vittorio Gassman",
-        "Gian Maria Volonté",
-        "Catherine Spaak",
-        "Folco Lulli",
-        "Carlo Pisacane",
-        "Barbara Steele"
-      ],
-      "description": "In un Medioevo in cui i valori cavallereschi rimangono solo ideali, il cavaliere fanfarone Brancaleone da Norcia raduna un manipolo di miserabili per andare in Puglia a reclamare il feudo di Aurocastro. Il loro viaggio tortuoso procederà tra le peripezie più varie, colpi di scena, incontri esilaranti e situazioni grottesche.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-08-30T19:00:00+00:00",
       "stop": "2026-08-30T21:30:00+00:00",
