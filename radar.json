@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-26T09:24:15.109037+00:00",
+  "generated_at": "2026-08-27T16:34:47.360924+00:00",
   "window_start": "2026-08-30",
-  "window_end": "2026-08-30",
+  "window_end": "2026-09-02",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 1,
+  "count": 2,
   "programmes": [
     {
       "start": "2026-08-30T19:00:00+00:00",
@@ -70,6 +70,27 @@
         "Wilford Brimley"
       ],
       "description": "A la fin de ses études de droit, Mitch McDeere, brillant élément, est sollicité par plusieurs grands cabinets d'avocats. Il fixe son choix sur Bendini, Lambert & Locke, qui lui offrent les conditions les plus avantageuses. En contrepartie, il devra, comme chaque membre du cabinet, fournir quelque quatre-vingts heures de travail hebdomadaire. Il ignore encore qu'il vient de vendre son âme au diable.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-02T16:57:00+00:00",
+      "stop": "2026-09-02T18:50:00+00:00",
+      "channel": "Action",
+      "title": "Cartouche",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Claudia Cardinale",
+        "Odile Versois",
+        "Philippe Lemaire",
+        "Marcel Dalio",
+        "Alain Dekock"
+      ],
+      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
       "category": "Cinéma"
     }
   ]
