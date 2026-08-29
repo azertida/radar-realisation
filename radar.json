@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T20:20:50.469814+00:00",
+  "generated_at": "2026-08-29T09:45:56.322662+00:00",
   "window_start": "2026-08-30",
-  "window_end": "2026-09-02",
+  "window_end": "2026-09-04",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 2,
+  "count": 4,
   "programmes": [
     {
       "start": "2026-08-30T19:00:00+00:00",
@@ -92,6 +92,49 @@
       ],
       "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-04T15:31:00+00:00",
+      "stop": "2026-09-04T17:24:00+00:00",
+      "channel": "Action",
+      "title": "Cartouche",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Jean-Paul Belmondo",
+        "Claudia Cardinale",
+        "Odile Versois",
+        "Philippe Lemaire",
+        "Marcel Dalio",
+        "Alain Dekock"
+      ],
+      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-04T20:27:00+00:00",
+      "stop": "2026-09-04T20:51:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Les J.O. au bureau",
+      "directors": [
+        "Paul Feig",
+        "Ricky Gervais"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "Michael a repéré la maison de ses rêves et emmène Dwight avec lui pour signer le contrat de vente. Durant leur absence, Jim, rongé par l'ennui, organise les premiers Jeux olympiques de Dunder Mifflin. Seule Angela, qui a remarqué l'idylle naissante entre Jim et Pam, n'y participe pas.",
+      "category": "Séries"
     }
   ]
 }
