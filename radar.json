@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T13:03:23.375268+00:00",
-  "window_start": "2026-09-07",
-  "window_end": "2026-09-13",
+  "generated_at": "2026-09-09T09:51:14.735222+00:00",
+  "window_start": "2026-09-09",
+  "window_end": "2026-09-15",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,97 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 14,
+  "count": 12,
   "programmes": [
-    {
-      "start": "2026-09-07T05:01:00+00:00",
-      "stop": "2026-09-07T06:54:00+00:00",
-      "channel": "Action",
-      "title": "Cartouche",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Claudia Cardinale",
-        "Odile Versois",
-        "Philippe Lemaire",
-        "Marcel Dalio",
-        "Alain Dekock"
-      ],
-      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-07T08:48:00+00:00",
-      "stop": "2026-09-07T10:52:00+00:00",
-      "channel": "Action",
-      "title": "Star Trek",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams",
-        "J.J Abrams",
-        "J. J. Abrams",
-        "JJ A"
-      ],
-      "matched_director": "J.J. Abrams",
-      "actors": [
-        "Chris Pine",
-        "Zachary Quinto",
-        "Leonard Nimoy",
-        "Karl Urban",
-        "Ben Cross",
-        "Eric Bana"
-      ],
-      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-09-07T15:11:00+00:00",
-      "stop": "2026-09-07T15:37:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Halloween",
-      "directors": [
-        "Paul Feig",
-        "Ricky Gervais"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Paul Lieberstein"
-      ],
-      "description": "Dunder Mifflin prépare Halloween. Chaque employé a redoublé d'imagination pour trouver un costume original, mais Michael, lui, n'est pas à la fête : sa supérieure l'a sommé de licencier un membre du personnel avant la fin de la journée.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-07T21:12:00+00:00",
-      "stop": "2026-09-07T21:46:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Halloween",
-      "directors": [
-        "Paul Feig",
-        "Ricky Gervais"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Paul Lieberstein"
-      ],
-      "description": "Dunder Mifflin prépare Halloween. Chaque employé a redoublé d'imagination pour trouver un costume original, mais Michael, lui, n'est pas à la fête : sa supérieure l'a sommé de licencier un membre du personnel avant la fin de la journée.",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-09T06:49:00+00:00",
       "stop": "2026-09-09T08:42:00+00:00",
@@ -160,7 +71,7 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-09T15:49:00+00:00",
+      "start": "2026-09-09T15:50:00+00:00",
       "stop": "2026-09-09T16:11:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
@@ -183,7 +94,7 @@
     },
     {
       "start": "2026-09-09T16:11:00+00:00",
-      "stop": "2026-09-09T16:36:00+00:00",
+      "stop": "2026-09-09T16:37:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Surveillance électronique",
@@ -227,7 +138,7 @@
     },
     {
       "start": "2026-09-09T22:13:00+00:00",
-      "stop": "2026-09-09T22:36:00+00:00",
+      "stop": "2026-09-09T22:37:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Surveillance électronique",
@@ -359,6 +270,51 @@
       ],
       "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-15T20:37:00+00:00",
+      "stop": "2026-09-15T22:41:00+00:00",
+      "channel": "Action",
+      "title": "Star Trek",
+      "subtitle": "",
+      "directors": [
+        "J.J. Abrams",
+        "J.J Abrams",
+        "J. J. Abrams",
+        "JJ A"
+      ],
+      "matched_director": "J.J. Abrams",
+      "actors": [
+        "Chris Pine",
+        "Zachary Quinto",
+        "Leonard Nimoy",
+        "Karl Urban",
+        "Ben Cross",
+        "Eric Bana"
+      ],
+      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-15T21:40:00+00:00",
+      "stop": "2026-09-15T23:35:00+00:00",
+      "channel": "BBC One",
+      "title": "Sicario",
+      "subtitle": "",
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "matched_director": "Denis Villeneuve",
+      "actors": [
+        "Emily Blunt",
+        "Jon Bernthal",
+        "Josh Brolin",
+        "Benicio Del Toro",
+        "Jeffrey Donovan",
+        "Maximiliano Hernández"
+      ],
+      "description": "An FBI agent joins a task force on the U.S.-Mexico border that's hunting a notorious drug kingpin, but her main informant points her toward a deeper conspiracy. The operation is fraught with danger and Kate finds herself forced to reconsider what she stands for as she tries to successfully complete the mission and make it out alive.",
+      "category": "Movies"
     }
   ]
 }
