@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T13:00:53.843944+00:00",
-  "window_start": "2026-09-10",
-  "window_end": "2026-09-17",
+  "generated_at": "2026-09-12T09:25:51.304639+00:00",
+  "window_start": "2026-09-11",
+  "window_end": "2026-09-18",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,29 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 13,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-09-10T04:49:00+00:00",
-      "stop": "2026-09-10T06:42:00+00:00",
-      "channel": "Action",
-      "title": "Cartouche",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Jean-Paul Belmondo",
-        "Claudia Cardinale",
-        "Odile Versois",
-        "Philippe Lemaire",
-        "Marcel Dalio",
-        "Alain Dekock"
-      ],
-      "description": "Fils d'un marchand de vin de la Courtille, Louis-Dominique Bourguignon, alias Cartouche, est devenu l'un des voleurs à la tire les plus habiles de Paris. Il supporte de plus en plus mal l'autorité tyrannique du roi des gueux, le déplaisant Malichot et, pour s'en affranchir, s'en va voir si les servitudes soldatesques sont plus amusantes. Sous l'uniforme, il gagne deux amis, La Taupe et La Douceur, un éclat de gloire militaire et surtout la caisse du régiment, qu'il emporte dans sa désertion lorsqu'il a fini de constater que, décidément, la discipline des armées n'est pas faite pour lui. Le trio revient à Paris. En chemin, Cartouche se laisse séduire par Vénus, une jolie bohémienne dont il fait sa maîtresse...",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-11T12:59:00+00:00",
       "stop": "2026-09-11T15:03:00+00:00",
@@ -343,6 +322,54 @@
         "Leslie David Baker"
       ],
       "description": "Dwight joue le rôle du sheriff pour enquêter quand il découvre la moitié d'un joint dans le parking. Ses soupçons se portent d'abord sur Kevin...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-18T12:58:00+00:00",
+      "stop": "2026-09-18T13:30:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "La soirée casino",
+      "directors": [
+        "Ken Kwapis",
+        "Ricky Gervais",
+        "Paul Feig",
+        "Jeffr"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Melora Hardin"
+      ],
+      "description": "Michael organise une soirée caritative au casino, mais par erreur, il invite à la fois Jan et Carol. Il finit par préférer Carol, et si Jan réagit calmement, elle s'éclipse ensuite avec un sac de voyage, laissant supposer qu'elle avait l'intention de rester.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-18T22:01:00+00:00",
+      "stop": "2026-09-18T22:31:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "La soirée casino",
+      "directors": [
+        "Ken Kwapis",
+        "Ricky Gervais",
+        "Paul Feig",
+        "Jeffr"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Melora Hardin"
+      ],
+      "description": "Michael organise une soirée caritative au casino, mais par erreur, il invite à la fois Jan et Carol. Il finit par préférer Carol, et si Jan réagit calmement, elle s'éclipse ensuite avec un sac de voyage, laissant supposer qu'elle avait l'intention de rester.",
       "category": "Séries"
     }
   ]
