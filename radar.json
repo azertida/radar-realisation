@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T12:22:33.115394+00:00",
-  "window_start": "2026-09-11",
-  "window_end": "2026-09-18",
+  "generated_at": "2026-09-13T10:21:56.916288+00:00",
+  "window_start": "2026-09-12",
+  "window_end": "2026-09-19",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,32 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 14,
+  "count": 16,
   "programmes": [
-    {
-      "start": "2026-09-11T12:59:00+00:00",
-      "stop": "2026-09-11T15:03:00+00:00",
-      "channel": "Action",
-      "title": "Star Trek",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams",
-        "J.J Abrams",
-        "J. J. Abrams",
-        "JJ A"
-      ],
-      "matched_director": "J.J. Abrams",
-      "actors": [
-        "Chris Pine",
-        "Zachary Quinto",
-        "Leonard Nimoy",
-        "Karl Urban",
-        "Ben Cross",
-        "Eric Bana"
-      ],
-      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-12T09:34:00+00:00",
       "stop": "2026-09-12T09:55:00+00:00",
@@ -351,6 +327,77 @@
     {
       "start": "2026-09-18T22:01:00+00:00",
       "stop": "2026-09-18T22:31:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "La soirée casino",
+      "directors": [
+        "Ken Kwapis",
+        "Ricky Gervais",
+        "Paul Feig",
+        "Jeffr"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Melora Hardin"
+      ],
+      "description": "Michael organise une soirée caritative au casino, mais par erreur, il invite à la fois Jan et Carol. Il finit par préférer Carol, et si Jan réagit calmement, elle s'éclipse ensuite avec un sac de voyage, laissant supposer qu'elle avait l'intention de rester.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-19T16:06:00+00:00",
+      "stop": "2026-09-19T16:27:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "L'anniversaire de Michaël",
+      "directors": [
+        "Ken Whittingham",
+        "Ricky Gervais",
+        "Paul Feig"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Brian Baumgartner"
+      ],
+      "description": "Les collègues de Kevin sont inquiets au sujet de ses test médicaux; ils veulent savoir si Kevin a un cancer de la peau ou pas. Quant à Michaël, il est perturbé car personne ne semble s'amuser à sa fête d'anniversaire...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-19T16:27:00+00:00",
+      "stop": "2026-09-19T16:48:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Contrôle positif",
+      "directors": [
+        "Greg Daniels",
+        "Ricky Gervais",
+        "Paul Feig",
+        "Ken"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "Dwight joue le rôle du sheriff pour enquêter quand il découvre la moitié d'un joint dans le parking. Ses soupçons se portent d'abord sur Kevin...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-09-19T17:10:00+00:00",
+      "stop": "2026-09-19T17:41:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "La soirée casino",
