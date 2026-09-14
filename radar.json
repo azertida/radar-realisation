@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T13:27:02.786503+00:00",
-  "window_start": "2026-09-12",
+  "generated_at": "2026-09-14T10:45:36.342753+00:00",
+  "window_start": "2026-09-13",
   "window_end": "2026-09-19",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
@@ -47,52 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 16,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-09-12T09:34:00+00:00",
-      "stop": "2026-09-12T09:55:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Les évaluations",
-      "directors": [
-        "Paul Feig",
-        "Ricky Gervais"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Creed Bratton"
-      ],
-      "description": "C'est le jour des évaluations à Dunder Mifflin. Mais Michael est bien trop préoccupé par un appel téléphonique de sa supérieure pour mener à bien sa mission. Au bureau, les rumeurs vont bon train sur la nuit que les deux managers auraient passée ensemble.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-12T09:55:00+00:00",
-      "stop": "2026-09-12T10:20:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Surveillance électronique",
-      "directors": [
-        "Paul Feig",
-        "Ricky Gervais"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Creed Bratton"
-      ],
-      "description": "Michael lit en cachette les e-mails de ses employés. Ceux-ci s'en aperçoivent et se montrent plus prudents dans leur correspondance, mais le mal est fait et le manager régional découvre qu'une fête se prépare chez Jim. Tout le monde a reçu une invitation sauf lui !",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-13T11:00:00+00:00",
       "stop": "2026-09-13T13:04:00+00:00",
