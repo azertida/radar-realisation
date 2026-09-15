@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T15:15:16.180267+00:00",
-  "window_start": "2026-09-13",
-  "window_end": "2026-09-19",
+  "generated_at": "2026-09-15T10:08:32.227556+00:00",
+  "window_start": "2026-09-15",
+  "window_end": "2026-09-21",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -49,30 +49,6 @@
   ],
   "count": 14,
   "programmes": [
-    {
-      "start": "2026-09-13T11:00:00+00:00",
-      "stop": "2026-09-13T13:04:00+00:00",
-      "channel": "Action",
-      "title": "Star Trek",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams",
-        "J.J Abrams",
-        "J. J. Abrams",
-        "JJ A"
-      ],
-      "matched_director": "J.J. Abrams",
-      "actors": [
-        "Chris Pine",
-        "Zachary Quinto",
-        "Leonard Nimoy",
-        "Karl Urban",
-        "Ben Cross",
-        "Eric Bana"
-      ],
-      "description": "Retour sur les origines de l'équipage du vaisseau Enterprise et de leur tout premier voyage... Un être maléfique en quête de vengeance menace l'humanité tout entière. Le sort de la galaxie est remis entre les mains de deux officiers : James Kirk, originaire de l'Iowa, et Spock, de la planète Vulcain. L'alliance improbable entre ces deux hommes que tout oppose va permettre à l'équipage de traverser tous les dangers !",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-15T20:37:00+00:00",
       "stop": "2026-09-15T22:41:00+00:00",
@@ -163,8 +139,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-09-17T14:12:00+00:00",
-      "stop": "2026-09-17T14:36:00+00:00",
+      "start": "2026-09-17T14:13:00+00:00",
+      "stop": "2026-09-17T14:34:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "L'anniversaire de Michaël",
@@ -186,8 +162,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-17T14:36:00+00:00",
-      "stop": "2026-09-17T15:01:00+00:00",
+      "start": "2026-09-17T14:34:00+00:00",
+      "stop": "2026-09-17T14:58:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Contrôle positif",
@@ -211,7 +187,7 @@
     },
     {
       "start": "2026-09-17T21:20:00+00:00",
-      "stop": "2026-09-17T21:43:00+00:00",
+      "stop": "2026-09-17T21:41:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "L'anniversaire de Michaël",
@@ -233,8 +209,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-17T21:43:00+00:00",
-      "stop": "2026-09-17T22:09:00+00:00",
+      "start": "2026-09-17T21:41:00+00:00",
+      "stop": "2026-09-17T22:07:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Contrôle positif",
@@ -374,6 +350,27 @@
       ],
       "description": "Michael organise une soirée caritative au casino, mais par erreur, il invite à la fois Jan et Carol. Il finit par préférer Carol, et si Jan réagit calmement, elle s'éclipse ensuite avec un sac de voyage, laissant supposer qu'elle avait l'intention de rester.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-09-21T18:55:00+00:00",
+      "stop": "2026-09-21T21:00:00+00:00",
+      "channel": "Arte",
+      "title": "Black Rain",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Michael Douglas",
+        "Andy Garcia",
+        "Ken Takakura",
+        "Kate Capshaw",
+        "Yusaku Matsuda",
+        "Shigeru Koyama"
+      ],
+      "description": "Deux policiers américains sont chargés d'escorter un criminel japonais à Osaka. Mais celui-ci s'échappe et les deux hommes doivent le poursuivre dans une ville et un pays dont ils ignorent tout.",
+      "category": "Cinéma"
     }
   ]
 }
