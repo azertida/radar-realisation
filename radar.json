@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T13:09:14.107637+00:00",
-  "window_start": "2026-09-17",
-  "window_end": "2026-09-21",
+  "generated_at": "2026-09-19T09:35:38.941979+00:00",
+  "window_start": "2026-09-18",
+  "window_end": "2026-09-25",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,102 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 10,
+  "count": 7,
   "programmes": [
-    {
-      "start": "2026-09-17T14:08:00+00:00",
-      "stop": "2026-09-17T14:29:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "L'anniversaire de Michaël",
-      "directors": [
-        "Ken Whittingham",
-        "Ricky Gervais",
-        "Paul Feig"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Brian Baumgartner"
-      ],
-      "description": "Les collègues de Kevin sont inquiets au sujet de ses test médicaux; ils veulent savoir si Kevin a un cancer de la peau ou pas. Quant à Michaël, il est perturbé car personne ne semble s'amuser à sa fête d'anniversaire...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-17T14:29:00+00:00",
-      "stop": "2026-09-17T14:54:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Contrôle positif",
-      "directors": [
-        "Greg Daniels",
-        "Ricky Gervais",
-        "Paul Feig",
-        "Ken"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "Dwight joue le rôle du sheriff pour enquêter quand il découvre la moitié d'un joint dans le parking. Ses soupçons se portent d'abord sur Kevin...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-17T21:23:00+00:00",
-      "stop": "2026-09-17T21:44:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "L'anniversaire de Michaël",
-      "directors": [
-        "Ken Whittingham",
-        "Ricky Gervais",
-        "Paul Feig"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Brian Baumgartner"
-      ],
-      "description": "Les collègues de Kevin sont inquiets au sujet de ses test médicaux; ils veulent savoir si Kevin a un cancer de la peau ou pas. Quant à Michaël, il est perturbé car personne ne semble s'amuser à sa fête d'anniversaire...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-17T21:44:00+00:00",
-      "stop": "2026-09-17T22:10:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Contrôle positif",
-      "directors": [
-        "Greg Daniels",
-        "Ricky Gervais",
-        "Paul Feig",
-        "Ken"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "Dwight joue le rôle du sheriff pour enquêter quand il découvre la moitié d'un joint dans le parking. Ses soupçons se portent d'abord sur Kevin...",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-18T12:58:00+00:00",
       "stop": "2026-09-18T13:30:00+00:00",
@@ -192,8 +98,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-19T16:06:00+00:00",
-      "stop": "2026-09-19T16:27:00+00:00",
+      "start": "2026-09-19T16:03:00+00:00",
+      "stop": "2026-09-19T16:24:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "L'anniversaire de Michaël",
@@ -215,8 +121,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-19T16:27:00+00:00",
-      "stop": "2026-09-19T16:48:00+00:00",
+      "start": "2026-09-19T16:24:00+00:00",
+      "stop": "2026-09-19T16:45:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Contrôle positif",
@@ -239,8 +145,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-09-19T17:10:00+00:00",
-      "stop": "2026-09-19T17:41:00+00:00",
+      "start": "2026-09-19T17:07:00+00:00",
+      "stop": "2026-09-19T17:39:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "La soirée casino",
@@ -281,6 +187,29 @@
         "Shigeru Koyama"
       ],
       "description": "Deux policiers américains sont chargés d'escorter un criminel japonais à Osaka. Mais celui-ci s'échappe et les deux hommes doivent le poursuivre dans une ville et un pays dont ils ignorent tout.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-25T11:35:00+00:00",
+      "stop": "2026-09-25T14:10:00+00:00",
+      "channel": "Arte",
+      "title": "La firme",
+      "subtitle": "",
+      "directors": [
+        "Sydney Pollack",
+        "Scott Rudin",
+        "John Davis"
+      ],
+      "matched_director": "Sydney Pollack",
+      "actors": [
+        "Tom Cruise",
+        "Jeanne Tripplehorn",
+        "Gene Hackman",
+        "Hal Holbrook",
+        "Terry Kinney",
+        "Wilford Brimley"
+      ],
+      "description": "A la fin de ses études de droit, Mitch McDeere, brillant élément, est sollicité par plusieurs grands cabinets d'avocats. Il fixe son choix sur Bendini, Lambert & Locke, qui lui offrent les conditions les plus avantageuses. En contrepartie, il devra, comme chaque membre du cabinet, fournir quelque quatre-vingts heures de travail hebdomadaire. Il ignore encore qu'il vient de vendre son âme au diable.",
       "category": "Cinéma"
     }
   ]
