@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T12:40:25.119199+00:00",
-  "window_start": "2026-09-18",
-  "window_end": "2026-09-25",
+  "generated_at": "2026-09-20T09:51:57.544692+00:00",
+  "window_start": "2026-09-19",
+  "window_end": "2026-09-26",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,56 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 7,
+  "count": 6,
   "programmes": [
-    {
-      "start": "2026-09-18T12:58:00+00:00",
-      "stop": "2026-09-18T13:30:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "La soirée casino",
-      "directors": [
-        "Ken Kwapis",
-        "Ricky Gervais",
-        "Paul Feig",
-        "Jeffr"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Melora Hardin"
-      ],
-      "description": "Michael organise une soirée caritative au casino, mais par erreur, il invite à la fois Jan et Carol. Il finit par préférer Carol, et si Jan réagit calmement, elle s'éclipse ensuite avec un sac de voyage, laissant supposer qu'elle avait l'intention de rester.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-18T21:59:00+00:00",
-      "stop": "2026-09-18T22:30:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "La soirée casino",
-      "directors": [
-        "Ken Kwapis",
-        "Ricky Gervais",
-        "Paul Feig",
-        "Jeffr"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Melora Hardin"
-      ],
-      "description": "Michael organise une soirée caritative au casino, mais par erreur, il invite à la fois Jan et Carol. Il finit par préférer Carol, et si Jan réagit calmement, elle s'éclipse ensuite avec un sac de voyage, laissant supposer qu'elle avait l'intention de rester.",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-19T16:03:00+00:00",
       "stop": "2026-09-19T16:24:00+00:00",
@@ -211,6 +163,27 @@
       ],
       "description": "A la fin de ses études de droit, Mitch McDeere, brillant élément, est sollicité par plusieurs grands cabinets d'avocats. Il fixe son choix sur Bendini, Lambert & Locke, qui lui offrent les conditions les plus avantageuses. En contrepartie, il devra, comme chaque membre du cabinet, fournir quelque quatre-vingts heures de travail hebdomadaire. Il ignore encore qu'il vient de vendre son âme au diable.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-09-26T20:20:00+00:00",
+      "stop": "2026-09-26T22:45:00+00:00",
+      "channel": "VTM 2",
+      "title": "Inside Man",
+      "subtitle": "",
+      "directors": [
+        "Spike Lee"
+      ],
+      "matched_director": "Spike Lee",
+      "actors": [
+        "Denzel Washington",
+        "Clive Owen",
+        "Jodie Foster",
+        "Christopher Plummer",
+        "Willem Dafoe",
+        "Chiwetel Ejiofor"
+      ],
+      "description": "Een man heeft de perfecte bankoverval gepland. Vanuit zijn cel vertelt hij er ons alles over. De overvallers komen de bank binnen en alles verloopt prima totdat er mensen worden gegijzeld en de onderhandelingen van start gaan. De keiharde inspecteur Keith Miller krijgt heel wat kritiek over de manier waarop hij de zaak aanpakt en dan is er ook nog Madeleine White, een advocate met een heel aparte agenda ...",
+      "category": "Films"
     }
   ]
 }
