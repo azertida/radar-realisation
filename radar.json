@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T13:12:54.173585+00:00",
-  "window_start": "2026-09-19",
-  "window_end": "2026-09-26",
+  "generated_at": "2026-09-21T10:49:07.747352+00:00",
+  "window_start": "2026-09-21",
+  "window_end": "2026-09-27",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,79 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 6,
+  "count": 5,
   "programmes": [
-    {
-      "start": "2026-09-19T16:03:00+00:00",
-      "stop": "2026-09-19T16:24:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "L'anniversaire de Michaël",
-      "directors": [
-        "Ken Whittingham",
-        "Ricky Gervais",
-        "Paul Feig"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Brian Baumgartner"
-      ],
-      "description": "Les collègues de Kevin sont inquiets au sujet de ses test médicaux; ils veulent savoir si Kevin a un cancer de la peau ou pas. Quant à Michaël, il est perturbé car personne ne semble s'amuser à sa fête d'anniversaire...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-19T16:24:00+00:00",
-      "stop": "2026-09-19T16:45:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Contrôle positif",
-      "directors": [
-        "Greg Daniels",
-        "Ricky Gervais",
-        "Paul Feig",
-        "Ken"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "Dwight joue le rôle du sheriff pour enquêter quand il découvre la moitié d'un joint dans le parking. Ses soupçons se portent d'abord sur Kevin...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-09-19T17:07:00+00:00",
-      "stop": "2026-09-19T17:39:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "La soirée casino",
-      "directors": [
-        "Ken Kwapis",
-        "Ricky Gervais",
-        "Paul Feig",
-        "Jeffr"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Melora Hardin"
-      ],
-      "description": "Michael organise une soirée caritative au casino, mais par erreur, il invite à la fois Jan et Carol. Il finit par préférer Carol, et si Jan réagit calmement, elle s'éclipse ensuite avec un sac de voyage, laissant supposer qu'elle avait l'intention de rester.",
-      "category": "Séries"
-    },
     {
       "start": "2026-09-21T18:55:00+00:00",
       "stop": "2026-09-21T21:00:00+00:00",
@@ -184,6 +113,48 @@
       ],
       "description": "Een man heeft de perfecte bankoverval gepland. Vanuit zijn cel vertelt hij er ons alles over. De overvallers komen de bank binnen en alles verloopt prima totdat er mensen worden gegijzeld en de onderhandelingen van start gaan. De keiharde inspecteur Keith Miller krijgt heel wat kritiek over de manier waarop hij de zaak aanpakt en dan is er ook nog Madeleine White, een advocate met een heel aparte agenda ...",
       "category": "Films"
+    },
+    {
+      "start": "2026-09-27T11:40:00+00:00",
+      "stop": "2026-09-27T13:05:00+00:00",
+      "channel": "BBC Two",
+      "title": "The 39 Steps",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Robert Donat",
+        "Madeleine Carroll",
+        "Godfrey Tearle",
+        "Lucie Mannheim",
+        "Peggy Ashcroft",
+        "John Laurie"
+      ],
+      "description": "Richard Hanney has a rude awakening when a glamorous female spy falls into his bed - with a knife in her back. Having a bit of trouble explaining it all to Scotland Yard, he heads for the hills of Scotland to try to clear his name by locating the spy ring known as The 39 Steps.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-09-27T13:05:00+00:00",
+      "stop": "2026-09-27T14:40:00+00:00",
+      "channel": "BBC Two",
+      "title": "The Lady Vanishes",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Margaret Lockwood",
+        "Michael Redgrave",
+        "Paul Lukas",
+        "May Whitty",
+        "Cecil Parker",
+        "Linden Travers"
+      ],
+      "description": "On a train headed for England a group of travelers is delayed by an avalanche. Holed up in a hotel in a fictional European country, young Iris befriends elderly Miss Froy. When the train resumes, Iris suffers a bout of unconsciousness and wakes to find the old woman has disappeared. The other passengers ominously deny Miss Froy ever existed, so Iris begins to investigate with another traveler and, as the pair sleuth, romantic sparks fly.",
+      "category": "Movies"
     }
   ]
 }
