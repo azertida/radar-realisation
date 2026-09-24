@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T13:49:48.470447+00:00",
+  "generated_at": "2026-09-24T10:06:22.958581+00:00",
   "window_start": "2026-09-25",
   "window_end": "2026-09-29",
   "source": "Pickx via iptv-org/epg",
@@ -51,7 +51,7 @@
   "programmes": [
     {
       "start": "2026-09-25T11:35:00+00:00",
-      "stop": "2026-09-25T14:10:00+00:00",
+      "stop": "2026-09-25T14:05:00+00:00",
       "channel": "Arte",
       "title": "La firme",
       "subtitle": "",
@@ -153,7 +153,7 @@
         "Spike Lee",
         "Lonette McKee"
       ],
-      "description": "A tribute to the controversial black activist and leader of the struggle for black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+      "description": "Biographical epic about the influential and controversial black nationalist leader, from his early life and career to his eventual assassination.",
       "category": "Movies"
     }
   ]
