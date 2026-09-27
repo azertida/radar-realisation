@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T13:21:38.917874+00:00",
-  "window_start": "2026-09-25",
+  "generated_at": "2026-09-27T10:37:15.821211+00:00",
+  "window_start": "2026-09-26",
   "window_end": "2026-10-02",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
@@ -47,31 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 7,
+  "count": 6,
   "programmes": [
-    {
-      "start": "2026-09-25T11:35:00+00:00",
-      "stop": "2026-09-25T14:05:00+00:00",
-      "channel": "Arte",
-      "title": "La firme",
-      "subtitle": "",
-      "directors": [
-        "Sydney Pollack",
-        "Scott Rudin",
-        "John Davis"
-      ],
-      "matched_director": "Sydney Pollack",
-      "actors": [
-        "Tom Cruise",
-        "Jeanne Tripplehorn",
-        "Gene Hackman",
-        "Hal Holbrook",
-        "Terry Kinney",
-        "Wilford Brimley"
-      ],
-      "description": "A la fin de ses études de droit, Mitch McDeere, brillant élément, est sollicité par plusieurs grands cabinets d'avocats. Il fixe son choix sur Bendini, Lambert & Locke, qui lui offrent les conditions les plus avantageuses. En contrepartie, il devra, comme chaque membre du cabinet, fournir quelque quatre-vingts heures de travail hebdomadaire. Il ignore encore qu'il vient de vendre son âme au diable.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-26T20:25:00+00:00",
       "stop": "2026-09-26T22:50:00+00:00",
