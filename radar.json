@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T17:00:34.618089+00:00",
-  "window_start": "2026-09-27",
-  "window_end": "2026-10-02",
+  "generated_at": "2026-09-29T11:24:43.952989+00:00",
+  "window_start": "2026-09-29",
+  "window_end": "2026-10-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,50 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 5,
+  "count": 6,
   "programmes": [
-    {
-      "start": "2026-09-27T11:40:00+00:00",
-      "stop": "2026-09-27T13:05:00+00:00",
-      "channel": "BBC Two",
-      "title": "The 39 Steps",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Robert Donat",
-        "Madeleine Carroll",
-        "Godfrey Tearle",
-        "Lucie Mannheim",
-        "Peggy Ashcroft",
-        "John Laurie"
-      ],
-      "description": "Richard Hanney has a rude awakening when a glamorous female spy falls into his bed - with a knife in her back. Having a bit of trouble explaining it all to Scotland Yard, he heads for the hills of Scotland to try to clear his name by locating the spy ring known as The 39 Steps.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-09-27T13:05:00+00:00",
-      "stop": "2026-09-27T14:40:00+00:00",
-      "channel": "BBC Two",
-      "title": "The Lady Vanishes",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Margaret Lockwood",
-        "Michael Redgrave",
-        "Paul Lukas",
-        "May Whitty",
-        "Cecil Parker",
-        "Linden Travers"
-      ],
-      "description": "On a train headed for England a group of travelers is delayed by an avalanche. Holed up in a hotel in a fictional European country, young Iris befriends elderly Miss Froy. When the train resumes, Iris suffers a bout of unconsciousness and wakes to find the old woman has disappeared. The other passengers ominously deny Miss Froy ever existed, so Iris begins to investigate with another traveler and, as the pair sleuth, romantic sparks fly.",
-      "category": "Movies"
-    },
     {
       "start": "2026-09-29T21:40:00+00:00",
       "stop": "2026-09-30T00:50:00+00:00",
@@ -152,6 +110,71 @@
         "Leslie David Baker"
       ],
       "description": "Michael invite sa petite-amie Carol à un séjour dans les îles. Pendant ce temps, le comité des fêtes de l'entreprise, Angela en tête, prépare les festivités de Noël...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-05T15:23:00+00:00",
+      "stop": "2026-10-05T15:45:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Noël au bureau - 2",
+      "directors": [
+        "Harold Ramis",
+        "Ricky Gervais"
+      ],
+      "matched_director": "Harold Ramis",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "Michael envoie une carte de Noël de mauvais goût à Carol, sa petite amie et cela le plonge dans l'embarras! Des tensions dans l'organisation de la fête de Noël apparaissent entre Angela, Pam et Karen...",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-05T19:20:00+00:00",
+      "stop": "2026-10-05T21:35:00+00:00",
+      "channel": "RAI Due",
+      "title": "La ragazza della palude",
+      "subtitle": "",
+      "directors": [
+        "Olivia Newman"
+      ],
+      "matched_director": "Olivia Newman",
+      "actors": [
+        "Daisy Edgar-Jones",
+        "Taylor John Smith",
+        "Harris Dickinson",
+        "Michael Hyatt",
+        "Sterling Macer Jr",
+        "David Strathairn"
+      ],
+      "description": "Una giovane di nome Kya viene abbandonata dalla sua famiglia e cresce da sola nelle paludi fuori dalla sua piccola città. Tuttavia, quando il suo ex fidanzato viene trovato morto, Kya viene messa sotto i riflettori, immediatamente etichettata dalla gente del posto e dalle forze dell'ordine come la principale sospettata dell'omicidio.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-05T21:01:00+00:00",
+      "stop": "2026-10-05T21:23:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Noël au bureau - 2",
+      "directors": [
+        "Harold Ramis",
+        "Ricky Gervais"
+      ],
+      "matched_director": "Harold Ramis",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "Michael envoie une carte de Noël de mauvais goût à Carol, sa petite amie et cela le plonge dans l'embarras! Des tensions dans l'organisation de la fête de Noël apparaissent entre Angela, Pam et Karen...",
       "category": "Séries"
     }
   ]
