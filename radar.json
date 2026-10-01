@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T15:16:07.396857+00:00",
+  "generated_at": "2026-10-01T11:40:02.354479+00:00",
   "window_start": "2026-09-29",
-  "window_end": "2026-10-05",
+  "window_end": "2026-10-07",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 6,
+  "count": 8,
   "programmes": [
     {
       "start": "2026-09-29T21:40:00+00:00",
@@ -71,8 +71,8 @@
       "category": "Movies"
     },
     {
-      "start": "2026-10-02T14:30:00+00:00",
-      "stop": "2026-10-02T14:56:00+00:00",
+      "start": "2026-10-02T14:15:00+00:00",
+      "stop": "2026-10-02T14:40:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Noël au bureau - 1",
@@ -92,8 +92,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-10-02T20:26:00+00:00",
-      "stop": "2026-10-02T20:51:00+00:00",
+      "start": "2026-10-02T20:30:00+00:00",
+      "stop": "2026-10-02T20:54:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Noël au bureau - 1",
@@ -113,8 +113,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-10-05T15:36:00+00:00",
-      "stop": "2026-10-05T15:58:00+00:00",
+      "start": "2026-10-05T15:20:00+00:00",
+      "stop": "2026-10-05T15:42:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Noël au bureau - 2",
@@ -176,6 +176,49 @@
       ],
       "description": "Michael envoie une carte de Noël de mauvais goût à Carol, sa petite amie et cela le plonge dans l'embarras! Des tensions dans l'organisation de la fête de Noël apparaissent entre Angela, Pam et Karen...",
       "category": "Séries"
+    },
+    {
+      "start": "2026-10-07T19:00:00+00:00",
+      "stop": "2026-10-07T21:30:00+00:00",
+      "channel": "Arte",
+      "title": "Zero Dark Thirty",
+      "subtitle": "",
+      "directors": [
+        "Kathryn Bigelow"
+      ],
+      "matched_director": "Kathryn Bigelow",
+      "actors": [
+        "Jessica Chastain",
+        "Jennifer Ehle",
+        "Jason Clarke",
+        "Kyle Chandler",
+        "Chris Pratt",
+        "James Gandolfini"
+      ],
+      "description": "Dans la nuit du 2 mai 2011, la chasse à l'homme la plus importante de l'histoire prend fin : Oussama Ben Laden est éliminé. Au lendemain des attentats du 11 septembre 2001 et pendant plus de dix ans, une équipe d'officiers d'élite des forces spéciales américaines a travaillé en secret et traqué sans relâche le terroriste le plus recherché. Jusqu'à cette nuit fatidique qui marque le dénouement de l'opération.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-07T20:33:00+00:00",
+      "stop": "2026-10-07T22:34:00+00:00",
+      "channel": "Action",
+      "title": "La somme de toutes les peurs",
+      "subtitle": "",
+      "directors": [
+        "Phil Alden Robinson",
+        "Mace Neufeld"
+      ],
+      "matched_director": "Phil Alden Robinson",
+      "actors": [
+        "Ben Affleck",
+        "Morgan Freeman",
+        "James Cromwell",
+        "Liev Schreiber",
+        "Bridget Moynahan",
+        "Alan Bates"
+      ],
+      "description": "Le Président russe vient de décéder. Un groupe de terroristes néo-nazis parvient à s'emparer d'une bombe nucléaire datant de la Guerre du Kippour et fait exploser une bombe chimique sur Grozny, anéantissant ainsi la capitale tchétchène au nom du gouvernement russe. Leur prochaine cible : la ville américaine de Baltimore, où doit se dérouler la finale du Superbowl. Les terroristes espèrent ainsi que la panique générale relancera la défunte Guerre Froide. Le directeur de la CIA, Bill Cabot, engage alors les services d'un brillant et intègre agent spécialiste de la Russie, Jack Ryan, afin de faire la lumière sur les derniers événements. Selon celui-ci, les principaux responsables ne sont pas les autorités russes, mais bien des terroristes. Jack doit faire vite pour trouver des preuves tangibles qui corroboreront sa thèse.",
+      "category": "Cinéma"
     }
   ]
 }
