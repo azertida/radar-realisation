@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T15:40:06.136417+00:00",
-  "window_start": "2026-09-29",
-  "window_end": "2026-10-07",
+  "generated_at": "2026-10-02T11:10:10.884954+00:00",
+  "window_start": "2026-10-02",
+  "window_end": "2026-10-08",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,32 +47,11 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 8,
+  "count": 9,
   "programmes": [
     {
-      "start": "2026-09-29T21:40:00+00:00",
-      "stop": "2026-09-30T00:50:00+00:00",
-      "channel": "BBC One",
-      "title": "Malcolm X",
-      "subtitle": "",
-      "directors": [
-        "Spike Lee"
-      ],
-      "matched_director": "Spike Lee",
-      "actors": [
-        "Albert Hall",
-        "Al Freeman Jr.",
-        "Theresa Randle",
-        "Kate Vernon",
-        "Spike Lee",
-        "Lonette McKee"
-      ],
-      "description": "Biographical epic about the influential and controversial black nationalist leader, from his early life and career to his eventual assassination.",
-      "category": "Movies"
-    },
-    {
       "start": "2026-10-02T14:15:00+00:00",
-      "stop": "2026-10-02T14:40:00+00:00",
+      "stop": "2026-10-02T14:39:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Noël au bureau - 1",
@@ -219,6 +198,48 @@
       ],
       "description": "Le Président russe vient de décéder. Un groupe de terroristes néo-nazis parvient à s'emparer d'une bombe nucléaire datant de la Guerre du Kippour et fait exploser une bombe chimique sur Grozny, anéantissant ainsi la capitale tchétchène au nom du gouvernement russe. Leur prochaine cible : la ville américaine de Baltimore, où doit se dérouler la finale du Superbowl. Les terroristes espèrent ainsi que la panique générale relancera la défunte Guerre Froide. Le directeur de la CIA, Bill Cabot, engage alors les services d'un brillant et intègre agent spécialiste de la Russie, Jack Ryan, afin de faire la lumière sur les derniers événements. Selon celui-ci, les principaux responsables ne sont pas les autorités russes, mais bien des terroristes. Jack doit faire vite pour trouver des preuves tangibles qui corroboreront sa thèse.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-08T19:00:00+00:00",
+      "stop": "2026-10-08T20:45:00+00:00",
+      "channel": "France 4",
+      "title": "Misery",
+      "subtitle": "",
+      "directors": [
+        "Rob Reiner"
+      ],
+      "matched_director": "Rob Reiner",
+      "actors": [
+        "Kathy Bates",
+        "James Caan",
+        "Richard Farnsworth",
+        "Frances Sternhagen",
+        "Lauren Bacall",
+        "Graham Jarvis"
+      ],
+      "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-08T21:53:00+00:00",
+      "stop": "2026-10-08T22:44:00+00:00",
+      "channel": "TF1",
+      "title": "New York, Police Judiciaire",
+      "subtitle": "Témoins gênants",
+      "directors": [
+        "Timothy Busfield"
+      ],
+      "matched_director": "Timothy Busfield",
+      "actors": [
+        "Sam Waterston",
+        "Anthony Anderson",
+        "Jeffrey Donovan",
+        "Camryn Manheim",
+        "Hugh Dancy",
+        "Odelya Halevi"
+      ],
+      "description": "Lorsqu'un sans-abri est assassiné, les preuves conduisent Cosgrove et Shaw à une mystérieuse tentative de dissimulation sur un chantier de construction. Price et Maroun incitent un témoin clé à témoigner, malgré les conséquences juridiques qui pourraient en découler.",
+      "category": "Séries"
     }
   ]
 }
