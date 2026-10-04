@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T13:41:21.914188+00:00",
-  "window_start": "2026-10-02",
-  "window_end": "2026-10-08",
+  "generated_at": "2026-10-04T11:09:30.624202+00:00",
+  "window_start": "2026-10-05",
+  "window_end": "2026-10-10",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,53 +47,11 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 9,
+  "count": 8,
   "programmes": [
     {
-      "start": "2026-10-02T14:15:00+00:00",
-      "stop": "2026-10-02T14:39:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Noël au bureau - 1",
-      "directors": [
-        "Harold Ramis"
-      ],
-      "matched_director": "Harold Ramis",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "Michael invite sa petite-amie Carol à un séjour dans les îles. Pendant ce temps, le comité des fêtes de l'entreprise, Angela en tête, prépare les festivités de Noël...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-02T20:30:00+00:00",
-      "stop": "2026-10-02T20:54:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Noël au bureau - 1",
-      "directors": [
-        "Harold Ramis"
-      ],
-      "matched_director": "Harold Ramis",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "Michael invite sa petite-amie Carol à un séjour dans les îles. Pendant ce temps, le comité des fêtes de l'entreprise, Angela en tête, prépare les festivités de Noël...",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-05T15:20:00+00:00",
-      "stop": "2026-10-05T15:42:00+00:00",
+      "start": "2026-10-05T15:16:00+00:00",
+      "stop": "2026-10-05T15:39:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Noël au bureau - 2",
@@ -239,6 +197,28 @@
         "Odelya Halevi"
       ],
       "description": "Lorsqu'un sans-abri est assassiné, les preuves conduisent Cosgrove et Shaw à une mystérieuse tentative de dissimulation sur un chantier de construction. Price et Maroun incitent un témoin clé à témoigner, malgré les conséquences juridiques qui pourraient en découler.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-10T15:40:00+00:00",
+      "stop": "2026-10-10T16:03:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Noël au bureau - 2",
+      "directors": [
+        "Harold Ramis",
+        "Ricky Gervais"
+      ],
+      "matched_director": "Harold Ramis",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "Michael envoie une carte de Noël de mauvais goût à Carol, sa petite amie et cela le plonge dans l'embarras! Des tensions dans l'organisation de la fête de Noël apparaissent entre Angela, Pam et Karen...",
       "category": "Séries"
     }
   ]
