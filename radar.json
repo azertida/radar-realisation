@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T14:21:57.008455+00:00",
+  "generated_at": "2026-10-05T12:21:07.549685+00:00",
   "window_start": "2026-10-05",
-  "window_end": "2026-10-10",
+  "window_end": "2026-10-11",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 8,
+  "count": 9,
   "programmes": [
     {
       "start": "2026-10-05T15:16:00+00:00",
@@ -220,6 +220,28 @@
       ],
       "description": "Michael envoie une carte de Noël de mauvais goût à Carol, sa petite amie et cela le plonge dans l'embarras! Des tensions dans l'organisation de la fête de Noël apparaissent entre Angela, Pam et Karen...",
       "category": "Séries"
+    },
+    {
+      "start": "2026-10-11T15:14:00+00:00",
+      "stop": "2026-10-11T17:15:00+00:00",
+      "channel": "Action",
+      "title": "La somme de toutes les peurs",
+      "subtitle": "",
+      "directors": [
+        "Phil Alden Robinson",
+        "Mace Neufeld"
+      ],
+      "matched_director": "Phil Alden Robinson",
+      "actors": [
+        "Ben Affleck",
+        "Morgan Freeman",
+        "James Cromwell",
+        "Liev Schreiber",
+        "Bridget Moynahan",
+        "Alan Bates"
+      ],
+      "description": "Le Président russe vient de décéder. Un groupe de terroristes néo-nazis parvient à s'emparer d'une bombe nucléaire datant de la Guerre du Kippour et fait exploser une bombe chimique sur Grozny, anéantissant ainsi la capitale tchétchène au nom du gouvernement russe. Leur prochaine cible : la ville américaine de Baltimore, où doit se dérouler la finale du Superbowl. Les terroristes espèrent ainsi que la panique générale relancera la défunte Guerre Froide. Le directeur de la CIA, Bill Cabot, engage alors les services d'un brillant et intègre agent spécialiste de la Russie, Jack Ryan, afin de faire la lumière sur les derniers événements. Selon celui-ci, les principaux responsables ne sont pas les autorités russes, mais bien des terroristes. Jack doit faire vite pour trouver des preuves tangibles qui corroboreront sa thèse.",
+      "category": "Cinéma"
     }
   ]
 }
