@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T17:24:21.800594+00:00",
+  "generated_at": "2026-10-06T12:05:44.592194+00:00",
   "window_start": "2026-10-05",
-  "window_end": "2026-10-11",
+  "window_end": "2026-10-12",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 9,
+  "count": 10,
   "programmes": [
     {
       "start": "2026-10-05T15:16:00+00:00",
@@ -93,8 +93,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-05T21:01:00+00:00",
-      "stop": "2026-10-05T21:23:00+00:00",
+      "start": "2026-10-05T21:02:00+00:00",
+      "stop": "2026-10-05T21:24:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Noël au bureau - 2",
@@ -241,6 +241,27 @@
         "Alan Bates"
       ],
       "description": "Le Président russe vient de décéder. Un groupe de terroristes néo-nazis parvient à s'emparer d'une bombe nucléaire datant de la Guerre du Kippour et fait exploser une bombe chimique sur Grozny, anéantissant ainsi la capitale tchétchène au nom du gouvernement russe. Leur prochaine cible : la ville américaine de Baltimore, où doit se dérouler la finale du Superbowl. Les terroristes espèrent ainsi que la panique générale relancera la défunte Guerre Froide. Le directeur de la CIA, Bill Cabot, engage alors les services d'un brillant et intègre agent spécialiste de la Russie, Jack Ryan, afin de faire la lumière sur les derniers événements. Selon celui-ci, les principaux responsables ne sont pas les autorités russes, mais bien des terroristes. Jack doit faire vite pour trouver des preuves tangibles qui corroboreront sa thèse.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-12T16:26:00+00:00",
+      "stop": "2026-10-12T18:50:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
       "category": "Cinéma"
     }
   ]
