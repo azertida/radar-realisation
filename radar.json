@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T15:45:52.435341+00:00",
+  "generated_at": "2026-10-08T12:05:23.885722+00:00",
   "window_start": "2026-10-07",
-  "window_end": "2026-10-12",
+  "window_end": "2026-10-14",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 7,
+  "count": 9,
   "programmes": [
     {
       "start": "2026-10-07T19:00:00+00:00",
@@ -198,6 +198,50 @@
       ],
       "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-14T15:11:00+00:00",
+      "stop": "2026-10-14T15:36:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Cocktails",
+      "directors": [
+        "J.J. Abrams",
+        "Ricky Gervais"
+      ],
+      "matched_director": "J.J. Abrams",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "David Wallace, le président de Dunder-Mifflin, organise une réception chez lui à laquelle Jan, Michael, Dwight et Jim sont invités. Pour Michael et Jan, il s'agit de la première sortie officielle en couple. Les autres employés sortent boire un verre.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-14T23:07:00+00:00",
+      "stop": "2026-10-14T23:32:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Cocktails",
+      "directors": [
+        "J.J. Abrams",
+        "Ricky Gervais"
+      ],
+      "matched_director": "J.J. Abrams",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "David Wallace, le président de Dunder-Mifflin, organise une réception chez lui à laquelle Jan, Michael, Dwight et Jim sont invités. Pour Michael et Jan, il s'agit de la première sortie officielle en couple. Les autres employés sortent boire un verre.",
+      "category": "Séries"
     }
   ]
 }
