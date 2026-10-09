@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T15:51:26.951257+00:00",
-  "window_start": "2026-10-07",
-  "window_end": "2026-10-14",
+  "generated_at": "2026-10-09T11:58:03.692519+00:00",
+  "window_start": "2026-10-08",
+  "window_end": "2026-10-15",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,51 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 9,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-10-07T19:00:00+00:00",
-      "stop": "2026-10-07T21:30:00+00:00",
-      "channel": "Arte",
-      "title": "Zero Dark Thirty",
-      "subtitle": "",
-      "directors": [
-        "Kathryn Bigelow"
-      ],
-      "matched_director": "Kathryn Bigelow",
-      "actors": [
-        "Jessica Chastain",
-        "Jennifer Ehle",
-        "Jason Clarke",
-        "Kyle Chandler",
-        "Chris Pratt",
-        "James Gandolfini"
-      ],
-      "description": "Dans la nuit du 2 mai 2011, la chasse à l'homme la plus importante de l'histoire prend fin : Oussama Ben Laden est éliminé. Au lendemain des attentats du 11 septembre 2001 et pendant plus de dix ans, une équipe d'officiers d'élite des forces spéciales américaines a travaillé en secret et traqué sans relâche le terroriste le plus recherché. Jusqu'à cette nuit fatidique qui marque le dénouement de l'opération.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-10-07T20:33:00+00:00",
-      "stop": "2026-10-07T22:34:00+00:00",
-      "channel": "Action",
-      "title": "La somme de toutes les peurs",
-      "subtitle": "",
-      "directors": [
-        "Phil Alden Robinson",
-        "Mace Neufeld"
-      ],
-      "matched_director": "Phil Alden Robinson",
-      "actors": [
-        "Ben Affleck",
-        "Morgan Freeman",
-        "James Cromwell",
-        "Liev Schreiber",
-        "Bridget Moynahan",
-        "Alan Bates"
-      ],
-      "description": "Le Président russe vient de décéder. Un groupe de terroristes néo-nazis parvient à s'emparer d'une bombe nucléaire datant de la Guerre du Kippour et fait exploser une bombe chimique sur Grozny, anéantissant ainsi la capitale tchétchène au nom du gouvernement russe. Leur prochaine cible : la ville américaine de Baltimore, où doit se dérouler la finale du Superbowl. Les terroristes espèrent ainsi que la panique générale relancera la défunte Guerre Froide. Le directeur de la CIA, Bill Cabot, engage alors les services d'un brillant et intègre agent spécialiste de la Russie, Jack Ryan, afin de faire la lumière sur les derniers événements. Selon celui-ci, les principaux responsables ne sont pas les autorités russes, mais bien des terroristes. Jack doit faire vite pour trouver des preuves tangibles qui corroboreront sa thèse.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-08T19:00:00+00:00",
       "stop": "2026-10-08T20:45:00+00:00",
@@ -135,8 +92,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-10-10T15:40:00+00:00",
-      "stop": "2026-10-10T16:03:00+00:00",
+      "start": "2026-10-10T15:39:00+00:00",
+      "stop": "2026-10-10T16:01:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Noël au bureau - 2",
@@ -242,6 +199,27 @@
       ],
       "description": "David Wallace, le président de Dunder-Mifflin, organise une réception chez lui à laquelle Jan, Michael, Dwight et Jim sont invités. Pour Michael et Jan, il s'agit de la première sortie officielle en couple. Les autres employés sortent boire un verre.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-10-15T06:35:00+00:00",
+      "stop": "2026-10-15T08:59:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "Cinéma"
     }
   ]
 }
