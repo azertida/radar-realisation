@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T15:33:46.234449+00:00",
-  "window_start": "2026-10-08",
-  "window_end": "2026-10-15",
+  "generated_at": "2026-10-10T11:14:26.695588+00:00",
+  "window_start": "2026-10-10",
+  "window_end": "2026-10-16",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,53 +47,11 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 8,
+  "count": 9,
   "programmes": [
     {
-      "start": "2026-10-08T19:00:00+00:00",
-      "stop": "2026-10-08T20:45:00+00:00",
-      "channel": "France 4",
-      "title": "Misery",
-      "subtitle": "",
-      "directors": [
-        "Rob Reiner"
-      ],
-      "matched_director": "Rob Reiner",
-      "actors": [
-        "Kathy Bates",
-        "James Caan",
-        "Richard Farnsworth",
-        "Frances Sternhagen",
-        "Lauren Bacall",
-        "Graham Jarvis"
-      ],
-      "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-10-08T21:54:00+00:00",
-      "stop": "2026-10-08T22:46:00+00:00",
-      "channel": "TF1",
-      "title": "New York, Police Judiciaire",
-      "subtitle": "Témoins gênants",
-      "directors": [
-        "Timothy Busfield"
-      ],
-      "matched_director": "Timothy Busfield",
-      "actors": [
-        "Sam Waterston",
-        "Anthony Anderson",
-        "Jeffrey Donovan",
-        "Camryn Manheim",
-        "Hugh Dancy",
-        "Odelya Halevi"
-      ],
-      "description": "Lorsqu'un sans-abri est assassiné, les preuves conduisent Cosgrove et Shaw à une mystérieuse tentative de dissimulation sur un chantier de construction.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-10T15:39:00+00:00",
-      "stop": "2026-10-10T16:01:00+00:00",
+      "start": "2026-10-10T15:40:00+00:00",
+      "stop": "2026-10-10T16:02:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Noël au bureau - 2",
@@ -220,6 +178,71 @@
       ],
       "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-16T08:04:00+00:00",
+      "stop": "2026-10-16T10:05:00+00:00",
+      "channel": "Action",
+      "title": "La somme de toutes les peurs",
+      "subtitle": "",
+      "directors": [
+        "Phil Alden Robinson",
+        "Mace Neufeld"
+      ],
+      "matched_director": "Phil Alden Robinson",
+      "actors": [
+        "Ben Affleck",
+        "Morgan Freeman",
+        "James Cromwell",
+        "Liev Schreiber",
+        "Bridget Moynahan",
+        "Alan Bates"
+      ],
+      "description": "Le Président russe vient de décéder. Un groupe de terroristes néo-nazis parvient à s'emparer d'une bombe nucléaire datant de la Guerre du Kippour et fait exploser une bombe chimique sur Grozny, anéantissant ainsi la capitale tchétchène au nom du gouvernement russe. Leur prochaine cible : la ville américaine de Baltimore, où doit se dérouler la finale du Superbowl. Les terroristes espèrent ainsi que la panique générale relancera la défunte Guerre Froide. Le directeur de la CIA, Bill Cabot, engage alors les services d'un brillant et intègre agent spécialiste de la Russie, Jack Ryan, afin de faire la lumière sur les derniers événements. Selon celui-ci, les principaux responsables ne sont pas les autorités russes, mais bien des terroristes. Jack doit faire vite pour trouver des preuves tangibles qui corroboreront sa thèse.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-16T21:00:00+00:00",
+      "stop": "2026-10-16T22:50:00+00:00",
+      "channel": "BBC Two",
+      "title": "The Silence of the Lambs",
+      "subtitle": "",
+      "directors": [
+        "Jonathan Demme"
+      ],
+      "matched_director": "Jonathan Demme",
+      "actors": [
+        "Jodie Foster",
+        "Anthony Hopkins",
+        "Scott Glenn",
+        "Ted Levine",
+        "Anthony Heald",
+        "Diane Baker"
+      ],
+      "description": "Clarice Starling, an FBI agent, is dealing with a serial killer who has murdered several women. She has no choice but to take the help of Hannibal Lecter, another psychopathic serial killer, to nab this serial killer.",
+      "category": "Movies"
+    },
+    {
+      "start": "2026-10-16T23:00:00+00:00",
+      "stop": "2026-10-16T23:23:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "La sécurité",
+      "directors": [
+        "Harold Ramis",
+        "Ricky Gervais"
+      ],
+      "matched_director": "Harold Ramis",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "Michael est vexé quand les employés de l'entrepôt lui disent que leur travail est plus dangereux que le sien. Pour démontrer la dangerosité du travail de bureau, il met en scène une tentative de suicide. Andy est de retour après son stage de gestion de la colère. Son plan de sauter du toit de l'immeuble sur un château gonflable se grippe quand les autres employés découvrent ce qu'il est en train de faire et lui parlent depuis le parking, alors que Michael prend conscience de son sentiment dépressif. Pendant ce temps, Andy essaie de se faire apprécier de ses collègues après son retour du stage de gestion de la colère.",
+      "category": "Séries"
     }
   ]
 }
