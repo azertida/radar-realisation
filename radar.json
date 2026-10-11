@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T14:42:22.090842+00:00",
+  "generated_at": "2026-10-11T11:27:38.539719+00:00",
   "window_start": "2026-10-10",
-  "window_end": "2026-10-16",
+  "window_end": "2026-10-17",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 9,
+  "count": 10,
   "programmes": [
     {
       "start": "2026-10-10T15:40:00+00:00",
@@ -243,6 +243,27 @@
       ],
       "description": "Michael est vexé quand les employés de l'entrepôt lui disent que leur travail est plus dangereux que le sien. Pour démontrer la dangerosité du travail de bureau, il met en scène une tentative de suicide. Andy est de retour après son stage de gestion de la colère. Son plan de sauter du toit de l'immeuble sur un château gonflable se grippe quand les autres employés découvrent ce qu'il est en train de faire et lui parlent depuis le parking, alors que Michael prend conscience de son sentiment dépressif. Pendant ce temps, Andy essaie de se faire apprécier de ses collègues après son retour du stage de gestion de la colère.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-10-17T13:15:00+00:00",
+      "stop": "2026-10-17T15:25:00+00:00",
+      "channel": "BBC Two",
+      "title": "North by Northwest",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Cary Grant",
+        "Eva Marie Saint",
+        "James Mason",
+        "Jessie Royce Landis",
+        "Philip Ober",
+        "Martin Landau"
+      ],
+      "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
+      "category": "Movies"
     }
   ]
 }
