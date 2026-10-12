@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T15:04:51.429286+00:00",
-  "window_start": "2026-10-10",
-  "window_end": "2026-10-17",
+  "generated_at": "2026-10-12T13:14:04.333445+00:00",
+  "window_start": "2026-10-11",
+  "window_end": "2026-10-18",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,30 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 10,
+  "count": 12,
   "programmes": [
-    {
-      "start": "2026-10-10T15:40:00+00:00",
-      "stop": "2026-10-10T16:02:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Noël au bureau - 2",
-      "directors": [
-        "Harold Ramis",
-        "Ricky Gervais"
-      ],
-      "matched_director": "Harold Ramis",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "Michael envoie une carte de Noël de mauvais goût à Carol, sa petite amie et cela le plonge dans l'embarras! Des tensions dans l'organisation de la fête de Noël apparaissent entre Angela, Pam et Karen...",
-      "category": "Séries"
-    },
     {
       "start": "2026-10-11T15:14:00+00:00",
       "stop": "2026-10-11T17:15:00+00:00",
@@ -264,6 +242,69 @@
       ],
       "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-10-18T06:00:00+00:00",
+      "stop": "2026-10-18T08:24:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-18T17:55:00+00:00",
+      "stop": "2026-10-18T20:25:00+00:00",
+      "channel": "VTM 2",
+      "title": "Robin Hood",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Russell Crowe",
+        "Cate Blanchett",
+        "Max von Sydow",
+        "William Hurt",
+        "Mark Strong",
+        "Oscar Isaac"
+      ],
+      "description": "Na de dood van koning Richard valt Engeland ten prooi aan chaos. De boogschutter Robin Longstride keert na de oorlog terug naar Nottingham, een stadje dat geteisterd wordt door een tirannieke schout. Hij wordt er verliefd op vrouwe Marion, maar zij vertrouwt de motieven van Robin niet helemaal. Om haar van zijn liefde te overtuigen en de arme bevolking te helpen, roept hij een stel vrijbuiters bijeen.",
+      "category": "Films"
+    },
+    {
+      "start": "2026-10-18T19:00:00+00:00",
+      "stop": "2026-10-18T21:45:00+00:00",
+      "channel": "Arte",
+      "title": "Interstellar",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine",
+        "Casey Affleck",
+        "Topher Grace"
+      ],
+      "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
+      "category": "Cinéma"
     }
   ]
 }
