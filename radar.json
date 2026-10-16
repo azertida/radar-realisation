@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T13:41:08.937035+00:00",
-  "window_start": "2026-10-14",
-  "window_end": "2026-10-21",
+  "generated_at": "2026-10-16T09:53:37.058733+00:00",
+  "window_start": "2026-10-15",
+  "window_end": "2026-10-22",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -49,50 +49,6 @@
   ],
   "count": 15,
   "programmes": [
-    {
-      "start": "2026-10-14T15:05:00+00:00",
-      "stop": "2026-10-14T15:30:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Cocktails",
-      "directors": [
-        "J.J. Abrams",
-        "Ricky Gervais"
-      ],
-      "matched_director": "J.J. Abrams",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "David Wallace, le président de Dunder-Mifflin, organise une réception chez lui à laquelle Jan, Michael, Dwight et Jim sont invités. Pour Michael et Jan, il s'agit de la première sortie officielle en couple. Les autres employés sortent boire un verre.",
-      "category": "Séries"
-    },
-    {
-      "start": "2026-10-14T23:11:00+00:00",
-      "stop": "2026-10-14T23:30:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Cocktails",
-      "directors": [
-        "J.J. Abrams",
-        "Ricky Gervais"
-      ],
-      "matched_director": "J.J. Abrams",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "David Wallace, le président de Dunder-Mifflin, organise une réception chez lui à laquelle Jan, Michael, Dwight et Jim sont invités. Pour Michael et Jan, il s'agit de la première sortie officielle en couple. Les autres employés sortent boire un verre.",
-      "category": "Séries"
-    },
     {
       "start": "2026-10-15T06:35:00+00:00",
       "stop": "2026-10-15T08:59:00+00:00",
@@ -158,7 +114,7 @@
       "category": "Movies"
     },
     {
-      "start": "2026-10-16T22:53:00+00:00",
+      "start": "2026-10-16T22:54:00+00:00",
       "stop": "2026-10-16T23:17:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
@@ -369,6 +325,48 @@
         "Leslie David Baker"
       ],
       "description": "David Wallace offre un poste au siège à Michael. Ce dernier organise une journée à la plage où il entraîne les employés dans toutes sortes d'épreuves farfelues, afin d'identifier lequel d'entre eux serait le meilleur successeur.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-10-22T16:26:00+00:00",
+      "stop": "2026-10-22T18:50:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-22T23:25:00+00:00",
+      "stop": "2026-10-23T00:15:00+00:00",
+      "channel": "TF1",
+      "title": "New York, Police Judiciaire",
+      "subtitle": "Témoins gênants",
+      "directors": [
+        "Timothy Busfield"
+      ],
+      "matched_director": "Timothy Busfield",
+      "actors": [
+        "Sam Waterston",
+        "Anthony Anderson",
+        "Jeffrey Donovan",
+        "Camryn Manheim",
+        "Hugh Dancy",
+        "Odelya Halevi"
+      ],
+      "description": "Lorsqu'un sans-abri est assassiné, les preuves conduisent Cosgrove et Shaw à une mystérieuse tentative de dissimulation sur un chantier de construction.",
       "category": "Séries"
     }
   ]
