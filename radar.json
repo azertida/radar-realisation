@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T13:31:09.764579+00:00",
-  "window_start": "2026-10-15",
-  "window_end": "2026-10-22",
+  "generated_at": "2026-10-17T09:27:30.845922+00:00",
+  "window_start": "2026-10-16",
+  "window_end": "2026-10-23",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -50,27 +50,6 @@
   "count": 15,
   "programmes": [
     {
-      "start": "2026-10-15T06:35:00+00:00",
-      "stop": "2026-10-15T08:59:00+00:00",
-      "channel": "Action",
-      "title": "Chouans !",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Philippe Noiret",
-        "Vincent Schmitt",
-        "Raoul Billerey",
-        "Claudine Delvaux",
-        "Jean Parédès",
-        "Sophie Marceau"
-      ],
-      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
-      "category": "Cinéma"
-    },
-    {
       "start": "2026-10-16T08:04:00+00:00",
       "stop": "2026-10-16T10:05:00+00:00",
       "channel": "Action",
@@ -114,8 +93,8 @@
       "category": "Movies"
     },
     {
-      "start": "2026-10-16T22:54:00+00:00",
-      "stop": "2026-10-16T23:17:00+00:00",
+      "start": "2026-10-16T22:52:00+00:00",
+      "stop": "2026-10-16T23:16:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "La sécurité",
@@ -368,6 +347,27 @@
       ],
       "description": "Lorsqu'un sans-abri est assassiné, les preuves conduisent Cosgrove et Shaw à une mystérieuse tentative de dissimulation sur un chantier de construction.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-10-23T18:50:00+00:00",
+      "stop": "2026-10-23T20:45:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "matched_director": "Phillip Noyce",
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Cinéma"
     }
   ]
 }
