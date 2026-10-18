@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T12:23:34.616960+00:00",
-  "window_start": "2026-10-16",
-  "window_end": "2026-10-23",
+  "generated_at": "2026-10-18T09:41:46.414277+00:00",
+  "window_start": "2026-10-17",
+  "window_end": "2026-10-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -49,71 +49,6 @@
   ],
   "count": 15,
   "programmes": [
-    {
-      "start": "2026-10-16T08:04:00+00:00",
-      "stop": "2026-10-16T10:05:00+00:00",
-      "channel": "Action",
-      "title": "La somme de toutes les peurs",
-      "subtitle": "",
-      "directors": [
-        "Phil Alden Robinson",
-        "Mace Neufeld"
-      ],
-      "matched_director": "Phil Alden Robinson",
-      "actors": [
-        "Ben Affleck",
-        "Morgan Freeman",
-        "James Cromwell",
-        "Liev Schreiber",
-        "Bridget Moynahan",
-        "Alan Bates"
-      ],
-      "description": "Le Président russe vient de décéder. Un groupe de terroristes néo-nazis parvient à s'emparer d'une bombe nucléaire datant de la Guerre du Kippour et fait exploser une bombe chimique sur Grozny, anéantissant ainsi la capitale tchétchène au nom du gouvernement russe. Leur prochaine cible : la ville américaine de Baltimore, où doit se dérouler la finale du Superbowl. Les terroristes espèrent ainsi que la panique générale relancera la défunte Guerre Froide. Le directeur de la CIA, Bill Cabot, engage alors les services d'un brillant et intègre agent spécialiste de la Russie, Jack Ryan, afin de faire la lumière sur les derniers événements. Selon celui-ci, les principaux responsables ne sont pas les autorités russes, mais bien des terroristes. Jack doit faire vite pour trouver des preuves tangibles qui corroboreront sa thèse.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-10-16T21:00:00+00:00",
-      "stop": "2026-10-16T22:50:00+00:00",
-      "channel": "BBC Two",
-      "title": "The Silence of the Lambs",
-      "subtitle": "",
-      "directors": [
-        "Jonathan Demme"
-      ],
-      "matched_director": "Jonathan Demme",
-      "actors": [
-        "Jodie Foster",
-        "Anthony Hopkins",
-        "Scott Glenn",
-        "Ted Levine",
-        "Anthony Heald",
-        "Diane Baker"
-      ],
-      "description": "Clarice Starling, an FBI agent, is dealing with a serial killer who has murdered several women. She has no choice but to take the help of Hannibal Lecter, another psychopathic serial killer, to nab this serial killer.",
-      "category": "Movies"
-    },
-    {
-      "start": "2026-10-16T22:52:00+00:00",
-      "stop": "2026-10-16T23:16:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "La sécurité",
-      "directors": [
-        "Harold Ramis",
-        "Ricky Gervais"
-      ],
-      "matched_director": "Harold Ramis",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "Michael est vexé quand les employés de l'entrepôt lui disent que leur travail est plus dangereux que le sien. Pour démontrer la dangerosité du travail de bureau, il met en scène une tentative de suicide. Andy est de retour après son stage de gestion de la colère. Son plan de sauter du toit de l'immeuble sur un château gonflable se grippe quand les autres employés découvrent ce qu'il est en train de faire et lui parlent depuis le parking, alors que Michael prend conscience de son sentiment dépressif. Pendant ce temps, Andy essaie de se faire apprécier de ses collègues après son retour du stage de gestion de la colère.",
-      "category": "Séries"
-    },
     {
       "start": "2026-10-17T13:15:00+00:00",
       "stop": "2026-10-17T15:25:00+00:00",
@@ -328,8 +263,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-22T23:25:00+00:00",
-      "stop": "2026-10-23T00:15:00+00:00",
+      "start": "2026-10-22T23:29:00+00:00",
+      "stop": "2026-10-23T00:19:00+00:00",
       "channel": "TF1",
       "title": "New York, Police Judiciaire",
       "subtitle": "Témoins gênants",
@@ -368,6 +303,70 @@
       ],
       "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-24T06:10:00+00:00",
+      "stop": "2026-10-24T08:34:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-24T09:57:00+00:00",
+      "stop": "2026-10-24T11:52:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "matched_director": "Phillip Noyce",
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-24T15:32:00+00:00",
+      "stop": "2026-10-24T16:02:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Journée à la plage",
+      "directors": [
+        "Harold Ramis",
+        "Ricky Gervais"
+      ],
+      "matched_director": "Harold Ramis",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "David Wallace offre un poste au siège à Michael. Ce dernier organise une journée à la plage où il entraîne les employés dans toutes sortes d'épreuves farfelues, afin d'identifier lequel d'entre eux serait le meilleur successeur.",
+      "category": "Séries"
     }
   ]
 }
