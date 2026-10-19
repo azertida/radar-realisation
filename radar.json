@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T12:46:34.279382+00:00",
-  "window_start": "2026-10-17",
-  "window_end": "2026-10-24",
+  "generated_at": "2026-10-19T10:52:04.752480+00:00",
+  "window_start": "2026-10-18",
+  "window_end": "2026-10-25",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,29 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 15,
+  "count": 16,
   "programmes": [
-    {
-      "start": "2026-10-17T13:15:00+00:00",
-      "stop": "2026-10-17T15:25:00+00:00",
-      "channel": "BBC Two",
-      "title": "North by Northwest",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Cary Grant",
-        "Eva Marie Saint",
-        "James Mason",
-        "Jessie Royce Landis",
-        "Philip Ober",
-        "Martin Landau"
-      ],
-      "description": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase. Famous for a wild plane attack and a harrowing chase across the faces of Mount Rushmore, this is quintessential Hitchcock.",
-      "category": "Movies"
-    },
     {
       "start": "2026-10-18T06:00:00+00:00",
       "stop": "2026-10-18T08:24:00+00:00",
@@ -367,6 +346,48 @@
       ],
       "description": "David Wallace offre un poste au siège à Michael. Ce dernier organise une journée à la plage où il entraîne les employés dans toutes sortes d'épreuves farfelues, afin d'identifier lequel d'entre eux serait le meilleur successeur.",
       "category": "Séries"
+    },
+    {
+      "start": "2026-10-25T20:00:00+00:00",
+      "stop": "2026-10-25T21:50:00+00:00",
+      "channel": "Arte",
+      "title": "La maison du docteur Edwardes",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Gregory Peck",
+        "Ingrid Bergman",
+        "Michael Chekhov",
+        "Leo G. Carroll",
+        "Jean Acker",
+        "Donald Curtis"
+      ],
+      "description": "Constance, médecin dans un asile d'aliénés, tombe amoureuse du nouveau directeur. Cependant, elle s'aperçoit rapidement que l'homme qu'elle aime est en réalité un malade mental qui se fait passer pour le Dr Edwardes. Quand il prend conscience de son amnésie, il croit avoir tué le véritable docteur et s'enfuit de la clinique. Constance le retrouve et le cache chez son vieux professeur qui va analyser les rêves du malade et trouver l'origine de son déséquilibre.",
+      "category": "Cinéma"
+    },
+    {
+      "start": "2026-10-25T22:45:00+00:00",
+      "stop": "2026-10-26T00:25:00+00:00",
+      "channel": "BBC Two",
+      "title": "Misery",
+      "subtitle": "",
+      "directors": [
+        "Rob Reiner"
+      ],
+      "matched_director": "Rob Reiner",
+      "actors": [
+        "Kathy Bates",
+        "James Caan",
+        "Richard Farnsworth",
+        "Frances Sternhagen",
+        "Lauren Bacall",
+        "Graham Jarvis"
+      ],
+      "description": "Angry that he killed off her hero, a woman holds her favorite novelist hostage to make him write a new book the way she wants it.",
+      "category": "Movies"
     }
   ]
 }
