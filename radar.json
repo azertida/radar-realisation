@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T15:52:01.714756+00:00",
-  "window_start": "2026-10-18",
-  "window_end": "2026-10-25",
+  "generated_at": "2026-10-20T10:08:46.070584+00:00",
+  "window_start": "2026-10-20",
+  "window_end": "2026-10-26",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,71 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 16,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-10-18T06:00:00+00:00",
-      "stop": "2026-10-18T08:24:00+00:00",
-      "channel": "Action",
-      "title": "Chouans !",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Philippe Noiret",
-        "Vincent Schmitt",
-        "Raoul Billerey",
-        "Claudine Delvaux",
-        "Jean Parédès",
-        "Sophie Marceau"
-      ],
-      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
-      "category": "Cinéma"
-    },
-    {
-      "start": "2026-10-18T17:55:00+00:00",
-      "stop": "2026-10-18T20:25:00+00:00",
-      "channel": "VTM 2",
-      "title": "Robin Hood",
-      "subtitle": "",
-      "directors": [
-        "Ridley Scott"
-      ],
-      "matched_director": "Ridley Scott",
-      "actors": [
-        "Russell Crowe",
-        "Cate Blanchett",
-        "Max von Sydow",
-        "William Hurt",
-        "Mark Strong",
-        "Oscar Isaac"
-      ],
-      "description": "Na de dood van koning Richard valt Engeland ten prooi aan chaos. De boogschutter Robin Longstride keert na de oorlog terug naar Nottingham, een stadje dat geteisterd wordt door een tirannieke schout. Hij wordt er verliefd op vrouwe Marion, maar zij vertrouwt de motieven van Robin niet helemaal. Om haar van zijn liefde te overtuigen en de arme bevolking te helpen, roept hij een stel vrijbuiters bijeen.",
-      "category": "Films"
-    },
-    {
-      "start": "2026-10-18T19:00:00+00:00",
-      "stop": "2026-10-18T21:45:00+00:00",
-      "channel": "Arte",
-      "title": "Interstellar",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "matched_director": "Christopher Nolan",
-      "actors": [
-        "Matthew McConaughey",
-        "Anne Hathaway",
-        "Jessica Chastain",
-        "Michael Caine",
-        "Casey Affleck",
-        "Topher Grace"
-      ],
-      "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-10-20T14:49:00+00:00",
       "stop": "2026-10-20T17:13:00+00:00",
@@ -155,8 +92,8 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-21T14:39:00+00:00",
-      "stop": "2026-10-21T15:10:00+00:00",
+      "start": "2026-10-21T14:36:00+00:00",
+      "stop": "2026-10-21T15:06:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Journée à la plage",
@@ -199,7 +136,7 @@
       "category": "Cinéma"
     },
     {
-      "start": "2026-10-21T22:46:00+00:00",
+      "start": "2026-10-21T22:47:00+00:00",
       "stop": "2026-10-21T23:16:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
@@ -386,8 +323,29 @@
         "Lauren Bacall",
         "Graham Jarvis"
       ],
-      "description": "Angry that he killed off her hero, a woman holds her favorite novelist hostage to make him write a new book the way she wants it.",
+      "description": "A car accident on a remote snowy road injures author Paul Sheldon, saved by nurse Annie Wilkes, a great fan of his work. However, her devotion soon takes a sinister turn.",
       "category": "Movies"
+    },
+    {
+      "start": "2026-10-26T07:53:00+00:00",
+      "stop": "2026-10-26T10:17:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "Cinéma"
     }
   ]
 }
