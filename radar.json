@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T14:09:29.633041+00:00",
+  "generated_at": "2026-10-21T18:33:02.806792+00:00",
   "window_start": "2026-10-21",
-  "window_end": "2026-10-21",
+  "window_end": "2026-10-28",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,6 +47,349 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 0,
-  "programmes": []
+  "count": 16,
+  "programmes": [
+    {
+      "start": "2026-10-21T11:35:00+00:00",
+      "stop": "2026-10-21T14:30:00+00:00",
+      "channel": "Arte",
+      "title": "Interstellar",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine",
+        "Casey Affleck",
+        "Topher Grace"
+      ],
+      "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-21T14:34:00+00:00",
+      "stop": "2026-10-21T15:04:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Journée à la plage",
+      "directors": [
+        "Harold Ramis",
+        "Ricky Gervais"
+      ],
+      "matched_director": "Harold Ramis",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "David Wallace offre un poste au siège à Michael. Ce dernier organise une journée à la plage où il entraîne les employés dans toutes sortes d'épreuves farfelues, afin d'identifier lequel d'entre eux serait le meilleur successeur.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-21T18:50:00+00:00",
+      "stop": "2026-10-21T20:51:00+00:00",
+      "channel": "Action",
+      "title": "La somme de toutes les peurs",
+      "subtitle": "",
+      "directors": [
+        "Phil Alden Robinson",
+        "Mace Neufeld"
+      ],
+      "matched_director": "Phil Alden Robinson",
+      "actors": [
+        "Ben Affleck",
+        "Morgan Freeman",
+        "James Cromwell",
+        "Liev Schreiber",
+        "Bridget Moynahan",
+        "Alan Bates"
+      ],
+      "description": "Le Président russe vient de décéder. Un groupe de terroristes néo-nazis parvient à s'emparer d'une bombe nucléaire datant de la Guerre du Kippour et fait exploser une bombe chimique sur Grozny, anéantissant ainsi la capitale tchétchène au nom du gouvernement russe. Leur prochaine cible : la ville américaine de Baltimore, où doit se dérouler la finale du Superbowl. Les terroristes espèrent ainsi que la panique générale relancera la défunte Guerre Froide. Le directeur de la CIA, Bill Cabot, engage alors les services d'un brillant et intègre agent spécialiste de la Russie, Jack Ryan, afin de faire la lumière sur les derniers événements. Selon celui-ci, les principaux responsables ne sont pas les autorités russes, mais bien des terroristes. Jack doit faire vite pour trouver des preuves tangibles qui corroboreront sa thèse.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-10-21T22:48:00+00:00",
+      "stop": "2026-10-21T23:16:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Journée à la plage",
+      "directors": [
+        "Harold Ramis",
+        "Ricky Gervais"
+      ],
+      "matched_director": "Harold Ramis",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "David Wallace offre un poste au siège à Michael. Ce dernier organise une journée à la plage où il entraîne les employés dans toutes sortes d'épreuves farfelues, afin d'identifier lequel d'entre eux serait le meilleur successeur.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-22T16:26:00+00:00",
+      "stop": "2026-10-22T18:50:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "History"
+    },
+    {
+      "start": "2026-10-22T23:30:00+00:00",
+      "stop": "2026-10-23T00:21:00+00:00",
+      "channel": "TF1",
+      "title": "New York, Police Judiciaire",
+      "subtitle": "Témoins gênants",
+      "directors": [
+        "Timothy Busfield"
+      ],
+      "matched_director": "Timothy Busfield",
+      "actors": [
+        "Sam Waterston",
+        "Anthony Anderson",
+        "Jeffrey Donovan",
+        "Camryn Manheim",
+        "Hugh Dancy",
+        "Odelya Halevi"
+      ],
+      "description": "Lorsqu'un sans-abri est assassiné, les preuves conduisent Cosgrove et Shaw à une mystérieuse tentative de dissimulation sur un chantier de construction.",
+      "category": "Crime"
+    },
+    {
+      "start": "2026-10-23T18:50:00+00:00",
+      "stop": "2026-10-23T20:45:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "matched_director": "Phillip Noyce",
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-10-24T06:10:00+00:00",
+      "stop": "2026-10-24T08:34:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "History"
+    },
+    {
+      "start": "2026-10-24T09:57:00+00:00",
+      "stop": "2026-10-24T11:52:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "matched_director": "Phillip Noyce",
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-10-24T15:32:00+00:00",
+      "stop": "2026-10-24T16:02:00+00:00",
+      "channel": "Tipik",
+      "title": "The Office",
+      "subtitle": "Journée à la plage",
+      "directors": [
+        "Harold Ramis",
+        "Ricky Gervais"
+      ],
+      "matched_director": "Harold Ramis",
+      "actors": [
+        "Steve Carell",
+        "Jenna Fischer",
+        "John Krasinski",
+        "Rainn Wilson",
+        "B.J. Novak",
+        "Leslie David Baker"
+      ],
+      "description": "David Wallace offre un poste au siège à Michael. Ce dernier organise une journée à la plage où il entraîne les employés dans toutes sortes d'épreuves farfelues, afin d'identifier lequel d'entre eux serait le meilleur successeur.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-10-25T20:00:00+00:00",
+      "stop": "2026-10-25T21:50:00+00:00",
+      "channel": "Arte",
+      "title": "La maison du docteur Edwardes",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Gregory Peck",
+        "Ingrid Bergman",
+        "Michael Chekhov",
+        "Leo G. Carroll",
+        "Jean Acker",
+        "Donald Curtis"
+      ],
+      "description": "Constance, médecin dans un asile d'aliénés, tombe amoureuse du nouveau directeur. Cependant, elle s'aperçoit rapidement que l'homme qu'elle aime est en réalité un malade mental qui se fait passer pour le Dr Edwardes. Quand il prend conscience de son amnésie, il croit avoir tué le véritable docteur et s'enfuit de la clinique. Constance le retrouve et le cache chez son vieux professeur qui va analyser les rêves du malade et trouver l'origine de son déséquilibre.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-25T22:45:00+00:00",
+      "stop": "2026-10-26T00:25:00+00:00",
+      "channel": "BBC Two",
+      "title": "Misery",
+      "subtitle": "",
+      "directors": [
+        "Rob Reiner"
+      ],
+      "matched_director": "Rob Reiner",
+      "actors": [
+        "Kathy Bates",
+        "James Caan",
+        "Richard Farnsworth",
+        "Frances Sternhagen",
+        "Lauren Bacall",
+        "Graham Jarvis"
+      ],
+      "description": "A car accident on a remote snowy road injures author Paul Sheldon, saved by nurse Annie Wilkes, a great fan of his work. However, her devotion soon takes a sinister turn.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-10-26T07:53:00+00:00",
+      "stop": "2026-10-26T10:17:00+00:00",
+      "channel": "Action",
+      "title": "Chouans !",
+      "subtitle": "",
+      "directors": [
+        "Philippe de Broca"
+      ],
+      "matched_director": "Philippe de Broca",
+      "actors": [
+        "Philippe Noiret",
+        "Vincent Schmitt",
+        "Raoul Billerey",
+        "Claudine Delvaux",
+        "Jean Parédès",
+        "Sophie Marceau"
+      ],
+      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "category": "History"
+    },
+    {
+      "start": "2026-10-28T19:35:00+00:00",
+      "stop": "2026-10-28T22:05:00+00:00",
+      "channel": "VTM 2",
+      "title": "Mission Impossible - Ghost Protocol",
+      "subtitle": "",
+      "directors": [
+        "Brad Bird",
+        "Bryan Burk",
+        "J.J. Abrams"
+      ],
+      "matched_director": "J.J. Abrams",
+      "actors": [
+        "Paula Patton",
+        "Michael Nyqvist",
+        "Vladimir Mashkov",
+        "Samuli Edelmann",
+        "Ivan Shvedov",
+        "Anil Kapoor"
+      ],
+      "description": "Geheim agent Ethan Hunt en zijn teamleden worden opgeroepen door de president om terecht te staan voor een fatale explosie die is ontstaan in het Kremlin gebouw in Moskou, waar zij bezig waren met een top geheime missie.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-10-28T19:38:00+00:00",
+      "stop": "2026-10-28T21:46:00+00:00",
+      "channel": "La Trois",
+      "title": "Rebecca",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Laurence Olivier",
+        "Joan Fontaine",
+        "Judith Anderson",
+        "George Sanders",
+        "Nigel Bruce",
+        "C. Aubrey Smith"
+      ],
+      "description": "Mrs. Edythe Van Hopper, respectable veuve déjà âgée, accompagnée de sa jeune demoiselle de compagnie, est en villégiature à Monte-Carlo dans l'hôtel Côte-d'Azur, lorsque leur chemin croise celui de Maxim de Winter, riche veuf, qui n'a aucun mal à séduire la jeune fille et, dans la foulée, à l'épouser et l'emmener dans sa demeure ancestrale de Manderley, quelque part sur la côte sud-est de l'Angleterre. Les premiers contacts avec le personnel du château, régenté par la peu amène gouvernante Mrs. Danvers, sont glaciaux. Cette dernière, en effet, attachée depuis toujours au service de la précédente Mrs. de Winter, Rebecca, et lui vouant une passion sans limite, même à titre posthume, n'accepte pas l'intrusion de l'«usurpatrice ». Le souvenir de l'épouse disparue et vénérée continue de hanter le château sombre.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-10-28T20:00:00+00:00",
+      "stop": "2026-10-28T22:05:00+00:00",
+      "channel": "Arte",
+      "title": "The Game",
+      "subtitle": "",
+      "directors": [
+        "David Fincher"
+      ],
+      "matched_director": "David Fincher",
+      "actors": [
+        "Michael Douglas",
+        "Sean Penn",
+        "Deborah Kara Unger",
+        "James Rebhorn",
+        "Peter Donat",
+        "Carroll Baker"
+      ],
+      "description": "Le jour de son anniversaire, Nicholas Van Orton, un riche homme d'affaires de San Francisco, reçoit un étrange cadeau de la part de son frère Conrad. Il s'agit d'un jeu, supposé apporter du piment dans sa vie. Bien qu'il ne soit certain ni des règles ni du but réel de ce jeu, Nicholas accepte d'y prendre part. Peu à peu, il se retrouve pris au piège dans un jeu vicieux qui pourrait bien faire voler sa vie en éclats. Il prend peu à peu conscience qu'il est manipulé jusque dans sa propre maison par des conspirateurs inconnus qui semblent vouloir faire voler sa vie en éclats.",
+      "category": "Thriller"
+    }
+  ]
 }
