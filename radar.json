@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:15:55.933595+00:00",
+  "generated_at": "2026-10-22T14:03:19.497438+00:00",
   "window_start": "2026-10-22",
   "window_end": "2026-10-29",
   "source": "Pickx via iptv-org/epg",
@@ -71,8 +71,8 @@
       "category": "History"
     },
     {
-      "start": "2026-10-22T23:30:00+00:00",
-      "stop": "2026-10-23T00:21:00+00:00",
+      "start": "2026-10-22T23:33:00+00:00",
+      "stop": "2026-10-23T00:24:00+00:00",
       "channel": "TF1",
       "title": "New York, Police Judiciaire",
       "subtitle": "Témoins gênants",
