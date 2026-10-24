@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T13:46:16.893643+00:00",
-  "window_start": "2026-10-22",
-  "window_end": "2026-10-29",
+  "generated_at": "2026-10-24T09:35:37.423840+00:00",
+  "window_start": "2026-10-24",
+  "window_end": "2026-10-31",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,50 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 12,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-10-22T23:33:00+00:00",
-      "stop": "2026-10-23T00:24:00+00:00",
-      "channel": "TF1",
-      "title": "New York, Police Judiciaire",
-      "subtitle": "Témoins gênants",
-      "directors": [
-        "Timothy Busfield"
-      ],
-      "matched_director": "Timothy Busfield",
-      "actors": [
-        "Sam Waterston",
-        "Anthony Anderson",
-        "Jeffrey Donovan",
-        "Camryn Manheim",
-        "Hugh Dancy",
-        "Odelya Halevi"
-      ],
-      "description": "Lorsqu'un sans-abri est assassiné, les preuves conduisent Cosgrove et Shaw à une mystérieuse tentative de dissimulation sur un chantier de construction.",
-      "category": "Crime"
-    },
-    {
-      "start": "2026-10-23T18:50:00+00:00",
-      "stop": "2026-10-23T20:45:00+00:00",
-      "channel": "Action",
-      "title": "Bone Collector",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "matched_director": "Phillip Noyce",
-      "actors": [
-        "Denzel Washington",
-        "Angelina Jolie",
-        "Queen Latifah",
-        "Michael Rooker",
-        "Michael McGlone",
-        "Luis Guzman"
-      ],
-      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-10-24T06:10:00+00:00",
       "stop": "2026-10-24T08:34:00+00:00",
@@ -134,8 +92,8 @@
       "category": "Thriller"
     },
     {
-      "start": "2026-10-24T15:31:00+00:00",
-      "stop": "2026-10-24T16:00:00+00:00",
+      "start": "2026-10-24T15:33:00+00:00",
+      "stop": "2026-10-24T16:03:00+00:00",
       "channel": "Tipik",
       "title": "The Office",
       "subtitle": "Journée à la plage",
@@ -303,6 +261,92 @@
       ],
       "description": "Mrs. Edythe Van Hopper, respectable veuve déjà âgée, accompagnée de sa jeune demoiselle de compagnie, est en villégiature à Monte-Carlo dans l'hôtel Côte-d'Azur, lorsque leur chemin croise celui de Maxim de Winter, riche veuf, qui n'a aucun mal à séduire la jeune fille et, dans la foulée, à l'épouser et l'emmener dans sa demeure ancestrale de Manderley, quelque part sur la côte sud-est de l'Angleterre. Les premiers contacts avec le personnel du château, régenté par la peu amène gouvernante Mrs. Danvers, sont glaciaux. Cette dernière, en effet, attachée depuis toujours au service de la précédente Mrs. de Winter, Rebecca, et lui vouant une passion sans limite, même à titre posthume, n'accepte pas l'intrusion de l'«usurpatrice ». Le souvenir de l'épouse disparue et vénérée continue de hanter le château sombre.",
       "category": "Thriller"
+    },
+    {
+      "start": "2026-10-31T12:30:00+00:00",
+      "stop": "2026-10-31T14:20:00+00:00",
+      "channel": "Arte",
+      "title": "La maison du docteur Edwardes",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Gregory Peck",
+        "Ingrid Bergman",
+        "Michael Chekhov",
+        "Leo G. Carroll",
+        "Jean Acker",
+        "Donald Curtis"
+      ],
+      "description": "Constance, médecin dans un asile d'aliénés, tombe amoureuse du nouveau directeur. Cependant, elle s'aperçoit rapidement que l'homme qu'elle aime est en réalité un malade mental qui se fait passer pour le Dr Edwardes. Quand il prend conscience de son amnésie, il croit avoir tué le véritable docteur et s'enfuit de la clinique. Constance le retrouve et le cache chez son vieux professeur qui va analyser les rêves du malade et trouver l'origine de son déséquilibre.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-10-31T12:55:00+00:00",
+      "stop": "2026-10-31T15:15:00+00:00",
+      "channel": "VTM 2",
+      "title": "Mission Impossible - Ghost Protocol",
+      "subtitle": "",
+      "directors": [
+        "Brad Bird",
+        "Bryan Burk",
+        "J.J. Abrams"
+      ],
+      "matched_director": "J.J. Abrams",
+      "actors": [
+        "Paula Patton",
+        "Michael Nyqvist",
+        "Vladimir Mashkov",
+        "Samuli Edelmann",
+        "Ivan Shvedov",
+        "Anil Kapoor"
+      ],
+      "description": "Geheim agent Ethan Hunt en zijn teamleden worden opgeroepen door de president om terecht te staan voor een fatale explosie die is ontstaan in het Kremlin gebouw in Moskou, waar zij bezig waren met een top geheime missie.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-10-31T17:55:00+00:00",
+      "stop": "2026-10-31T19:50:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "matched_director": "Phillip Noyce",
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-10-31T19:30:00+00:00",
+      "stop": "2026-10-31T22:50:00+00:00",
+      "channel": "VTM 2",
+      "title": "Oppenheimer",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Robert Downey Jr.",
+        "Matt Damon",
+        "Alden Ehrenreich",
+        "Scott Grimes"
+      ],
+      "description": "Biografische film over de Amerikaanse natuurkundige J. Robert Oppenheimer. Tijdens de Tweede Wereldoorlog krijgt hij de leiding over het ultrageheime Manhattanproject, waarvoor Oppenheimer met een team van topwetenschappers de eerste atoombom ooit ontwikkelt. Oppenheimer is uiteindelijk verantwoordelijk voor de uitvinding van de atoombom.",
+      "category": "Biography"
     }
   ]
 }
