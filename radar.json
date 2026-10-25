@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T12:54:07.526022+00:00",
-  "window_start": "2026-10-24",
-  "window_end": "2026-10-31",
+  "generated_at": "2026-10-25T09:51:29.912985+00:00",
+  "window_start": "2026-10-25",
+  "window_end": "2026-11-01",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -49,70 +49,6 @@
   ],
   "count": 14,
   "programmes": [
-    {
-      "start": "2026-10-24T06:10:00+00:00",
-      "stop": "2026-10-24T08:34:00+00:00",
-      "channel": "Action",
-      "title": "Chouans !",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Philippe Noiret",
-        "Vincent Schmitt",
-        "Raoul Billerey",
-        "Claudine Delvaux",
-        "Jean Parédès",
-        "Sophie Marceau"
-      ],
-      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
-      "category": "History"
-    },
-    {
-      "start": "2026-10-24T09:57:00+00:00",
-      "stop": "2026-10-24T11:52:00+00:00",
-      "channel": "Action",
-      "title": "Bone Collector",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "matched_director": "Phillip Noyce",
-      "actors": [
-        "Denzel Washington",
-        "Angelina Jolie",
-        "Queen Latifah",
-        "Michael Rooker",
-        "Michael McGlone",
-        "Luis Guzman"
-      ],
-      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-10-24T15:33:00+00:00",
-      "stop": "2026-10-24T16:03:00+00:00",
-      "channel": "Tipik",
-      "title": "The Office",
-      "subtitle": "Journée à la plage",
-      "directors": [
-        "Harold Ramis",
-        "Ricky Gervais"
-      ],
-      "matched_director": "Harold Ramis",
-      "actors": [
-        "Steve Carell",
-        "Jenna Fischer",
-        "John Krasinski",
-        "Rainn Wilson",
-        "B.J. Novak",
-        "Leslie David Baker"
-      ],
-      "description": "David Wallace offre un poste au siège à Michael. Ce dernier organise une journée à la plage où il entraîne les employés dans toutes sortes d'épreuves farfelues, afin d'identifier lequel d'entre eux serait le meilleur successeur.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-10-25T20:00:00+00:00",
       "stop": "2026-10-25T21:50:00+00:00",
@@ -347,6 +283,69 @@
       ],
       "description": "Biografische film over de Amerikaanse natuurkundige J. Robert Oppenheimer. Tijdens de Tweede Wereldoorlog krijgt hij de leiding over het ultrageheime Manhattanproject, waarvoor Oppenheimer met een team van topwetenschappers de eerste atoombom ooit ontwikkelt. Oppenheimer is uiteindelijk verantwoordelijk voor de uitvinding van de atoombom.",
       "category": "Biography"
+    },
+    {
+      "start": "2026-11-01T09:09:00+00:00",
+      "stop": "2026-11-01T11:04:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "matched_director": "Phillip Noyce",
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-01T12:30:00+00:00",
+      "stop": "2026-11-01T15:20:00+00:00",
+      "channel": "Arte",
+      "title": "Interstellar",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain",
+        "Michael Caine",
+        "Casey Affleck",
+        "Topher Grace"
+      ],
+      "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-01T20:00:00+00:00",
+      "stop": "2026-11-01T22:10:00+00:00",
+      "channel": "Arte",
+      "title": "Rebecca",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Laurence Olivier",
+        "Joan Fontaine",
+        "Judith Anderson",
+        "George Sanders",
+        "Nigel Bruce",
+        "C. Aubrey Smith"
+      ],
+      "description": "Mrs. Edythe Van Hopper, respectable veuve déjà âgée, accompagnée de sa jeune demoiselle de compagnie, est en villégiature à Monte-Carlo dans l'hôtel Côte-d'Azur, lorsque leur chemin croise celui de Maxim de Winter, riche veuf, qui n'a aucun mal à séduire la jeune fille et, dans la foulée, à l'épouser et l'emmener dans sa demeure ancestrale de Manderley, quelque part sur la côte sud-est de l'Angleterre. Les premiers contacts avec le personnel du château, régenté par la peu amène gouvernante Mrs. Danvers, sont glaciaux. Cette dernière, en effet, attachée depuis toujours au service de la précédente Mrs. de Winter, Rebecca, et lui vouant une passion sans limite, même à titre posthume, n'accepte pas l'intrusion de l'«usurpatrice ». Le souvenir de l'épouse disparue et vénérée continue de hanter le château sombre.",
+      "category": "Thriller"
     }
   ]
 }
