@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T15:26:05.766252+00:00",
-  "window_start": "2026-10-25",
+  "generated_at": "2026-10-27T10:38:58.027447+00:00",
+  "window_start": "2026-10-28",
   "window_end": "2026-11-02",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
@@ -47,53 +47,11 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 14,
+  "count": 12,
   "programmes": [
     {
-      "start": "2026-10-25T22:45:00+00:00",
-      "stop": "2026-10-26T00:25:00+00:00",
-      "channel": "BBC Two",
-      "title": "Misery",
-      "subtitle": "",
-      "directors": [
-        "Rob Reiner"
-      ],
-      "matched_director": "Rob Reiner",
-      "actors": [
-        "Kathy Bates",
-        "James Caan",
-        "Richard Farnsworth",
-        "Frances Sternhagen",
-        "Lauren Bacall",
-        "Graham Jarvis"
-      ],
-      "description": "A car accident on a remote snowy road injures author Paul Sheldon, saved by nurse Annie Wilkes, a great fan of his work. However, her devotion soon takes a sinister turn.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-10-26T07:53:00+00:00",
-      "stop": "2026-10-26T10:17:00+00:00",
-      "channel": "Action",
-      "title": "Chouans !",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Philippe Noiret",
-        "Vincent Schmitt",
-        "Raoul Billerey",
-        "Claudine Delvaux",
-        "Jean Parédès",
-        "Sophie Marceau"
-      ],
-      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
-      "category": "History"
-    },
-    {
       "start": "2026-10-28T19:35:00+00:00",
-      "stop": "2026-10-28T22:05:00+00:00",
+      "stop": "2026-10-28T22:10:00+00:00",
       "channel": "VTM 2",
       "title": "Mission Impossible - Ghost Protocol",
       "subtitle": "",
@@ -115,8 +73,8 @@
       "category": "Action"
     },
     {
-      "start": "2026-10-28T19:38:00+00:00",
-      "stop": "2026-10-28T21:46:00+00:00",
+      "start": "2026-10-28T19:39:00+00:00",
+      "stop": "2026-10-28T21:49:00+00:00",
       "channel": "La Trois",
       "title": "Rebecca",
       "subtitle": "",
@@ -137,7 +95,7 @@
     },
     {
       "start": "2026-10-28T20:00:00+00:00",
-      "stop": "2026-10-28T22:05:00+00:00",
+      "stop": "2026-10-28T22:00:00+00:00",
       "channel": "Arte",
       "title": "The Game",
       "subtitle": "",
