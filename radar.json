@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T14:52:37.683655+00:00",
+  "generated_at": "2026-10-28T11:23:06.623221+00:00",
   "window_start": "2026-10-28",
-  "window_end": "2026-11-02",
+  "window_end": "2026-11-04",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,7 +47,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 12,
+  "count": 13,
   "programmes": [
     {
       "start": "2026-10-28T19:35:00+00:00",
@@ -73,7 +73,7 @@
       "category": "Action"
     },
     {
-      "start": "2026-10-28T19:39:00+00:00",
+      "start": "2026-10-28T19:40:00+00:00",
       "stop": "2026-10-28T21:49:00+00:00",
       "channel": "La Trois",
       "title": "Rebecca",
@@ -115,8 +115,8 @@
       "category": "Thriller"
     },
     {
-      "start": "2026-10-29T13:38:00+00:00",
-      "stop": "2026-10-29T15:52:00+00:00",
+      "start": "2026-10-29T13:37:00+00:00",
+      "stop": "2026-10-29T15:47:00+00:00",
       "channel": "Tipik",
       "title": "Rebecca",
       "subtitle": "",
@@ -287,6 +287,27 @@
     {
       "start": "2026-11-02T14:46:00+00:00",
       "stop": "2026-11-02T16:41:00+00:00",
+      "channel": "Action",
+      "title": "Bone Collector",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "matched_director": "Phillip Noyce",
+      "actors": [
+        "Denzel Washington",
+        "Angelina Jolie",
+        "Queen Latifah",
+        "Michael Rooker",
+        "Michael McGlone",
+        "Luis Guzman"
+      ],
+      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-04T21:35:00+00:00",
+      "stop": "2026-11-04T23:30:00+00:00",
       "channel": "Action",
       "title": "Bone Collector",
       "subtitle": "",
