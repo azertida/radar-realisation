@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T15:24:03.841185+00:00",
-  "window_start": "2026-10-28",
-  "window_end": "2026-11-04",
+  "generated_at": "2026-10-29T11:33:56.626196+00:00",
+  "window_start": "2026-10-29",
+  "window_end": "2026-11-05",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -47,73 +47,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 13,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-10-28T19:35:00+00:00",
-      "stop": "2026-10-28T22:10:00+00:00",
-      "channel": "VTM 2",
-      "title": "Mission Impossible - Ghost Protocol",
-      "subtitle": "",
-      "directors": [
-        "Brad Bird",
-        "Bryan Burk",
-        "J.J. Abrams"
-      ],
-      "matched_director": "J.J. Abrams",
-      "actors": [
-        "Paula Patton",
-        "Michael Nyqvist",
-        "Vladimir Mashkov",
-        "Samuli Edelmann",
-        "Ivan Shvedov",
-        "Anil Kapoor"
-      ],
-      "description": "Geheim agent Ethan Hunt en zijn teamleden worden opgeroepen door de president om terecht te staan voor een fatale explosie die is ontstaan in het Kremlin gebouw in Moskou, waar zij bezig waren met een top geheime missie.",
-      "category": "Action"
-    },
-    {
-      "start": "2026-10-28T19:40:00+00:00",
-      "stop": "2026-10-28T21:49:00+00:00",
-      "channel": "La Trois",
-      "title": "Rebecca",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Laurence Olivier",
-        "Joan Fontaine",
-        "Judith Anderson",
-        "George Sanders",
-        "Nigel Bruce",
-        "C. Aubrey Smith"
-      ],
-      "description": "Mrs. Edythe Van Hopper, respectable veuve déjà âgée, accompagnée de sa jeune demoiselle de compagnie, est en villégiature à Monte-Carlo dans l'hôtel Côte-d'Azur, lorsque leur chemin croise celui de Maxim de Winter, riche veuf, qui n'a aucun mal à séduire la jeune fille et, dans la foulée, à l'épouser et l'emmener dans sa demeure ancestrale de Manderley, quelque part sur la côte sud-est de l'Angleterre. Les premiers contacts avec le personnel du château, régenté par la peu amène gouvernante Mrs. Danvers, sont glaciaux. Cette dernière, en effet, attachée depuis toujours au service de la précédente Mrs. de Winter, Rebecca, et lui vouant une passion sans limite, même à titre posthume, n'accepte pas l'intrusion de l'«usurpatrice ». Le souvenir de l'épouse disparue et vénérée continue de hanter le château sombre.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-10-28T20:00:00+00:00",
-      "stop": "2026-10-28T22:00:00+00:00",
-      "channel": "Arte",
-      "title": "The Game",
-      "subtitle": "",
-      "directors": [
-        "David Fincher"
-      ],
-      "matched_director": "David Fincher",
-      "actors": [
-        "Michael Douglas",
-        "Sean Penn",
-        "Deborah Kara Unger",
-        "James Rebhorn",
-        "Peter Donat",
-        "Carroll Baker"
-      ],
-      "description": "Le jour de son anniversaire, Nicholas Van Orton, un riche homme d'affaires de San Francisco, reçoit un étrange cadeau de la part de son frère Conrad. Il s'agit d'un jeu, supposé apporter du piment dans sa vie. Bien qu'il ne soit certain ni des règles ni du but réel de ce jeu, Nicholas accepte d'y prendre part. Peu à peu, il se retrouve pris au piège dans un jeu vicieux qui pourrait bien faire voler sa vie en éclats. Il prend peu à peu conscience qu'il est manipulé jusque dans sa propre maison par des conspirateurs inconnus qui semblent vouloir faire voler sa vie en éclats.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-10-29T13:37:00+00:00",
       "stop": "2026-10-29T15:47:00+00:00",
@@ -324,6 +259,27 @@
         "Luis Guzman"
       ],
       "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-05T21:40:00+00:00",
+      "stop": "2026-11-05T23:30:00+00:00",
+      "channel": "France 4",
+      "title": "Misery",
+      "subtitle": "",
+      "directors": [
+        "Rob Reiner"
+      ],
+      "matched_director": "Rob Reiner",
+      "actors": [
+        "Kathy Bates",
+        "James Caan",
+        "Richard Farnsworth",
+        "Frances Sternhagen",
+        "Lauren Bacall",
+        "Graham Jarvis"
+      ],
+      "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
       "category": "Thriller"
     }
   ]
