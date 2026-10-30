@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T15:30:05.164982+00:00",
-  "window_start": "2026-10-29",
-  "window_end": "2026-11-05",
+  "generated_at": "2026-10-30T11:26:16.594845+00:00",
+  "window_start": "2026-10-31",
+  "window_end": "2026-11-06",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 41,
   "watchlist": [
@@ -50,27 +50,6 @@
   "count": 11,
   "programmes": [
     {
-      "start": "2026-10-29T13:37:00+00:00",
-      "stop": "2026-10-29T15:47:00+00:00",
-      "channel": "Tipik",
-      "title": "Rebecca",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Laurence Olivier",
-        "Joan Fontaine",
-        "Judith Anderson",
-        "George Sanders",
-        "Nigel Bruce",
-        "C. Aubrey Smith"
-      ],
-      "description": "Mrs. Edythe Van Hopper, respectable veuve déjà âgée, accompagnée de sa jeune demoiselle de compagnie, est en villégiature à Monte-Carlo dans l'hôtel Côte-d'Azur, lorsque leur chemin croise celui de Maxim de Winter, riche veuf, qui n'a aucun mal à séduire la jeune fille et, dans la foulée, à l'épouser et l'emmener dans sa demeure ancestrale de Manderley, quelque part sur la côte sud-est de l'Angleterre. Les premiers contacts avec le personnel du château, régenté par la peu amène gouvernante Mrs. Danvers, sont glaciaux. Cette dernière, en effet, attachée depuis toujours au service de la précédente Mrs. de Winter, Rebecca, et lui vouant une passion sans limite, même à titre posthume, n'accepte pas l'intrusion de l'«usurpatrice ». Le souvenir de l'épouse disparue et vénérée continue de hanter le château sombre.",
-      "category": "Thriller"
-    },
-    {
       "start": "2026-10-31T12:30:00+00:00",
       "stop": "2026-10-31T14:20:00+00:00",
       "channel": "Arte",
@@ -92,8 +71,8 @@
       "category": "Drama"
     },
     {
-      "start": "2026-10-31T12:55:00+00:00",
-      "stop": "2026-10-31T15:15:00+00:00",
+      "start": "2026-10-31T12:45:00+00:00",
+      "stop": "2026-10-31T15:10:00+00:00",
       "channel": "VTM 2",
       "title": "Mission Impossible - Ghost Protocol",
       "subtitle": "",
@@ -281,6 +260,28 @@
       ],
       "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
       "category": "Thriller"
+    },
+    {
+      "start": "2026-11-06T22:00:00+00:00",
+      "stop": "2026-11-06T23:30:00+00:00",
+      "channel": "BBC Two",
+      "title": "Planes, Trains & Automobiles",
+      "subtitle": "",
+      "directors": [
+        "John Hughes",
+        "John Hugues"
+      ],
+      "matched_director": "John Hughes",
+      "actors": [
+        "Steve Martin",
+        "John Candy",
+        "William Windom",
+        "Michael McKean",
+        "Edie McClurg",
+        "Kevin Bacon"
+      ],
+      "description": "Comedy film starring Steve Martin and John Candy trying to get home for Thanksgiving after flights are cancelled due to bad weather.",
+      "category": "Comedy"
     }
   ]
 }
