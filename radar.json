@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T15:25:58.837790+00:00",
+  "generated_at": "2026-11-01T20:13:27.488568+00:00",
   "window_start": "2026-11-01",
-  "window_end": "2026-11-06",
+  "window_end": "2026-11-08",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 41,
+  "watchlist_size": 43,
   "watchlist": [
     "Jean-Jacques Beineix",
     "J.J. Abrams",
@@ -23,8 +23,10 @@
     "Howard Hawks",
     "Alfred Hitchcock",
     "John Hughes",
+    "John Landis",
     "Brie Larson",
     "Spike Lee",
+    "Shawn Levy",
     "Ernst Lubitsch",
     "Mario Monicelli",
     "Olivia Newman",
@@ -47,7 +49,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 7,
+  "count": 13,
   "programmes": [
     {
       "start": "2026-11-01T09:09:00+00:00",
@@ -71,6 +73,27 @@
       "category": "Thriller"
     },
     {
+      "start": "2026-11-01T12:00:00+00:00",
+      "stop": "2026-11-01T14:15:00+00:00",
+      "channel": "AB3",
+      "title": "Batman Begins",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Michael Caine",
+        "Liam Neeson",
+        "Katie Holmes",
+        "Gary Oldman",
+        "Cillian Murphy"
+      ],
+      "description": "Traumatisé par le meurtre de ses parents, abattus sous ses yeux dans une ruelle de Gotham City, Bruce Wayne part pour un périple à travers le monde. Son but : trouver le moyen d'assouvir sa soif de vengeance et de lutter contre les injustices. Invité à rejoindre la Ligue des Ombres, il préfère finalement rentrer à Gotham et devenir un justicier solitaire... C'est ainsi que naît Batman, l'homme chauve-souris. Le but de ses pérégrinations : sublimer sa soif de vengeance en trouvant de nouveaux moyens de lutter contre l'injustice.",
+      "category": "Action"
+    },
+    {
       "start": "2026-11-01T12:30:00+00:00",
       "stop": "2026-11-01T15:20:00+00:00",
       "channel": "Arte",
@@ -90,6 +113,70 @@
       ],
       "description": "L'avenir de la race humaine est menacé, la Terre est devenue quasiment invivable et la vie sur la planète bleue touche à sa fin. Un groupe d'explorateurs entreprend alors la mission la plus importante de toute l'histoire de l'humanité : découvrir si, au-delà des étoiles, il existe un habitat où les humains pourraient s'installer. Cooper, un ancien ingénieur devenu fermier, accepte de piloter l'expédition.",
       "category": "Drama"
+    },
+    {
+      "start": "2026-11-01T14:15:00+00:00",
+      "stop": "2026-11-01T16:40:00+00:00",
+      "channel": "AB3",
+      "title": "The Dark Knight : le Chevalier noir",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Maggie Gyllenhaal",
+        "Gary Oldman",
+        "Morgan Freeman"
+      ],
+      "description": "Batman tente de démanteler les dernières organisations criminelles existant encore dans la ville de Gotham, avec l'aide du lieutenant de police Jim Gordon et du nouveau procureur, Harvey Dent. Le trio semble efficace mais bientôt, une nouvelle figure sème la terreur à Gotham City : le Joker. Ce criminel balafré menace Batman de commettre un meurtre par jour s'il n'accepte pas de révéler publiquement son identité... On ne sait pas d'où il vient ni qui il est. Ce criminel possède une intelligence redoutable doublé d'un humour sordide et n'hésite pas à s'attaquer à la pègre locale dans le seul but de semer le chaos.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-01T16:40:00+00:00",
+      "stop": "2026-11-01T19:20:00+00:00",
+      "channel": "AB3",
+      "title": "The Dark Knight Rises",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Michael Caine",
+        "Gary Oldman",
+        "Anne Hathaway",
+        "Tom Hardy",
+        "Marion Cotillard"
+      ],
+      "description": "Huit ans après avoir endossé la responsabilité des crimes de Double-Face, Batman, passé du statut de super-héros à celui de fugitif, doit reprendre du service pour sauver Gotham City des mains d'un dangereux terroriste, Bane. Bruce Wayne retrouve ainsi son costume de Chevalier Noir, mais les habitants de la ville n'ont plus confiance en lui, et il pourrait bien ne pas être à la hauteur de cette nouvelle mission. Alors que les habitants, menés par le Commissaire Gordon et un jeune policier nommé Blake, essaient de s'organiser, Bruce Wayne doit mieux comprendre son ennemi avant de l'affronter à nouveau. Dans sa quête, une voleuse se joint à lui.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-01T19:20:00+00:00",
+      "stop": "2026-11-01T21:10:00+00:00",
+      "channel": "AB3",
+      "title": "SOS Fantômes",
+      "subtitle": "",
+      "directors": [
+        "Paul Feig",
+        "Ivan Reitman"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Melissa McCarthy",
+        "Kristen Wiig",
+        "Kate McKinnon",
+        "Leslie Jones",
+        "Charles Dance",
+        "Chris Hemsworth"
+      ],
+      "description": "Tout juste nommée au poste de professeur à la très prestigieuse Université de Columbia, Erin Gilbert voit ressurgir du passé un embarrassant livre sur les fantômes qu'elle a coécrit avec son amie Abby Yates. Moquée par le monde académique, Erin tente d'en faire annuler la publication. En contrepartie, elle accepte d'enquêter sur des phénomènes paranormaux en compagnie d'Abby et de son excentrique collègue Jillian.",
+      "category": "Comedy"
     },
     {
       "start": "2026-11-01T20:00:00+00:00",
@@ -196,6 +283,49 @@
       ],
       "description": "Comedy film starring Steve Martin and John Candy trying to get home for Thanksgiving after flights are cancelled due to bad weather.",
       "category": "Comedy"
+    },
+    {
+      "start": "2026-11-07T20:55:00+00:00",
+      "stop": "2026-11-07T22:45:00+00:00",
+      "channel": "AB3",
+      "title": "SOS Fantômes",
+      "subtitle": "",
+      "directors": [
+        "Paul Feig",
+        "Ivan Reitman"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Melissa McCarthy",
+        "Kristen Wiig",
+        "Kate McKinnon",
+        "Leslie Jones",
+        "Charles Dance",
+        "Chris Hemsworth"
+      ],
+      "description": "Tout juste nommée au poste de professeur à la très prestigieuse Université de Columbia, Erin Gilbert voit ressurgir du passé un embarrassant livre sur les fantômes qu'elle a coécrit avec son amie Abby Yates. Moquée par le monde académique, Erin tente d'en faire annuler la publication. En contrepartie, elle accepte d'enquêter sur des phénomènes paranormaux en compagnie d'Abby et de son excentrique collègue Jillian.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-08T21:10:00+00:00",
+      "stop": "2026-11-08T23:50:00+00:00",
+      "channel": "AB3",
+      "title": "The Dark Knight Rises",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Christian Bale",
+        "Michael Caine",
+        "Gary Oldman",
+        "Anne Hathaway",
+        "Tom Hardy",
+        "Marion Cotillard"
+      ],
+      "description": "Huit ans après avoir endossé la responsabilité des crimes de Double-Face, Batman, passé du statut de super-héros à celui de fugitif, doit reprendre du service pour sauver Gotham City des mains d'un dangereux terroriste, Bane. Bruce Wayne retrouve ainsi son costume de Chevalier Noir, mais les habitants de la ville n'ont plus confiance en lui, et il pourrait bien ne pas être à la hauteur de cette nouvelle mission. Alors que les habitants, menés par le Commissaire Gordon et un jeune policier nommé Blake, essaient de s'organiser, Bruce Wayne doit mieux comprendre son ennemi avant de l'affronter à nouveau. Dans sa quête, une voleuse se joint à lui.",
+      "category": "Action"
     }
   ]
 }
