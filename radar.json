@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T18:47:09.364750+00:00",
-  "window_start": "2026-11-02",
+  "generated_at": "2026-11-03T12:50:36.737738+00:00",
+  "window_start": "2026-11-04",
   "window_end": "2026-11-08",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
@@ -51,27 +51,6 @@
   ],
   "count": 6,
   "programmes": [
-    {
-      "start": "2026-11-02T14:46:00+00:00",
-      "stop": "2026-11-02T16:41:00+00:00",
-      "channel": "Action",
-      "title": "Bone Collector",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "matched_director": "Phillip Noyce",
-      "actors": [
-        "Denzel Washington",
-        "Angelina Jolie",
-        "Queen Latifah",
-        "Michael Rooker",
-        "Michael McGlone",
-        "Luis Guzman"
-      ],
-      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-11-04T21:35:00+00:00",
       "stop": "2026-11-04T23:30:00+00:00",
@@ -134,6 +113,27 @@
         "Kevin Bacon"
       ],
       "description": "Comedy film starring Steve Martin and John Candy trying to get home for Thanksgiving after flights are cancelled due to bad weather.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-07T16:20:00+00:00",
+      "stop": "2026-11-07T18:00:00+00:00",
+      "channel": "RAI Tre",
+      "title": "Spie come noi",
+      "subtitle": "",
+      "directors": [
+        "John Landis"
+      ],
+      "matched_director": "John Landis",
+      "actors": [
+        "Chevy Chase",
+        "Dan Aykroyd",
+        "Terry Gilliam",
+        "Donna Dixon",
+        "Bruce Davison",
+        "Steve Forrest"
+      ],
+      "description": "Un generale americano incoscientemente spedisce nel gelido Pamir due impiegati della CIA imbranati e impreparati, Austin ed Emmett. Il loro compito è quello di lanciare un missile installato dai sovietici, rendendo così possibile il collaudo dello \"scudo stellare\" messo a punto dal Pentagono.",
       "category": "Comedy"
     },
     {
