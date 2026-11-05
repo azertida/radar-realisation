@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T16:31:21.338808+00:00",
-  "window_start": "2026-11-04",
-  "window_end": "2026-11-08",
+  "generated_at": "2026-11-05T13:15:04.224449+00:00",
+  "window_start": "2026-11-05",
+  "window_end": "2026-11-12",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -51,27 +51,6 @@
   ],
   "count": 6,
   "programmes": [
-    {
-      "start": "2026-11-04T21:35:00+00:00",
-      "stop": "2026-11-04T23:30:00+00:00",
-      "channel": "Action",
-      "title": "Bone Collector",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "matched_director": "Phillip Noyce",
-      "actors": [
-        "Denzel Washington",
-        "Angelina Jolie",
-        "Queen Latifah",
-        "Michael Rooker",
-        "Michael McGlone",
-        "Luis Guzman"
-      ],
-      "description": "Paralysé à vie des suites d'un accident, Lincoln Rhyme, un criminologue de renom, enquête sur un tueur en série qui collectionne les os de ses victimes. Il recrute une jeune débutante, Amelia, qui a découvert la première victime. Rhyme sent en elle une évidente prédisposition et la désigne pour être son alter ego. Ensemble, ils vont examiner chaque indice, et tenter de prédire où frappera le dangereux maniaque.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-11-05T21:40:00+00:00",
       "stop": "2026-11-05T23:30:00+00:00",
@@ -177,6 +156,27 @@
         "Marion Cotillard"
       ],
       "description": "Huit ans après avoir endossé la responsabilité des crimes de Double-Face, Batman, passé du statut de super-héros à celui de fugitif, doit reprendre du service pour sauver Gotham City des mains d'un dangereux terroriste, Bane. Bruce Wayne retrouve ainsi son costume de Chevalier Noir, mais les habitants de la ville n'ont plus confiance en lui, et il pourrait bien ne pas être à la hauteur de cette nouvelle mission. Alors que les habitants, menés par le Commissaire Gordon et un jeune policier nommé Blake, essaient de s'organiser, Bruce Wayne doit mieux comprendre son ennemi avant de l'affronter à nouveau. Dans sa quête, une voleuse se joint à lui.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-12T21:15:00+00:00",
+      "stop": "2026-11-12T23:20:00+00:00",
+      "channel": "VTM 3",
+      "title": "The Gentlemen",
+      "subtitle": "",
+      "directors": [
+        "Guy Ritchie"
+      ],
+      "matched_director": "Guy Ritchie",
+      "actors": [
+        "Matthew McConaughey",
+        "Charlie Hunnam",
+        "Henry Golding",
+        "Colin Farrell",
+        "Hugh Grant",
+        "Michelle Dockery"
+      ],
+      "description": "Amerikaans drugbaron Mickey Pearson runt in Londen een enorm succesvolle marihuanahandel. Hij wil de zaken echter verkopen. Wanneer dat nieuws bekend raakt binnen het Londense drugsmilieu, zijn er meer dan genoeg kandidaten om Pearson op te volgen. Ze smeden plannen om zijn domein op een gewelddadige manier over te nemen.",
       "category": "Action"
     }
   ]
