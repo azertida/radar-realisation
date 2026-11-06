@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T16:44:10.353885+00:00",
-  "window_start": "2026-11-05",
-  "window_end": "2026-11-12",
+  "generated_at": "2026-11-06T12:59:37.765090+00:00",
+  "window_start": "2026-11-06",
+  "window_end": "2026-11-13",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,29 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 6,
+  "count": 7,
   "programmes": [
-    {
-      "start": "2026-11-05T21:40:00+00:00",
-      "stop": "2026-11-05T23:30:00+00:00",
-      "channel": "France 4",
-      "title": "Misery",
-      "subtitle": "",
-      "directors": [
-        "Rob Reiner"
-      ],
-      "matched_director": "Rob Reiner",
-      "actors": [
-        "Kathy Bates",
-        "James Caan",
-        "Richard Farnsworth",
-        "Frances Sternhagen",
-        "Lauren Bacall",
-        "Graham Jarvis"
-      ],
-      "description": "L'écrivain Paul Sheldon a créé une héroïne très populaire, Misery, qui a fait sa fortune. Désireux de passer à autre chose, il la tue dans son dernier roman. Alors qu'il vient de finir son livre, il est victime d'un grave accident de voiture lors d'une tempête de neige. Annie Wilkes, une infirmière fan inconditionnelle de Misery, le découvre évanoui et le ramène chez elle, dans son chalet isolé, pour le soigner. Paul Sheldon doit son salut à Annie Wilkes, infirmière retraitée qui vit dans un chalet isolé. Annie est justement une supporter inconditionnelle de la belle Misery.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-11-06T22:00:00+00:00",
       "stop": "2026-11-06T23:30:00+00:00",
@@ -178,6 +157,41 @@
       ],
       "description": "Amerikaans drugbaron Mickey Pearson runt in Londen een enorm succesvolle marihuanahandel. Hij wil de zaken echter verkopen. Wanneer dat nieuws bekend raakt binnen het Londense drugsmilieu, zijn er meer dan genoeg kandidaten om Pearson op te volgen. Ze smeden plannen om zijn domein op een gewelddadige manier over te nemen.",
       "category": "Action"
+    },
+    {
+      "start": "2026-11-13T19:35:00+00:00",
+      "stop": "2026-11-13T21:45:00+00:00",
+      "channel": "VTM 4",
+      "title": "Patriot Games",
+      "subtitle": "",
+      "directors": [
+        "Phillip Noyce"
+      ],
+      "matched_director": "Phillip Noyce",
+      "actors": [
+        "Harrison Ford",
+        "Anne Archer",
+        "Thora Birch",
+        "Sean Bean",
+        "Patrick Bergin",
+        "Polly Walker"
+      ],
+      "description": "CIA-analist Jack Ryan voorkomt tijdens zijn vakantie in Londen een moordaanslag op de staatssecretaris van Noord-Ierland. Tijdens deze actie doodt Ryan de broer van terrorist Sean Miller. Sean zweert wraak te nemen op Ryan. De terroristen blijken lid te zijn van een splinterpartij van de IRA. Ryan en zijn gezin raken verstrikt in een dodelijk kat-en-muisspel.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-13T22:25:00+00:00",
+      "stop": "2026-11-13T23:55:00+00:00",
+      "channel": "Arte",
+      "title": "Stop Making Sense",
+      "subtitle": "",
+      "directors": [
+        "Jonathan Demme"
+      ],
+      "matched_director": "Jonathan Demme",
+      "actors": [],
+      "description": "Dans le faisceau d'un projecteur, deux chaussures blanches s'avancent d'un pas mesuré, puis s'arrêtent. Une main dépose à côté d'elles une radio-cassette, appuie sur un bouton qui déclenche un rythme beat. Le champ s'élargit et l'on découvre, seule et perdue sur une gigantesque scène entourée de murs nus, la silhouette blanche de David Byrne...",
+      "category": "Documentary"
     }
   ]
 }
