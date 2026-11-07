@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T16:12:59.451101+00:00",
-  "window_start": "2026-11-06",
-  "window_end": "2026-11-13",
+  "generated_at": "2026-11-07T11:45:56.628930+00:00",
+  "window_start": "2026-11-07",
+  "window_end": "2026-11-14",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,30 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 7,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-11-06T22:00:00+00:00",
-      "stop": "2026-11-06T23:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "Planes, Trains & Automobiles",
-      "subtitle": "",
-      "directors": [
-        "John Hughes",
-        "John Hugues"
-      ],
-      "matched_director": "John Hughes",
-      "actors": [
-        "Steve Martin",
-        "John Candy",
-        "William Windom",
-        "Michael McKean",
-        "Edie McClurg",
-        "Kevin Bacon"
-      ],
-      "description": "Comedy film starring Steve Martin and John Candy trying to get home for Thanksgiving after flights are cancelled due to bad weather.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-07T16:20:00+00:00",
       "stop": "2026-11-07T18:00:00+00:00",
@@ -192,6 +170,48 @@
       "actors": [],
       "description": "Dans le faisceau d'un projecteur, deux chaussures blanches s'avancent d'un pas mesuré, puis s'arrêtent. Une main dépose à côté d'elles une radio-cassette, appuie sur un bouton qui déclenche un rythme beat. Le champ s'élargit et l'on découvre, seule et perdue sur une gigantesque scène entourée de murs nus, la silhouette blanche de David Byrne...",
       "category": "Documentary"
+    },
+    {
+      "start": "2026-11-14T16:20:00+00:00",
+      "stop": "2026-11-14T18:00:00+00:00",
+      "channel": "RAI Tre",
+      "title": "Spie come noi",
+      "subtitle": "",
+      "directors": [
+        "John Landis"
+      ],
+      "matched_director": "John Landis",
+      "actors": [
+        "Chevy Chase",
+        "Dan Aykroyd",
+        "Terry Gilliam",
+        "Donna Dixon",
+        "Bruce Davison",
+        "Steve Forrest"
+      ],
+      "description": "Un generale americano incoscientemente spedisce nel gelido Pamir due impiegati della CIA imbranati e impreparati, Austin ed Emmett. Il loro compito è quello di lanciare un missile installato dai sovietici, rendendo così possibile il collaudo dello \"scudo stellare\" messo a punto dal Pentagono.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-14T23:00:00+00:00",
+      "stop": "2026-11-15T00:50:00+00:00",
+      "channel": "BBC One",
+      "title": "A Simple Favor",
+      "subtitle": "",
+      "directors": [
+        "Paul Feig"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Anna Kendrick",
+        "Blake Lively",
+        "Henry Golding",
+        "Andrew Rannells",
+        "Jean Smart",
+        "Bashir Salahuddin"
+      ],
+      "description": "Lonely, cheerful mommy blogger Stephanie becomes obsessed with Emily, the chic, mysterious new mother to the neighborhood. When Emily disappears, Stephanie pieces together clues left behind by her friend while also caring for Emily's son, Nicky, and unwisely getting involved with Emily's handsome yet suspicious husband Sean. Stephanie launches her own investigation by digging into her friend's past, finding a few surprises along the way.",
+      "category": "Thriller"
     }
   ]
 }
