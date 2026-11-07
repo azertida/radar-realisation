@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T11:45:56.628930+00:00",
+  "generated_at": "2026-11-07T15:04:56.771541+00:00",
   "window_start": "2026-11-07",
   "window_end": "2026-11-14",
   "source": "Pickx via iptv-org/epg",
@@ -73,8 +73,8 @@
       "category": "Comedy"
     },
     {
-      "start": "2026-11-07T20:55:00+00:00",
-      "stop": "2026-11-07T22:45:00+00:00",
+      "start": "2026-11-07T21:03:00+00:00",
+      "stop": "2026-11-07T22:59:00+00:00",
       "channel": "AB3",
       "title": "SOS Fantômes",
       "subtitle": "",
