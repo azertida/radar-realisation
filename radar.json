@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T15:04:56.771541+00:00",
-  "window_start": "2026-11-07",
-  "window_end": "2026-11-14",
+  "generated_at": "2026-11-08T11:58:11.150924+00:00",
+  "window_start": "2026-11-08",
+  "window_end": "2026-11-15",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,51 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 8,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-11-07T16:20:00+00:00",
-      "stop": "2026-11-07T18:00:00+00:00",
-      "channel": "RAI Tre",
-      "title": "Spie come noi",
-      "subtitle": "",
-      "directors": [
-        "John Landis"
-      ],
-      "matched_director": "John Landis",
-      "actors": [
-        "Chevy Chase",
-        "Dan Aykroyd",
-        "Terry Gilliam",
-        "Donna Dixon",
-        "Bruce Davison",
-        "Steve Forrest"
-      ],
-      "description": "Un generale americano incoscientemente spedisce nel gelido Pamir due impiegati della CIA imbranati e impreparati, Austin ed Emmett. Il loro compito è quello di lanciare un missile installato dai sovietici, rendendo così possibile il collaudo dello \"scudo stellare\" messo a punto dal Pentagono.",
-      "category": "Comedy"
-    },
-    {
-      "start": "2026-11-07T21:03:00+00:00",
-      "stop": "2026-11-07T22:59:00+00:00",
-      "channel": "AB3",
-      "title": "SOS Fantômes",
-      "subtitle": "",
-      "directors": [
-        "Paul Feig",
-        "Ivan Reitman"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Melissa McCarthy",
-        "Kristen Wiig",
-        "Kate McKinnon",
-        "Leslie Jones",
-        "Charles Dance",
-        "Chris Hemsworth"
-      ],
-      "description": "Tout juste nommée au poste de professeur à la très prestigieuse Université de Columbia, Erin Gilbert voit ressurgir du passé un embarrassant livre sur les fantômes qu'elle a coécrit avec son amie Abby Yates. Moquée par le monde académique, Erin tente d'en faire annuler la publication. En contrepartie, elle accepte d'enquêter sur des phénomènes paranormaux en compagnie d'Abby et de son excentrique collègue Jillian.",
-      "category": "Comedy"
-    },
     {
       "start": "2026-11-08T21:10:00+00:00",
       "stop": "2026-11-08T23:50:00+00:00",
@@ -212,6 +169,112 @@
       ],
       "description": "Lonely, cheerful mommy blogger Stephanie becomes obsessed with Emily, the chic, mysterious new mother to the neighborhood. When Emily disappears, Stephanie pieces together clues left behind by her friend while also caring for Emily's son, Nicky, and unwisely getting involved with Emily's handsome yet suspicious husband Sean. Stephanie launches her own investigation by digging into her friend's past, finding a few surprises along the way.",
       "category": "Thriller"
+    },
+    {
+      "start": "2026-11-15T12:30:00+00:00",
+      "stop": "2026-11-15T14:35:00+00:00",
+      "channel": "Arte",
+      "title": "Fedora",
+      "subtitle": "",
+      "directors": [
+        "Billy Wilder"
+      ],
+      "matched_director": "Billy Wilder",
+      "actors": [
+        "Marthe Keller",
+        "William Holden",
+        "Jose Ferrer",
+        "Hildegard Knef",
+        "Frances Sternhagen",
+        "Mario Adorf"
+      ],
+      "description": "Barry «Dutch» Detweiler, producteur de cinéma indépendant, a dans l'idée de porter à l'écran le personnage d'Anna Karénine. Pour lui, la seule comédienne susceptible d'endosser le rôle et de convaincre les financeurs est Fedora, une star qui a quitté le devant de l'affiche depuis longtemps pour se retirer à Corfou. Detweiler se rend sur l'île, mais une fois sur place, il rencontre de grandes difficultés pour obtenir un entretien avec Fedora. Les proches de l'actrice lui font barrage, notamment le docteur Vando, connu pour avoir élaboré le miraculeux sérum de jouvence dont la vedette a bénéficié pour conserver une éternelle jeunesse...",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-15T13:45:00+00:00",
+      "stop": "2026-11-15T15:30:00+00:00",
+      "channel": "BBC Two",
+      "title": "Spellbound",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Gregory Peck",
+        "Ingrid Bergman",
+        "Michael Chekhov",
+        "Leo G. Carroll",
+        "Jean Acker",
+        "Donald Curtis"
+      ],
+      "description": "When Dr. Anthony Edwardes arrives at a Vermont mental hospital to replace the outgoing hospital director, Dr. Constance Peterson, a psychoanalyst, discovers Edwardes is actually an impostor. The man confesses that the real Dr. Edwardes is dead and fears he may have killed him, but cannot recall anything. Dr. Peterson, however is convinced his impostor is innocent of the man's murder, and joins him on a quest to unravel his amnesia through psychoanalysis.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-15T21:00:00+00:00",
+      "stop": "2026-11-15T22:50:00+00:00",
+      "channel": "AB3",
+      "title": "SOS Fantômes",
+      "subtitle": "",
+      "directors": [
+        "Paul Feig",
+        "Ivan Reitman"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Melissa McCarthy",
+        "Kristen Wiig",
+        "Kate McKinnon",
+        "Leslie Jones",
+        "Charles Dance",
+        "Chris Hemsworth"
+      ],
+      "description": "Tout juste nommée au poste de professeur à la très prestigieuse Université de Columbia, Erin Gilbert voit ressurgir du passé un embarrassant livre sur les fantômes qu'elle a coécrit avec son amie Abby Yates. Moquée par le monde académique, Erin tente d'en faire annuler la publication. En contrepartie, elle accepte d'enquêter sur des phénomènes paranormaux en compagnie d'Abby et de son excentrique collègue Jillian.",
+      "category": "Comedy"
+    },
+    {
+      "start": "2026-11-15T22:30:00+00:00",
+      "stop": "2026-11-16T00:25:00+00:00",
+      "channel": "BBC One",
+      "title": "Another Simple Favor",
+      "subtitle": "",
+      "directors": [
+        "Paul Feig"
+      ],
+      "matched_director": "Paul Feig",
+      "actors": [
+        "Anna Kendrick",
+        "Blake Lively",
+        "Henry Golding",
+        "Andrew Rannells",
+        "Bashir Salahuddin",
+        "Elizabeth Perkins"
+      ],
+      "description": "Stephanie Smothers (Anna Kendrick) and Emily Nelson (Blake Lively) reunite on the beautiful island of Capri, Italy, for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square. Andrew Rannells, Bashir Salahuddin, Elizabeth Perkins, Henry Golding and Allison Janney also star in the hysterical sequel from director Paul Feig.",
+      "category": "Thriller"
+    },
+    {
+      "start": "2026-11-15T22:45:00+00:00",
+      "stop": "2026-11-16T00:50:00+00:00",
+      "channel": "BBC Two",
+      "title": "The Hurt Locker",
+      "subtitle": "",
+      "directors": [
+        "Kathryn Bigelow"
+      ],
+      "matched_director": "Kathryn Bigelow",
+      "actors": [
+        "Jeremy Renner",
+        "Anthony Mackie",
+        "Brian Geraghty",
+        "David Morse",
+        "Evangeline Lilly",
+        "Ralph Fiennes"
+      ],
+      "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
+      "category": "Action"
     }
   ]
 }
