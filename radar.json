@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T15:32:49.247943+00:00",
-  "window_start": "2026-11-08",
+  "generated_at": "2026-11-09T13:57:49.987131+00:00",
+  "window_start": "2026-11-12",
   "window_end": "2026-11-15",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
@@ -49,29 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 11,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-11-08T21:10:00+00:00",
-      "stop": "2026-11-08T23:50:00+00:00",
-      "channel": "AB3",
-      "title": "The Dark Knight Rises",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "matched_director": "Christopher Nolan",
-      "actors": [
-        "Christian Bale",
-        "Michael Caine",
-        "Gary Oldman",
-        "Anne Hathaway",
-        "Tom Hardy",
-        "Marion Cotillard"
-      ],
-      "description": "Huit ans après avoir endossé la responsabilité des crimes de Double-Face, Batman, passé du statut de super-héros à celui de fugitif, doit reprendre du service pour sauver Gotham City des mains d'un dangereux terroriste, Bane. Bruce Wayne retrouve ainsi son costume de Chevalier Noir, mais les habitants de la ville n'ont plus confiance en lui, et il pourrait bien ne pas être à la hauteur de cette nouvelle mission. Alors que les habitants, menés par le Commissaire Gordon et un jeune policier nommé Blake, essaient de s'organiser, Bruce Wayne doit mieux comprendre son ennemi avant de l'affronter à nouveau. Dans sa quête, une voleuse se joint à lui.",
-      "category": "Action"
-    },
     {
       "start": "2026-11-12T21:15:00+00:00",
       "stop": "2026-11-12T23:20:00+00:00",
