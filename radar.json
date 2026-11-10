@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T19:04:26.597933+00:00",
+  "generated_at": "2026-11-10T13:31:07.633257+00:00",
   "window_start": "2026-11-12",
-  "window_end": "2026-11-15",
+  "window_end": "2026-11-17",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -108,27 +108,6 @@
       "category": "Documentary"
     },
     {
-      "start": "2026-11-14T16:20:00+00:00",
-      "stop": "2026-11-14T18:00:00+00:00",
-      "channel": "RAI Tre",
-      "title": "Spie come noi",
-      "subtitle": "",
-      "directors": [
-        "John Landis"
-      ],
-      "matched_director": "John Landis",
-      "actors": [
-        "Chevy Chase",
-        "Dan Aykroyd",
-        "Terry Gilliam",
-        "Donna Dixon",
-        "Bruce Davison",
-        "Steve Forrest"
-      ],
-      "description": "Un generale americano incoscientemente spedisce nel gelido Pamir due impiegati della CIA imbranati e impreparati, Austin ed Emmett. Il loro compito è quello di lanciare un missile installato dai sovietici, rendendo così possibile il collaudo dello \"scudo stellare\" messo a punto dal Pentagono.",
-      "category": "Comedy"
-    },
-    {
       "start": "2026-11-14T23:00:00+00:00",
       "stop": "2026-11-15T00:50:00+00:00",
       "channel": "BBC One",
@@ -146,7 +125,7 @@
         "Jean Smart",
         "Bashir Salahuddin"
       ],
-      "description": "Lonely, cheerful mommy blogger Stephanie becomes obsessed with Emily, the chic, mysterious new mother to the neighborhood. When Emily disappears, Stephanie pieces together clues left behind by her friend while also caring for Emily's son, Nicky, and unwisely getting involved with Emily's handsome yet suspicious husband Sean. Stephanie launches her own investigation by digging into her friend's past, finding a few surprises along the way.",
+      "description": "Stephanie, a small-town vlogger and single mother, tries to uncover the truth behind her best friend Emily's sudden disappearance. She is joined by Emily's husband Sean on a thrilling investigation. Stephanie launches her own investigation by digging into her friend's past, finding a few surprises along the way.",
       "category": "Thriller"
     },
     {
@@ -188,7 +167,7 @@
         "Jean Acker",
         "Donald Curtis"
       ],
-      "description": "When Dr. Anthony Edwardes arrives at a Vermont mental hospital to replace the outgoing hospital director, Dr. Constance Peterson, a psychoanalyst, discovers Edwardes is actually an impostor. The man confesses that the real Dr. Edwardes is dead and fears he may have killed him, but cannot recall anything. Dr. Peterson, however is convinced his impostor is innocent of the man's murder, and joins him on a quest to unravel his amnesia through psychoanalysis.",
+      "description": "Gripping Hitchcock thriller in which a psychoanalyst falls in love with her new boss. Peterson, however is convinced his impostor is innocent of the man's murder, and joins him on a quest to unravel his amnesia through psychoanalysis.",
       "category": "Drama"
     },
     {
@@ -253,6 +232,27 @@
         "Ralph Fiennes"
       ],
       "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-17T19:35:00+00:00",
+      "stop": "2026-11-17T21:55:00+00:00",
+      "channel": "VTM 4",
+      "title": "Point Break",
+      "subtitle": "",
+      "directors": [
+        "Kathryn Bigelow"
+      ],
+      "matched_director": "Kathryn Bigelow",
+      "actors": [
+        "Patrick Swayze",
+        "Keanu Reeves",
+        "Gary Busey",
+        "Lori Petty",
+        "John C. McGinley",
+        "James Le Gros"
+      ],
+      "description": "In Los Angeles opereert een bende die banken overvalt, en noemt zichzelf de 'ex-presidents' omdat ze bij hun overvallen maskers dragen van Reagan, Carter, Nixon en Johnson. De FBI stelt vast dat de daders surfers moeten zijn en dat is het enige aanknopingspunt. Ze sturen daarom de jonge agent Johnny Utah naar het strand om te infiltreren.",
       "category": "Action"
     }
   ]
