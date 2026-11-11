@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T16:34:56.706393+00:00",
+  "generated_at": "2026-11-11T12:45:54.924345+00:00",
   "window_start": "2026-11-12",
   "window_end": "2026-11-17",
   "source": "Pickx via iptv-org/epg",
@@ -52,8 +52,8 @@
   "count": 10,
   "programmes": [
     {
-      "start": "2026-11-12T21:15:00+00:00",
-      "stop": "2026-11-12T23:20:00+00:00",
+      "start": "2026-11-12T21:20:00+00:00",
+      "stop": "2026-11-12T23:25:00+00:00",
       "channel": "VTM 3",
       "title": "The Gentlemen",
       "subtitle": "",
