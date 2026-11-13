@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T17:01:55.533383+00:00",
-  "window_start": "2026-11-12",
+  "generated_at": "2026-11-13T13:10:03.185789+00:00",
+  "window_start": "2026-11-13",
   "window_end": "2026-11-17",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
@@ -49,29 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 10,
+  "count": 9,
   "programmes": [
-    {
-      "start": "2026-11-12T21:20:00+00:00",
-      "stop": "2026-11-12T23:25:00+00:00",
-      "channel": "VTM 3",
-      "title": "The Gentlemen",
-      "subtitle": "",
-      "directors": [
-        "Guy Ritchie"
-      ],
-      "matched_director": "Guy Ritchie",
-      "actors": [
-        "Matthew McConaughey",
-        "Charlie Hunnam",
-        "Henry Golding",
-        "Colin Farrell",
-        "Hugh Grant",
-        "Michelle Dockery"
-      ],
-      "description": "Amerikaans drugbaron Mickey Pearson runt in Londen een enorm succesvolle marihuanahandel. Hij wil de zaken echter verkopen. Wanneer dat nieuws bekend raakt binnen het Londense drugsmilieu, zijn er meer dan genoeg kandidaten om Pearson op te volgen. Ze smeden plannen om zijn domein op een gewelddadige manier over te nemen.",
-      "category": "Action"
-    },
     {
       "start": "2026-11-13T19:35:00+00:00",
       "stop": "2026-11-13T21:45:00+00:00",
