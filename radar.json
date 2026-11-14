@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T16:42:21.990492+00:00",
-  "window_start": "2026-11-13",
-  "window_end": "2026-11-17",
+  "generated_at": "2026-11-14T12:15:08.156841+00:00",
+  "window_start": "2026-11-14",
+  "window_end": "2026-11-21",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,43 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 9,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-11-13T19:35:00+00:00",
-      "stop": "2026-11-13T21:45:00+00:00",
-      "channel": "VTM 4",
-      "title": "Patriot Games",
-      "subtitle": "",
-      "directors": [
-        "Phillip Noyce"
-      ],
-      "matched_director": "Phillip Noyce",
-      "actors": [
-        "Harrison Ford",
-        "Anne Archer",
-        "Thora Birch",
-        "Sean Bean",
-        "Patrick Bergin",
-        "Polly Walker"
-      ],
-      "description": "CIA-analist Jack Ryan voorkomt tijdens zijn vakantie in Londen een moordaanslag op de staatssecretaris van Noord-Ierland. Tijdens deze actie doodt Ryan de broer van terrorist Sean Miller. Sean zweert wraak te nemen op Ryan. De terroristen blijken lid te zijn van een splinterpartij van de IRA. Ryan en zijn gezin raken verstrikt in een dodelijk kat-en-muisspel.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-13T22:25:00+00:00",
-      "stop": "2026-11-13T23:55:00+00:00",
-      "channel": "Arte",
-      "title": "Stop Making Sense",
-      "subtitle": "",
-      "directors": [
-        "Jonathan Demme"
-      ],
-      "matched_director": "Jonathan Demme",
-      "actors": [],
-      "description": "Dans le faisceau d'un projecteur, deux chaussures blanches s'avancent d'un pas mesuré, puis s'arrêtent. Une main dépose à côté d'elles une radio-cassette, appuie sur un bouton qui déclenche un rythme beat. Le champ s'élargit et l'on découvre, seule et perdue sur une gigantesque scène entourée de murs nus, la silhouette blanche de David Byrne...",
-      "category": "Documentary"
-    },
     {
       "start": "2026-11-14T23:00:00+00:00",
       "stop": "2026-11-15T00:50:00+00:00",
@@ -215,7 +180,7 @@
     },
     {
       "start": "2026-11-17T19:35:00+00:00",
-      "stop": "2026-11-17T21:55:00+00:00",
+      "stop": "2026-11-17T21:50:00+00:00",
       "channel": "VTM 4",
       "title": "Point Break",
       "subtitle": "",
@@ -233,6 +198,27 @@
       ],
       "description": "In Los Angeles opereert een bende die banken overvalt, en noemt zichzelf de 'ex-presidents' omdat ze bij hun overvallen maskers dragen van Reagan, Carter, Nixon en Johnson. De FBI stelt vast dat de daders surfers moeten zijn en dat is het enige aanknopingspunt. Ze sturen daarom de jonge agent Johnny Utah naar het strand om te infiltreren.",
       "category": "Action"
+    },
+    {
+      "start": "2026-11-21T14:30:00+00:00",
+      "stop": "2026-11-21T16:05:00+00:00",
+      "channel": "BBC Two",
+      "title": "Strangers on a Train",
+      "subtitle": "",
+      "directors": [
+        "Alfred Hitchcock"
+      ],
+      "matched_director": "Alfred Hitchcock",
+      "actors": [
+        "Farley Granger",
+        "Robert Walker",
+        "Ruth Roman",
+        "Leo G. Carroll",
+        "Patricia Hitchcock",
+        "Marion Lorne"
+      ],
+      "description": "A deranged socialite accosts a tennis star with his theory that if two strangers trade murders, they can disguise their motives and avoid suspicion.",
+      "category": "Thriller"
     }
   ]
 }
