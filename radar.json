@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T15:18:25.647544+00:00",
+  "generated_at": "2026-11-15T12:47:35.976647+00:00",
   "window_start": "2026-11-14",
-  "window_end": "2026-11-21",
+  "window_end": "2026-11-22",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,7 +49,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 8,
+  "count": 9,
   "programmes": [
     {
       "start": "2026-11-14T23:00:00+00:00",
@@ -219,6 +219,27 @@
       ],
       "description": "A deranged socialite accosts a tennis star with his theory that if two strangers trade murders, they can disguise their motives and avoid suspicion.",
       "category": "Thriller"
+    },
+    {
+      "start": "2026-11-22T20:10:00+00:00",
+      "stop": "2026-11-22T21:50:00+00:00",
+      "channel": "Arte",
+      "title": "Dunkerque",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Fionn Whitehead",
+        "Damien Bonnard",
+        "Aneurin Barnard",
+        "Tom Hardy",
+        "Tom Glynn-Carney",
+        "Jack Lowden"
+      ],
+      "description": "Mai 1940, alors que la Seconde Guerre mondiale fait rage, les nazis encerclent Dunkerque et exigent que les alliés déposent leurs armes. De l'autre côté de la Manche, une gigantesque opération militaire s'organise pour venir en aide aux 400 000 soldats britanniques, français et belges pris au piège dans la ville portuaire. Et, alors que tout espoir semble perdu pour les infortunés, le miracle se produit. Parmi eux, un père et son fils déterminés à se rendre à destination malgré les nombreux bombardements et les recommandations contraires d'un soldat traumatisé repêché en cours de route.",
+      "category": "War"
     }
   ]
 }
