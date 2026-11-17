@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T18:51:50.037047+00:00",
-  "window_start": "2026-11-15",
-  "window_end": "2026-11-23",
+  "generated_at": "2026-11-17T14:30:52.808609+00:00",
+  "window_start": "2026-11-17",
+  "window_end": "2026-11-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,50 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 6,
+  "count": 5,
   "programmes": [
-    {
-      "start": "2026-11-15T22:30:00+00:00",
-      "stop": "2026-11-16T00:25:00+00:00",
-      "channel": "BBC One",
-      "title": "Another Simple Favor",
-      "subtitle": "",
-      "directors": [
-        "Paul Feig"
-      ],
-      "matched_director": "Paul Feig",
-      "actors": [
-        "Anna Kendrick",
-        "Blake Lively",
-        "Henry Golding",
-        "Andrew Rannells",
-        "Bashir Salahuddin",
-        "Elizabeth Perkins"
-      ],
-      "description": "Stephanie Smothers (Anna Kendrick) and Emily Nelson (Blake Lively) reunite on the beautiful island of Capri, Italy, for Emily's extravagant wedding to a rich Italian businessman. Along with the glamorous guests, expect murder and betrayal to RSVP for a wedding with more twists and turns than the road from the Marina Grande to the Capri town square. Andrew Rannells, Bashir Salahuddin, Elizabeth Perkins, Henry Golding and Allison Janney also star in the hysterical sequel from director Paul Feig.",
-      "category": "Thriller"
-    },
-    {
-      "start": "2026-11-15T22:45:00+00:00",
-      "stop": "2026-11-16T00:50:00+00:00",
-      "channel": "BBC Two",
-      "title": "The Hurt Locker",
-      "subtitle": "",
-      "directors": [
-        "Kathryn Bigelow"
-      ],
-      "matched_director": "Kathryn Bigelow",
-      "actors": [
-        "Jeremy Renner",
-        "Anthony Mackie",
-        "Brian Geraghty",
-        "David Morse",
-        "Evangeline Lilly",
-        "Ralph Fiennes"
-      ],
-      "description": "During the Iraq War, a Sergeant recently assigned to an army bomb squad is put at odds with his squad mates due to his maverick way of handling his work.",
-      "category": "Action"
-    },
     {
       "start": "2026-11-17T19:35:00+00:00",
       "stop": "2026-11-17T21:50:00+00:00",
@@ -176,6 +134,27 @@
       ],
       "description": "Mrs. Edythe Van Hopper, respectable veuve déjà âgée, accompagnée de sa jeune demoiselle de compagnie, est en villégiature à Monte-Carlo dans l'hôtel Côte-d'Azur, lorsque leur chemin croise celui de Maxim de Winter, riche veuf, qui n'a aucun mal à séduire la jeune fille et, dans la foulée, à l'épouser et l'emmener dans sa demeure ancestrale de Manderley, quelque part sur la côte sud-est de l'Angleterre. Les premiers contacts avec le personnel du château, régenté par la peu amène gouvernante Mrs. Danvers, sont glaciaux. Cette dernière, en effet, attachée depuis toujours au service de la précédente Mrs. de Winter, Rebecca, et lui vouant une passion sans limite, même à titre posthume, n'accepte pas l'intrusion de l'«usurpatrice ». Le souvenir de l'épouse disparue et vénérée continue de hanter le château sombre.",
       "category": "Thriller"
+    },
+    {
+      "start": "2026-11-24T19:35:00+00:00",
+      "stop": "2026-11-24T21:55:00+00:00",
+      "channel": "VTM 4",
+      "title": "Mission: Impossible III",
+      "subtitle": "",
+      "directors": [
+        "J.J. Abrams"
+      ],
+      "matched_director": "J.J. Abrams",
+      "actors": [
+        "Tom Cruise",
+        "Philip Seymour Hoffman",
+        "Ving Rhames",
+        "Billy Crudup",
+        "Michelle Monaghan",
+        "Jonathan Rhys Meyers"
+      ],
+      "description": "Speciaal agent Ethan Hunt wil de Impossible Missions Force verlaten om een rustiger leven te kunnen leiden. Maar dan valt de aantrekkelijke en getalenteerde rekruut Lindsey Farris in handen van de lugubere wapenhandelaar Owen Davian. Hunt besluit zijn nieuwe collega te helpen. De tijd dringt, want Davian staat op het punt een deal af te sluiten die hem de ultieme macht over de wereld zou kunnen geven ...",
+      "category": "Action"
     }
   ]
 }
