@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T17:51:01.156763+00:00",
-  "window_start": "2026-11-17",
+  "generated_at": "2026-11-18T14:08:34.646761+00:00",
+  "window_start": "2026-11-21",
   "window_end": "2026-11-24",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
@@ -49,29 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 5,
+  "count": 4,
   "programmes": [
-    {
-      "start": "2026-11-17T19:35:00+00:00",
-      "stop": "2026-11-17T21:50:00+00:00",
-      "channel": "VTM 4",
-      "title": "Point Break",
-      "subtitle": "",
-      "directors": [
-        "Kathryn Bigelow"
-      ],
-      "matched_director": "Kathryn Bigelow",
-      "actors": [
-        "Patrick Swayze",
-        "Keanu Reeves",
-        "Gary Busey",
-        "Lori Petty",
-        "John C. McGinley",
-        "James Le Gros"
-      ],
-      "description": "In Los Angeles opereert een bende die banken overvalt, en noemt zichzelf de 'ex-presidents' omdat ze bij hun overvallen maskers dragen van Reagan, Carter, Nixon en Johnson. De FBI stelt vast dat de daders surfers moeten zijn en dat is het enige aanknopingspunt. Ze sturen daarom de jonge agent Johnny Utah naar het strand om te infiltreren.",
-      "category": "Action"
-    },
     {
       "start": "2026-11-21T14:30:00+00:00",
       "stop": "2026-11-21T16:05:00+00:00",
