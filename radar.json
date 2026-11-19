@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T17:30:02.611791+00:00",
+  "generated_at": "2026-11-19T14:28:44.499151+00:00",
   "window_start": "2026-11-21",
-  "window_end": "2026-11-24",
+  "window_end": "2026-11-26",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,7 +49,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 4,
+  "count": 6,
   "programmes": [
     {
       "start": "2026-11-21T14:30:00+00:00",
@@ -133,6 +133,47 @@
         "Jonathan Rhys Meyers"
       ],
       "description": "Speciaal agent Ethan Hunt wil de Impossible Missions Force verlaten om een rustiger leven te kunnen leiden. Maar dan valt de aantrekkelijke en getalenteerde rekruut Lindsey Farris in handen van de lugubere wapenhandelaar Owen Davian. Hunt besluit zijn nieuwe collega te helpen. De tijd dringt, want Davian staat op het punt een deal af te sluiten die hem de ultieme macht over de wereld zou kunnen geven ...",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-26T19:25:00+00:00",
+      "stop": "2026-11-26T22:53:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Oppenheimer",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Robert Downey Jr.",
+        "Matt Damon",
+        "Alden Ehrenreich",
+        "Scott Grimes"
+      ],
+      "description": "En 1942, convaincus que l'Allemagne nazie est en train de développer une arme nucléaire, les États-Unis initient, dans le plus grand secret, le \"Projet Manhattan\" destiné à mettre au point la première bombe atomique de l'histoire. Pour piloter ce dispositif, le gouvernement engage J. Robert Oppenheimer, brillant physicien, qui sera bientôt surnommé \"le père de la bombe atomique\". C'est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique, que le scientifique et son équipe mettent au point une arme révolutionnaire dont les conséquences, vertigineuses, continuent de peser sur le monde actuel...",
+      "category": "Biography"
+    },
+    {
+      "start": "2026-11-26T19:50:00+00:00",
+      "stop": "2026-11-26T21:50:00+00:00",
+      "channel": "Action",
+      "title": "The Covenant : Mission en Afghanistan",
+      "subtitle": "",
+      "directors": [
+        "Guy Ritchie"
+      ],
+      "matched_director": "Guy Ritchie",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Dar Salim",
+        "Sean Sagar",
+        "Jason Wong",
+        "Rhys Yates"
+      ],
+      "description": "Lorsque son unité est attaquée par des combattants talibans au cours de la recherche d'un dépôt de munitions, le sergent de l'US Army, John Kinley (Jake Gyllenhaal) est gravement blessé. Les talibans à leurs trousses, l'interprète afghan Ahmed (Dar Salim) risque sa propre vie pour le transporter, en terrain hostile, afin de le sauver. Le voyage des deux hommes ne fait que commencer.",
       "category": "Action"
     }
   ]
