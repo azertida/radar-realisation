@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T17:36:10.629110+00:00",
+  "generated_at": "2026-11-20T14:05:02.203932+00:00",
   "window_start": "2026-11-21",
-  "window_end": "2026-11-26",
+  "window_end": "2026-11-27",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,7 +49,7 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 6,
+  "count": 8,
   "programmes": [
     {
       "start": "2026-11-21T14:30:00+00:00",
@@ -174,6 +174,48 @@
         "Rhys Yates"
       ],
       "description": "Lorsque son unité est attaquée par des combattants talibans au cours de la recherche d'un dépôt de munitions, le sergent de l'US Army, John Kinley (Jake Gyllenhaal) est gravement blessé. Les talibans à leurs trousses, l'interprète afghan Ahmed (Dar Salim) risque sa propre vie pour le transporter, en terrain hostile, afin de le sauver. Le voyage des deux hommes ne fait que commencer.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-27T12:35:00+00:00",
+      "stop": "2026-11-27T14:20:00+00:00",
+      "channel": "Arte",
+      "title": "Dunkerque",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Fionn Whitehead",
+        "Damien Bonnard",
+        "Aneurin Barnard",
+        "Tom Hardy",
+        "Tom Glynn-Carney",
+        "Jack Lowden"
+      ],
+      "description": "Mai 1940, alors que la Seconde Guerre mondiale fait rage, les nazis encerclent Dunkerque et exigent que les alliés déposent leurs armes. De l'autre côté de la Manche, une gigantesque opération militaire s'organise pour venir en aide aux 400 000 soldats britanniques, français et belges pris au piège dans la ville portuaire. Et, alors que tout espoir semble perdu pour les infortunés, le miracle se produit. Parmi eux, un père et son fils déterminés à se rendre à destination malgré les nombreux bombardements et les recommandations contraires d'un soldat traumatisé repêché en cours de route.",
+      "category": "War"
+    },
+    {
+      "start": "2026-11-27T21:00:00+00:00",
+      "stop": "2026-11-27T23:25:00+00:00",
+      "channel": "BBC Two",
+      "title": "Gladiator",
+      "subtitle": "",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "matched_director": "Ridley Scott",
+      "actors": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen",
+        "Oliver Reed",
+        "Richard Harris",
+        "Derek Jacobi"
+      ],
+      "description": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders. Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
       "category": "Action"
     }
   ]
