@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T16:21:37.866139+00:00",
-  "window_start": "2026-11-21",
-  "window_end": "2026-11-27",
+  "generated_at": "2026-11-22T13:24:59.034952+00:00",
+  "window_start": "2026-11-22",
+  "window_end": "2026-11-29",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,29 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 8,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-11-21T14:30:00+00:00",
-      "stop": "2026-11-21T16:05:00+00:00",
-      "channel": "BBC Two",
-      "title": "Strangers on a Train",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Farley Granger",
-        "Robert Walker",
-        "Ruth Roman",
-        "Leo G. Carroll",
-        "Patricia Hitchcock",
-        "Marion Lorne"
-      ],
-      "description": "A deranged socialite accosts a tennis star with his theory that if two strangers trade murders, they can disguise their motives and avoid suspicion.",
-      "category": "Thriller"
-    },
     {
       "start": "2026-11-22T20:10:00+00:00",
       "stop": "2026-11-22T21:50:00+00:00",
@@ -216,6 +195,89 @@
         "Derek Jacobi"
       ],
       "description": "In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders. Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-29T17:50:00+00:00",
+      "stop": "2026-11-29T19:50:00+00:00",
+      "channel": "Action",
+      "title": "The Covenant : Mission en Afghanistan",
+      "subtitle": "",
+      "directors": [
+        "Guy Ritchie"
+      ],
+      "matched_director": "Guy Ritchie",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Dar Salim",
+        "Sean Sagar",
+        "Jason Wong",
+        "Rhys Yates"
+      ],
+      "description": "Lorsque son unité est attaquée par des combattants talibans au cours de la recherche d'un dépôt de munitions, le sergent de l'US Army, John Kinley (Jake Gyllenhaal) est gravement blessé. Les talibans à leurs trousses, l'interprète afghan Ahmed (Dar Salim) risque sa propre vie pour le transporter, en terrain hostile, afin de le sauver. Le voyage des deux hommes ne fait que commencer.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-11-29T19:50:00+00:00",
+      "stop": "2026-11-29T22:20:00+00:00",
+      "channel": "Tipik",
+      "title": "Gone Girl",
+      "subtitle": "",
+      "directors": [
+        "David Fincher"
+      ],
+      "matched_director": "David Fincher",
+      "actors": [
+        "Ben Affleck",
+        "Tyler Perry",
+        "Neil Patrick Harris",
+        "Carrie Coon",
+        "Lisa Banes",
+        "Missi Pyle"
+      ],
+      "description": "Amy et Nick sont amoureux et incarnent le couple parfait. Le jour de leur cinquième anniversaire de mariage, Amy disparaît et leur maison est mise à sac. Rapidement, la police considère Nick comme suspect. Chaque élément de leur vie intime est passé au peigne fin et très vite ils se mettent à prendre une nouvelle signification, devenant, aux yeux des forces de l'ordre, autant de preuves que leur relation allait mal. Celui‐ci décide, de son côté, de tout faire pour savoir ce qui est arrivé à Amy et découvre qu'elle lui dissimulait beaucoup de choses.",
+      "category": "Drama"
+    },
+    {
+      "start": "2026-11-29T20:13:00+00:00",
+      "stop": "2026-11-29T23:26:00+00:00",
+      "channel": "TF1",
+      "title": "Oppenheimer",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Robert Downey Jr.",
+        "Matt Damon",
+        "Alden Ehrenreich",
+        "Scott Grimes"
+      ],
+      "description": "En 1942, convaincus que l'Allemagne nazie est en train de développer une arme nucléaire, les États-Unis initient, dans le plus grand secret, le \"Projet Manhattan\" destiné à mettre au point la première bombe atomique de l'histoire. Pour piloter ce dispositif, le gouvernement engage J. Robert Oppenheimer, brillant physicien, qui sera bientôt surnommé \"le père de la bombe atomique\". C'est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique, que le scientifique et son équipe mettent au point une arme révolutionnaire dont les conséquences, vertigineuses, continuent de peser sur le monde actuel...",
+      "category": "Biography"
+    },
+    {
+      "start": "2026-11-29T23:26:00+00:00",
+      "stop": "2026-11-30T02:05:00+00:00",
+      "channel": "TF1",
+      "title": "Tenet",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Juhan Ulfsak",
+        "Jefferson Hall",
+        "Ivo Uukkivi",
+        "Andrew Howard",
+        "John David Washington",
+        "Rich Ceraulo Ko"
+      ],
+      "description": "Le protagoniste de ce film n'a pas de nom. Mais il a une importance cruciale. Espion international, guidé par des maîtres mystérieux, il dispose avant tout d'un mot, Tenet. Ce mot lui permettra de découvrir une énigme temporelle étrange : résoudre des événements qui ne se sont pas encore passés, tout en défaisant des événements déjà survenus. Un casse-tête logique dont bien des vies dépendent...",
       "category": "Action"
     }
   ]
