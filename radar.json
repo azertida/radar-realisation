@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T16:36:24.706548+00:00",
-  "window_start": "2026-11-22",
-  "window_end": "2026-11-29",
+  "generated_at": "2026-11-23T16:03:42.051524+00:00",
+  "window_start": "2026-11-23",
+  "window_end": "2026-11-30",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -51,27 +51,6 @@
   ],
   "count": 11,
   "programmes": [
-    {
-      "start": "2026-11-22T20:10:00+00:00",
-      "stop": "2026-11-22T21:50:00+00:00",
-      "channel": "Arte",
-      "title": "Dunkerque",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "matched_director": "Christopher Nolan",
-      "actors": [
-        "Fionn Whitehead",
-        "Damien Bonnard",
-        "Aneurin Barnard",
-        "Tom Hardy",
-        "Tom Glynn-Carney",
-        "Jack Lowden"
-      ],
-      "description": "Mai 1940, alors que la Seconde Guerre mondiale fait rage, les nazis encerclent Dunkerque et exigent que les alliés déposent leurs armes. De l'autre côté de la Manche, une gigantesque opération militaire s'organise pour venir en aide aux 400 000 soldats britanniques, français et belges pris au piège dans la ville portuaire. Et, alors que tout espoir semble perdu pour les infortunés, le miracle se produit. Parmi eux, un père et son fils déterminés à se rendre à destination malgré les nombreux bombardements et les recommandations contraires d'un soldat traumatisé repêché en cours de route.",
-      "category": "War"
-    },
     {
       "start": "2026-11-23T12:35:00+00:00",
       "stop": "2026-11-23T14:50:00+00:00",
@@ -279,6 +258,27 @@
       ],
       "description": "Le protagoniste de ce film n'a pas de nom. Mais il a une importance cruciale. Espion international, guidé par des maîtres mystérieux, il dispose avant tout d'un mot, Tenet. Ce mot lui permettra de découvrir une énigme temporelle étrange : résoudre des événements qui ne se sont pas encore passés, tout en défaisant des événements déjà survenus. Un casse-tête logique dont bien des vies dépendent...",
       "category": "Action"
+    },
+    {
+      "start": "2026-11-30T01:20:00+00:00",
+      "stop": "2026-11-30T03:10:00+00:00",
+      "channel": "Arte",
+      "title": "Fedora",
+      "subtitle": "",
+      "directors": [
+        "Billy Wilder"
+      ],
+      "matched_director": "Billy Wilder",
+      "actors": [
+        "Marthe Keller",
+        "William Holden",
+        "Jose Ferrer",
+        "Hildegard Knef",
+        "Frances Sternhagen",
+        "Mario Adorf"
+      ],
+      "description": "Barry «Dutch» Detweiler, producteur de cinéma indépendant, a dans l'idée de porter à l'écran le personnage d'Anna Karénine. Pour lui, la seule comédienne susceptible d'endosser le rôle et de convaincre les financeurs est Fedora, une star qui a quitté le devant de l'affiche depuis longtemps pour se retirer à Corfou. Detweiler se rend sur l'île, mais une fois sur place, il rencontre de grandes difficultés pour obtenir un entretien avec Fedora. Les proches de l'actrice lui font barrage, notamment le docteur Vando, connu pour avoir élaboré le miraculeux sérum de jouvence dont la vedette a bénéficié pour conserver une éternelle jeunesse...",
+      "category": "Drama"
     }
   ]
 }
