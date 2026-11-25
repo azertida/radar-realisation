@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T19:41:12.283991+00:00",
-  "window_start": "2026-11-24",
+  "generated_at": "2026-11-25T15:41:29.626542+00:00",
+  "window_start": "2026-11-26",
   "window_end": "2026-12-01",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
@@ -49,29 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 11,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-11-24T19:35:00+00:00",
-      "stop": "2026-11-24T21:55:00+00:00",
-      "channel": "VTM 4",
-      "title": "Mission: Impossible III",
-      "subtitle": "",
-      "directors": [
-        "J.J. Abrams"
-      ],
-      "matched_director": "J.J. Abrams",
-      "actors": [
-        "Tom Cruise",
-        "Philip Seymour Hoffman",
-        "Ving Rhames",
-        "Billy Crudup",
-        "Michelle Monaghan",
-        "Jonathan Rhys Meyers"
-      ],
-      "description": "Speciaal agent Ethan Hunt wil de Impossible Missions Force verlaten om een rustiger leven te kunnen leiden. Maar dan valt de aantrekkelijke en getalenteerde rekruut Lindsey Farris in handen van de lugubere wapenhandelaar Owen Davian. Hunt besluit zijn nieuwe collega te helpen. De tijd dringt, want Davian staat op het punt een deal af te sluiten die hem de ultieme macht over de wereld zou kunnen geven ...",
-      "category": "Action"
-    },
     {
       "start": "2026-11-26T19:25:00+00:00",
       "stop": "2026-11-26T22:53:00+00:00",
