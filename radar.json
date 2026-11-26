@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T18:48:49.056728+00:00",
+  "generated_at": "2026-11-26T15:22:53.230189+00:00",
   "window_start": "2026-11-26",
-  "window_end": "2026-12-01",
+  "window_end": "2026-12-03",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,11 +49,11 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 10,
+  "count": 11,
   "programmes": [
     {
-      "start": "2026-11-26T19:25:00+00:00",
-      "stop": "2026-11-26T22:53:00+00:00",
+      "start": "2026-11-26T19:30:00+00:00",
+      "stop": "2026-11-26T22:51:00+00:00",
       "channel": "RTL TVI",
       "title": "Oppenheimer",
       "subtitle": "",
@@ -176,8 +176,8 @@
       "category": "Drama"
     },
     {
-      "start": "2026-11-29T20:13:00+00:00",
-      "stop": "2026-11-29T23:26:00+00:00",
+      "start": "2026-11-29T20:10:00+00:00",
+      "stop": "2026-11-29T23:25:00+00:00",
       "channel": "TF1",
       "title": "Oppenheimer",
       "subtitle": "",
@@ -197,7 +197,7 @@
       "category": "Biography"
     },
     {
-      "start": "2026-11-29T23:26:00+00:00",
+      "start": "2026-11-29T23:25:00+00:00",
       "stop": "2026-11-30T02:05:00+00:00",
       "channel": "TF1",
       "title": "Tenet",
@@ -258,6 +258,27 @@
       ],
       "description": "Always unlucky in love, Kate takes a job as a department store elf during the Christmas season, only to find her life changed by the charming Tom. But sometimes, you gotta let the snow fall where it may, you gotta listen to your heart ... and have faith.",
       "category": "Comedy"
+    },
+    {
+      "start": "2026-12-03T21:41:00+00:00",
+      "stop": "2026-12-04T01:04:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Oppenheimer",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Robert Downey Jr.",
+        "Matt Damon",
+        "Alden Ehrenreich",
+        "Scott Grimes"
+      ],
+      "description": "En 1942, convaincus que l'Allemagne nazie est en train de développer une arme nucléaire, les États-Unis initient, dans le plus grand secret, le \"Projet Manhattan\" destiné à mettre au point la première bombe atomique de l'histoire. Pour piloter ce dispositif, le gouvernement engage J. Robert Oppenheimer, brillant physicien, qui sera bientôt surnommé \"le père de la bombe atomique\". C'est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique, que le scientifique et son équipe mettent au point une arme révolutionnaire dont les conséquences, vertigineuses, continuent de peser sur le monde actuel...",
+      "category": "Biography"
     }
   ]
 }
