@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T18:36:28.100141+00:00",
-  "window_start": "2026-11-26",
-  "window_end": "2026-12-03",
+  "generated_at": "2026-11-27T15:10:34.117818+00:00",
+  "window_start": "2026-11-27",
+  "window_end": "2026-12-04",
   "source": "Pickx via iptv-org/epg",
   "watchlist_size": 43,
   "watchlist": [
@@ -49,49 +49,8 @@
     "Billy Wilder",
     "Hugh Wilson"
   ],
-  "count": 11,
+  "count": 12,
   "programmes": [
-    {
-      "start": "2026-11-26T19:30:00+00:00",
-      "stop": "2026-11-26T22:51:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Oppenheimer",
-      "subtitle": "",
-      "directors": [
-        "Christopher Nolan"
-      ],
-      "matched_director": "Christopher Nolan",
-      "actors": [
-        "Cillian Murphy",
-        "Emily Blunt",
-        "Robert Downey Jr.",
-        "Matt Damon",
-        "Alden Ehrenreich",
-        "Scott Grimes"
-      ],
-      "description": "En 1942, convaincus que l'Allemagne nazie est en train de développer une arme nucléaire, les États-Unis initient, dans le plus grand secret, le \"Projet Manhattan\" destiné à mettre au point la première bombe atomique de l'histoire. Pour piloter ce dispositif, le gouvernement engage J. Robert Oppenheimer, brillant physicien, qui sera bientôt surnommé \"le père de la bombe atomique\". C'est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique, que le scientifique et son équipe mettent au point une arme révolutionnaire dont les conséquences, vertigineuses, continuent de peser sur le monde actuel...",
-      "category": "Biography"
-    },
-    {
-      "start": "2026-11-26T19:50:00+00:00",
-      "stop": "2026-11-26T21:50:00+00:00",
-      "channel": "Action",
-      "title": "The Covenant : Mission en Afghanistan",
-      "subtitle": "",
-      "directors": [
-        "Guy Ritchie"
-      ],
-      "matched_director": "Guy Ritchie",
-      "actors": [
-        "Jake Gyllenhaal",
-        "Dar Salim",
-        "Sean Sagar",
-        "Jason Wong",
-        "Rhys Yates"
-      ],
-      "description": "Lorsque son unité est attaquée par des combattants talibans au cours de la recherche d'un dépôt de munitions, le sergent de l'US Army, John Kinley (Jake Gyllenhaal) est gravement blessé. Les talibans à leurs trousses, l'interprète afghan Ahmed (Dar Salim) risque sa propre vie pour le transporter, en terrain hostile, afin de le sauver. Le voyage des deux hommes ne fait que commencer.",
-      "category": "Action"
-    },
     {
       "start": "2026-11-27T12:35:00+00:00",
       "stop": "2026-11-27T14:20:00+00:00",
@@ -155,8 +114,8 @@
       "category": "Action"
     },
     {
-      "start": "2026-11-29T19:50:00+00:00",
-      "stop": "2026-11-29T22:20:00+00:00",
+      "start": "2026-11-29T19:47:00+00:00",
+      "stop": "2026-11-29T22:13:00+00:00",
       "channel": "Tipik",
       "title": "Gone Girl",
       "subtitle": "",
@@ -176,8 +135,8 @@
       "category": "Drama"
     },
     {
-      "start": "2026-11-29T20:10:00+00:00",
-      "stop": "2026-11-29T23:25:00+00:00",
+      "start": "2026-11-29T20:11:00+00:00",
+      "stop": "2026-11-29T23:26:00+00:00",
       "channel": "TF1",
       "title": "Oppenheimer",
       "subtitle": "",
@@ -197,8 +156,8 @@
       "category": "Biography"
     },
     {
-      "start": "2026-11-29T23:25:00+00:00",
-      "stop": "2026-11-30T02:05:00+00:00",
+      "start": "2026-11-29T23:26:00+00:00",
+      "stop": "2026-11-30T02:07:00+00:00",
       "channel": "TF1",
       "title": "Tenet",
       "subtitle": "",
@@ -279,6 +238,69 @@
       ],
       "description": "En 1942, convaincus que l'Allemagne nazie est en train de développer une arme nucléaire, les États-Unis initient, dans le plus grand secret, le \"Projet Manhattan\" destiné à mettre au point la première bombe atomique de l'histoire. Pour piloter ce dispositif, le gouvernement engage J. Robert Oppenheimer, brillant physicien, qui sera bientôt surnommé \"le père de la bombe atomique\". C'est dans le laboratoire ultra-secret de Los Alamos, au cœur du désert du Nouveau-Mexique, que le scientifique et son équipe mettent au point une arme révolutionnaire dont les conséquences, vertigineuses, continuent de peser sur le monde actuel...",
       "category": "Biography"
+    },
+    {
+      "start": "2026-12-04T07:47:00+00:00",
+      "stop": "2026-12-04T09:47:00+00:00",
+      "channel": "Action",
+      "title": "The Covenant : Mission en Afghanistan",
+      "subtitle": "",
+      "directors": [
+        "Guy Ritchie"
+      ],
+      "matched_director": "Guy Ritchie",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Dar Salim",
+        "Sean Sagar",
+        "Jason Wong",
+        "Rhys Yates"
+      ],
+      "description": "Lorsque son unité est attaquée par des combattants talibans au cours de la recherche d'un dépôt de munitions, le sergent de l'US Army, John Kinley (Jake Gyllenhaal) est gravement blessé. Les talibans à leurs trousses, l'interprète afghan Ahmed (Dar Salim) risque sa propre vie pour le transporter, en terrain hostile, afin de le sauver. Le voyage des deux hommes ne fait que commencer.",
+      "category": "Action"
+    },
+    {
+      "start": "2026-12-04T12:35:00+00:00",
+      "stop": "2026-12-04T14:20:00+00:00",
+      "channel": "Arte",
+      "title": "Dunkerque",
+      "subtitle": "",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "matched_director": "Christopher Nolan",
+      "actors": [
+        "Fionn Whitehead",
+        "Damien Bonnard",
+        "Aneurin Barnard",
+        "Tom Hardy",
+        "Tom Glynn-Carney",
+        "Jack Lowden"
+      ],
+      "description": "Mai 1940, alors que la Seconde Guerre mondiale fait rage, les nazis encerclent Dunkerque et exigent que les alliés déposent leurs armes. De l'autre côté de la Manche, une gigantesque opération militaire s'organise pour venir en aide aux 400 000 soldats britanniques, français et belges pris au piège dans la ville portuaire. Et, alors que tout espoir semble perdu pour les infortunés, le miracle se produit. Parmi eux, un père et son fils déterminés à se rendre à destination malgré les nombreux bombardements et les recommandations contraires d'un soldat traumatisé repêché en cours de route.",
+      "category": "War"
+    },
+    {
+      "start": "2026-12-04T23:35:00+00:00",
+      "stop": "2026-12-05T01:00:00+00:00",
+      "channel": "BBC One",
+      "title": "Planes, Trains & Automobiles",
+      "subtitle": "",
+      "directors": [
+        "John Hughes",
+        "John Hugues"
+      ],
+      "matched_director": "John Hughes",
+      "actors": [
+        "Steve Martin",
+        "John Candy",
+        "William Windom",
+        "Michael McKean",
+        "Edie McClurg",
+        "Kevin Bacon"
+      ],
+      "description": "Comedy film starring Steve Martin and John Candy trying to get home for Thanksgiving after flights are cancelled due to bad weather.",
+      "category": "Comedy"
     }
   ]
 }
